@@ -3,9 +3,8 @@ The README is nearly always the most overlooked and often neglected last part of
 
 *If you're just looking for an empty formatted README template, you can find it [here](TemplateREADME.md).
 
-| Title | Markdown | Screenshot |
-|------------| ---------|------------|
-| Bad Header |  <img src="./home_screenshot.jpg" width="600"> | <h3 align="center"><img src="./home_screenshot.jpg" width="600"></h3> | <h3 align="center"><img src="./home_screenshot.jpg" width="600"></h3>
-| Good Header |  <img src="./home_screenshot.jpg" width="600"> | <h3 align="center"><img src="./home_screenshot.jpg" width="600"></h3> | <h3 align="center"><img src="./home_screenshot.jpg" width="600"></h3>
-| Bad Header |  <img src="./home_screenshot.jpg" width="600"> | <h3 align="center"><img src="./home_screenshot.jpg" width="600"></h3> | <h3 align="center"><img src="./home_screenshot.jpg" width="600"></h3>
-
+| Title      | Screenshot |
+|------------|------------|
+| Bad Header |  <img src="./home_screenshot.jpg" width="1000"> | 
+| Good Header |  <img src="./home_screenshot.jpg" width="1000"> | 
+ 
