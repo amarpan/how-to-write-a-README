@@ -10,8 +10,8 @@ __________ is a __________ where __________ can do __________. Keep this short t
 <details>
  <summary>ERD</summary>
  
- | Description | Screenshot |
- |------------ | ------------|
+ | Description | Screenshot
+ |------------ | ------------| -----|
  | <h3 align="center">ERD</h3> | <img src="./ERD.Tracker.Example.jpg" width="600">
  <!--  -->
  
@@ -43,24 +43,24 @@ __________ is a __________ where __________ can do __________. Keep this short t
 
 ## Getting Started
 
-<details>
-<summary>How to Create a Post</summary>
+<details open>
+<summary>How to Make a _____</summary>
  
-1. Type in your answers to each of the 3 randomly-generated mini-survey questions. 
+1.  
  
-2. Click on "Add Survey" to post your responses so others may see them.
+2. 
  
-3. Click on the "X" in the bottom-right corner to delete a post. 
+3. 
 </details>
 
-<details>
-<summary>How to Interact With Others' Posts</summary>
+<details open>
+<summary>How to Delete a ______</summary>
  
-1.  Posts may be "liked" or "disliked" by clicking on the thumbs up or down button on their card.
+1.  
  
-2. To reveal the author of a post, hover over the "Who could it possibly be?" button.
+2. 
  
-3. To see more posts by the same user, click on the revealed username and profile picture.
+3. 
 
  
 </details>
