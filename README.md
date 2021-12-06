@@ -3,12 +3,9 @@ The README is nearly always the most overlooked and often neglected last part of
 
 *If you're just looking for an empty formatted README template, you can find it [here](TemplateREADME.md).
 
-| Markdown | Screenshot | Markdown | Screenshot|
-|----------| -----------|----------|-----------|
- | <h3 align="center"><img src="./home_screenshot.jpg" width="600"></h3> | <img src="./home_screenshot.jpg" width="600"> | <h3 align="center"><img src="./home_screenshot.jpg" width="600"></h3> | <h3 align="center"><img src="./home_screenshot.jpg" width="600"></h3>
- | <h3 align="center">To Do List</h3> | <img src="./todos_list_screenshot.jpg" width="600">
- | <h3 align="center">To Do Details</h3> | <img src="./todo_details_screenshot.jpg" width="600">
- | <h3 align="center">Add a Note</h3> | <img src="./note_add_screenshot.jpg" width="600"> 
-
-
+| Title | Markdown | Screenshot |
+|------------| ---------|------------|
+| Bad Header |  <img src="./home_screenshot.jpg" width="600"> | <h3 align="center"><img src="./home_screenshot.jpg" width="600"></h3> | <h3 align="center"><img src="./home_screenshot.jpg" width="600"></h3>
+| Good Header |  <img src="./home_screenshot.jpg" width="600"> | <h3 align="center"><img src="./home_screenshot.jpg" width="600"></h3> | <h3 align="center"><img src="./home_screenshot.jpg" width="600"></h3>
+| Bad Header |  <img src="./home_screenshot.jpg" width="600"> | <h3 align="center"><img src="./home_screenshot.jpg" width="600"></h3> | <h3 align="center"><img src="./home_screenshot.jpg" width="600"></h3>
 
