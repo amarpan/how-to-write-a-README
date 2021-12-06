@@ -5,7 +5,7 @@ The README is nearly always the most overlooked and often neglected last part of
 
 | Title      | Screenshot |
 |------------|------------|
-| Good Header |  <img src="" width="1500"> | 
+| Good Header |  <img src="./images/GoodHeader.png" width="1500"> | 
 | Note:      | Integrate `<h1 align="center">` to center text | test test
 | Note:      | Use emojis by typing in `:emojiname:` test
 
