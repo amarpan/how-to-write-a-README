@@ -5,6 +5,10 @@ Thus, today we'll take a look at how to clean-up an existing README so that it l
 
 ## <h2  align="center">Good Header</h2>
 
+| From this     | To this      |
+|---------------|--------------|
+| <img src="">. | <img src=""> |
+
  <img src="./images/GoodHeader.png">
  
 |            | Instructions |
