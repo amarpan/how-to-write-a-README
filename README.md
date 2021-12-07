@@ -1,12 +1,19 @@
-# How to Fix your README for a Bootcamp Project
-The README is nearly always the most overlooked and often neglected last part of a project. Yet, it is a critical part of any portfolio for an employer to get an idea of what kind of work you produce. Thus, today we're going to take a quick look at how to clean-up a README that was clearly assembled at the very last minute. 
+# How to Fix a README
+The README is often the most overlooked and underrated aspect of a web dev project. And yet, it is what employers directly look at when assessing one's technical competency as a software engineer.
 
-*This tutorial assumes you already have some semblance of a README. For an empty formatted README template, you can find it [here](TemplateREADME.md).
+Thus, today we'll take a look at how to clean-up an existing README so that it looks presentable.
 
-| Title      | Screenshot |
-|------------|------------|
-| Bad Header |  <img src="./images/" width="1500"> | 
-| Good Header |  <img src="./images/GoodHeader.png" width="1500" > | 
+## <h2  align="center">Good Header</h2>
+
+| From this     | To this      |
+|---------------|--------------|
+| <img src="">. | <img src=""> |
+
+ <img src="./images/GoodHeader.png">
+ 
+|            | Instructions |
+|------------|--------------|
 | Note:      | Integrate styling with `<h1 align="center">` to center text | test test
-| Note:      | Use emojis by typing in `:emojiname:` to see them in VS code download extension named 'Markdown Emoji.'
+| Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` -> :school:
+
 
