@@ -3,10 +3,13 @@ The README is nearly always the most overlooked and often neglected last part of
 
 *If you're just looking for an empty formatted README template, you can find it [here](TemplateREADME.md).
 
-| Title      | Screenshot |
+## <h2  align="center">Good Header</h2>
+
+ <img src="./images/GoodHeader.png">
+ 
+| Note:     | Instructions |
 |------------|------------|
-| Bad Header |  <img src="./images/" width="1500"> | 
-| Good Header |  <img src="./images/GoodHeader.png" width="1500" height="120"> | 
 | Note:      | Integrate styling with `<h1 align="center">` to center text | test test
-| Note:      | Use emojis by typing in `:emojiname:`
+| Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` -> :school:
+
 
