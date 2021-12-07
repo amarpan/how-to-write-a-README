@@ -3,11 +3,13 @@ The README is often the most overlooked and underrated aspect of a web dev proje
 
 Thus, today we'll take a look at how to clean-up an existing README so that it looks presentable.
 
-## <h2  align="center">Good Header</h2>
+
 
 | From this     | To this      |
 |---------------|--------------|
-| <img src="">. | <img src=""> |
+| <img src="./images/FullGoodREADME.png"> | <img src="./images/FullGoodREADME.png"> |
+
+## <h2  align="center">Good Header</h2>
 
  <img src="./images/GoodHeader.png">
  
@@ -15,5 +17,4 @@ Thus, today we'll take a look at how to clean-up an existing README so that it l
 |------------|--------------|
 | Note:      | Integrate styling with `<h1 align="center">` to center text | test test
 | Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` -> :school:
-
 
