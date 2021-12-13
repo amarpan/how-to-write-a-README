@@ -25,7 +25,7 @@ Thus, today we'll take a look at how to clean-up an existing README so that it l
 
 |            | Instructions |
 |------------|--------------|
-| Note:      | Use tables with vertical line markers to add captions to your pictures 
+| Note:      | To set up a  table, use `\| Description \| Screenshot \| ` followed by `\|---\|---\|` followed by `\| <caption> \| <image> \|`
 | Note:      | Whatever is placed in between `<details></details> ` will be put into a closed drop-down menu. The title for this should be placed in between `<summary></summary>` 
 | Note:      | To have a drop-down menu display by default without the user having to click it, add `<details open>` 
 
@@ -35,4 +35,12 @@ Thus, today we'll take a look at how to clean-up an existing README so that it l
 
 |            | Instructions |
 |------------|--------------|
-| Note:      | 1.  Use numbers as opposed to lengthy paragraphs to make sure this part is actually readable
+| Note:      | Use number lists as opposed to lengthy paragraphs to make sure this section is easily readable
+
+## <h2  align="center">Technologies Used - Bad vs Good</h2>
+ <img src="./images/BAD-TECHNOLOGIES-USED.png">    
+ <img src="./images/GOOD-TECHNOLOGIES-USED.png">    
+
+|            | Instructions |
+|------------|--------------|
+| Note:      | Separate each technology used with a `\|` to avoid making your README unnecessarily long 
