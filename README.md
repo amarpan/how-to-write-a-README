@@ -9,9 +9,9 @@ Thus, today we'll take a look at how to clean-up an existing README so that it l
 |---------------|--------------|
 | <img src="./images/FullBadREADME.png"> | <img src="./images/FullGoodREADME.png"> |
 
-## <h2  align="center">Bad Header</h2>
+## <h2  align="center">Header - Bad vs Good</h2>
  <img src="./images/BAD-HEADER.png">    
-## <h2  align="center">Good Header</h2>
+ 
  <img src="./images/GOOD-HEADER.png">
  
 |            | Instructions |
@@ -19,3 +19,12 @@ Thus, today we'll take a look at how to clean-up an existing README so that it l
 | Note:      | Integrate styling with `<h1 align="center">` to center text |
 | Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school:
 
+## <h2  align="center">Screenshots - Bad vs Good</h2>
+ <img src="./images/BAD-SCREENSHOTS.png">    
+ <img src="./images/GOOD-SCREENSHOTS.png">
+
+ |            | Instructions |
+|------------|--------------|
+| Note:      | Use tables with vertical line markers to add captions to your pictures 
+| Note:      | Whatever is placed in between `<details></details> ` will be pUT into a closed drop-down menu. The title for this should be placed in between `<summary></summary>` 
+| Note:      | To have a drop-down menu display by default without the user having to click it, add `<details open>` 
