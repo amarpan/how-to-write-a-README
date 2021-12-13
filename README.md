@@ -1,4 +1,4 @@
-# HOW TO FIX A README
+# How to Fix a README
 ###### by Amar Pan
 The README is often the most overlooked and underrated aspect of a web dev project. And yet, it is what employers directly look at when assessing one's technical competency as a software engineer.
 
