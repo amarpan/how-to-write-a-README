@@ -5,16 +5,17 @@ Thus, today we'll take a look at how to clean-up an existing README so that it l
 
 
 
-| From this     | To this      |
+| From this:     | To this:      |
 |---------------|--------------|
-| <img src="./images/FullGoodREADME.png"> | <img src="./images/FullGoodREADME.png"> |
+| <img src="./images/FullBadREADME.png"> | <img src="./images/FullGoodREADME.png"> |
 
-## <h2  align="center">Good Header</h2>
+## <h2  align="center">BAD & Good Headers</h2>
 
- <img src="./images/GoodHeader.png">
+ 
+ <img src="./images/BAD-GOOD-HEADERS.png">
  
 |            | Instructions |
 |------------|--------------|
-| Note:      | Integrate styling with `<h1 align="center">` to center text | test test
-| Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` -> :school:
+| Note:      | Integrate styling with `<h1 align="center">` to center text |
+| Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school:
 
