@@ -1,7 +1,9 @@
 # How to Fix a README
 The README is often the most overlooked and underrated aspect of a web dev project. And yet, it is what employers directly look at when assessing one's technical competency as a software engineer.
 
-Thus, today we'll take a look at how to clean-up an existing README so that it looks presentable.
+Thus, today we'll take a look at how to clean-up an existing README so that it looks presentable.   
+
+***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my template [here](). 
 
 
 
@@ -44,3 +46,21 @@ Thus, today we'll take a look at how to clean-up an existing README so that it l
 |            | Instructions |
 |------------|--------------|
 | Note:      | Separate each technology used with a `\|` to avoid making your README unnecessarily long 
+
+## <h2  align="center">Resources - Bad vs Good</h2>
+ <img src="./images/BAD-RESOURCES.png">    
+ <img src="./images/GOOD-RESOURCES.png">    
+
+|            | Instructions |
+|------------|--------------|
+| Note:      | Put your links in more drop-down menus using `<details open>` and `<summary>`
+| Note:      | Try to choose something simple and memorable when choosing your URL / link name
+
+## <h2  align="center">Next Steps - Bad vs Good</h2>
+ <img src="./images/BAD-NEXT-STEPS.png">    
+ <img src="./images/GOOD-NEXT-STEPS.png">    
+
+|            | Instructions |
+|------------|--------------|
+| Note:      | Try to avoid using the word "icebox", as most non-technical users won't know what this means
+| Note:      | Avoid paragraphs and instead use bullet points to make it immediately clear what each new feature would be
