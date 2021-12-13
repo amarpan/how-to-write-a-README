@@ -1,5 +1,5 @@
 # How to Fix a README
-###### by Amar Pan
+###### by [Amar Pan](https://www.linkedin.com/in/amarpan/)
 The README is often the most overlooked and underrated aspect of a web dev project. And yet, it is what employers directly look at when assessing one's technical competency as a software engineer.
 
 Thus, today we'll take a look at how to clean-up an existing README so that it looks presentable.   
