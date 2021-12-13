@@ -9,10 +9,10 @@ Thus, today we'll take a look at how to clean-up an existing README so that it l
 |---------------|--------------|
 | <img src="./images/FullBadREADME.png"> | <img src="./images/FullGoodREADME.png"> |
 
-## <h2  align="center">BAD & Good Headers</h2>
-
- 
- <img src="./images/BAD-GOOD-HEADERS.png">
+## <h2  align="center">Bad Header</h2>
+ <img src="./images/BAD-HEADER.png">    
+## <h2  align="center">Good Header</h2>
+ <img src="./images/GOOD-HEADER.png">
  
 |            | Instructions |
 |------------|--------------|
