@@ -79,4 +79,4 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 ## <h2  align="center">The Final Product</h2>
  <img src="./images/GOOD-FULL-README.png">    
  
-Today we learned how to convert an average README into one that instantly catches the eyes of employers. Although we can't use proper CSS to change colors and styles, you'll quickly find that we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts . 
+Today we learned how to convert an average README into one that instantly catches the eyes of employers. Although we can't use proper CSS to change colors and styles, you'll quickly find that we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts. 
