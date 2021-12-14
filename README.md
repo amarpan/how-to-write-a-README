@@ -1,11 +1,13 @@
-# <h1 align="center"><img src="./images/GAfavicon.ico">  How to Fix a GA Bootcamp Project README <img src="./images/GAfavicon.ico"></h1>
+# <h1 align="center"><img src="./images/GAfavicon.ico">  How to Fix a GA SEI Bootcamp Project README <img src="./images/GAfavicon.ico"></h1>
 <!-- ###### <h6 align="center">by</h6> -->
 ###### <h6 align="center"> [Amar Pan - GA SEI '21](https://www.linkedin.com/in/amarpan/)</h6>
 The README is often the most overlooked and underestimated aspect of a web dev project, frequently left until the very last minute. And yet, it is what employers directly look at when assessing one's technical competency as a software engineer.
 
 Thus, today we'll take a look at how to clean-up an existing README so that it becomes eye-candy rather than an eye-sore.   
 
-***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template). 
+***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template).    
+
+***For a quick review of how to use Markdown, go [here](https://www.markdowntutorial.com/).
 
 
 
@@ -13,10 +15,10 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 |---------------|--------------|
 | <img src="./images/FullBadREADME.png"> | <img src="./images/FullGoodREADME.png"> | -->
 
-## <h2  align="center">Header
- <img src="./images/BAD-HEADER.png">    
+## <h2  align="center">Description</h2>
+ <img src="./images/BAD-DESCRIPTION.png">    
  
- <img src="./images/GOOD-HEADER.png">
+ <img src="./images/GOOD-DESCRIPTION.png">
  
 |            | Instructions |
 |------------|--------------|
@@ -38,18 +40,11 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 |            | `\| Description \| Screenshot\|` |
 |            |`\|-------------\|-----------\|`|
 |            |`\|   caption   \|   image   \|`|
-| Note:      | Whatever is placed in between `<details></details> ` will be put into a closed drop-down menu. The title for this should be placed in between `<summary></summary>`. 
+| Note:      | Whatever is placed in between `<details></details> ` will be hidden beneath a closed drop-down menu, until its arrow is clicked on. The title for this should be placed in between `<summary></summary>`. 
 | Note:      | To have a drop-down menu display by default without the user having to click it, add the word 'open' to the details tag.
 |            |Ex. `<details>`  -->  `<details open>` 
-| Note:      |Images can also be resized with `<img src="" width="300" height="400">`
-
-## <h2  align="center">Getting Started</h2>
- <img src="./images/BAD-GETTING-STARTED.png">    
- <img src="./images/GOOD-GETTING-STARTED.png">    
-
-|            | Instructions |
-|------------|--------------|
-| Note:      | Use number lists as opposed to lengthy paragraphs to make sure this section is easily readable.
+| Note:      |Image dimensions can also be resized by specifying width and height.| 
+|            |Ex. `<img src="" width="300" height="400">`| 
 
 ## <h2  align="center">Technologies Used</h2>
  <img src="./images/BAD-TECHNOLOGIES-USED.png">    
@@ -59,14 +54,15 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 |------------|--------------|
 | Note:      | Separate each technology used with a `\|`(vertical bar) to avoid making your README unnecessarily lengthy.
 
-## <h2  align="center">Resources</h2>
- <img src="./images/BAD-RESOURCES.png">    
- <img src="./images/GOOD-RESOURCES.png">    
+## <h2  align="center">Getting Started</h2>
+ <img src="./images/BAD-GETTING-STARTED.png">    
+ <img src="./images/GOOD-GETTING-STARTED.png">    
 
 |            | Instructions |
 |------------|--------------|
+| Note:      | Use number lists as opposed to lengthy paragraphs to make sure this section is easily readable.
 | Note:      | Put your links in more drop-down menus using `<details open>` and `<summary>`
-| Note:      | Try to choose something simple and memorable when choosing your URL / link name..
+| Note:      | Try to choose something simple and memorable when choosing your Heroku URL / link name.
 
 ## <h2  align="center">Next Steps</h2>
  <img src="./images/BAD-NEXT-STEPS.png">    
@@ -74,8 +70,8 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 
 |            | Instructions |
 |------------|--------------|
-| Note:      | Try to avoid using the word "icebox", as most non-technical users won't know what this means.
-| Note:      | Avoid paragraphs and instead use bullet points to make it immediately clear what each new feature would be.
+| Note:      | Try to avoid using the word "icebox", as most non-technical users probably won't know what this means.
+| Note:      | Use bullet points rather than paragraphs to make it immediately clear what each new feature would be.
 
 ## <h2  align="center">The Final Product</h2>
  <img src="./images/GOOD-FULL-README.png">    

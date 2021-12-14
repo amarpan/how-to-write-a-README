@@ -37,6 +37,9 @@ Meet Your Classmates is an Instagram-clone and hub where students can get to kno
  
 </details>
 
+## Technologies Used
+MongoDB Atlas | Express | React | Node.js | Semantic UI | JSX | Mongoose ODM | JWT Auth | AWS S3 | Heroku | draw.io | Lucidchart | Javascript | HTML | CSS | ~~Lots of Advil~~
+
 
 ## Getting Started
 
@@ -62,13 +65,6 @@ Meet Your Classmates is an Instagram-clone and hub where students can get to kno
  
 </details>
  
-## Technologies Used
-React | Semantic UI | JSX | Express | MongoDB | Mongoose | Node.js | JWT Auth | AWS | Heroku | draw.io | Lucidchart | Javascript | HTML | CSS | ~~Punching Bag~~
-
-
-
-
-## Resources
 <details>
 <summary>Trello Board</summary>
 <a href="https://trello.com/b/x4ViComX/meet-your-classmates-project-4">https://trello.com/b/x4ViComX/meet-your-classmates-project-4</a>
