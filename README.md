@@ -19,7 +19,7 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
  
 |            | Instructions |
 |------------|--------------|
-| Note:      | Each '`#`' stands for a header of that number in HTML | 
+| Note:      | Each `#` stands for a header of that number in HTML | 
 |            | Ex. `#` is equivalent to \<h1> |
 |            | Ex. `######` is equivalent to \<h6>|
 | Note:      | Integrate styling with `<h1 align="center">` to center text |
@@ -56,7 +56,7 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 
 |            | Instructions |
 |------------|--------------|
-| Note:      | Separate each technology used with a `'\|'`(vertical bar) to avoid making your README unnecessarily long 
+| Note:      | Separate each technology used with a `\|`(vertical bar) to avoid making your README unnecessarily long 
 
 ## <h2  align="center">Resources</h2>
  <img src="./images/BAD-RESOURCES.png">    
