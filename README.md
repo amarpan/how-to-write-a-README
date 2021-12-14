@@ -1,19 +1,13 @@
 # <h1 align="center">How to Fix a GA SEI Bootcamp Project README</h1>
 <!-- ###### <h6 align="center">by</h6> -->
 ###### <h6 align="center"> [Amar Pan - GA SEI '21](https://www.linkedin.com/in/amarpan/)</h6>
-The README is often the most overlooked and underestimated aspect of a web dev project, frequently left until the very last minute. And yet, it is what employers directly look at when assessing one's technical competency as a software engineer.
+The README is often the most overlooked and underestimated aspect of a web dev project, frequently left until the very last minute. And yet, it is what employers immediately look at when assessing one's technical competency as a software engineer.
 
-Thus, today we'll take a look at how to clean-up an existing README so that it becomes eye-candy rather than an eye-sore.   
+Thus, today we'll take a look at how to clean up an existing README so that it becomes eye-candy rather than an eye-sore.   
 
 ***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template).    
 
 ***For a quick review of how to use Markdown, go [here](https://www.markdowntutorial.com/).
-
-
-
-<!-- | From this:     | To this:      |
-|---------------|--------------|
-| <img src="./images/FullBadREADME.png"> | <img src="./images/FullGoodREADME.png"> | -->
 
 ## <h2  align="center">Description</h2>
  <img src="./images/BAD-DESCRIPTION.png">    
@@ -28,7 +22,7 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 | Note:      | Integrate styling with `<h1 align="center">` to center text. |
 | Note:      | Add your deployed link directly to the top here - many users won't scroll all the way down to find it.
 | Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school:
-|         | While emojis automatically show on GitHub, to see them on VS Code one needs to install an extension like 'Markdown Emoji' by Matt Bierner
+|         | While emojis automatically show on GitHub, to see them on VS Code one needs to install an extension like [this](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji).
 |            | A full list of available emojis can be found [here](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
 ## <h2  align="center">Screenshots</h2>
@@ -62,7 +56,7 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 |            | Instructions |
 |------------|--------------|
 | Note:      | Use number lists as opposed to lengthy paragraphs to make sure this section is easily readable.
-| Note:      | Put your links in more drop-down menus using `<details open>` and `<summary>`
+| Note:      | Put your links in more drop-down menus using `<details open>` and `<summary>`.
 | Note:      | Try to choose something simple and memorable when choosing your Heroku URL / link name.
 
 ## <h2  align="center">Next Steps</h2>
