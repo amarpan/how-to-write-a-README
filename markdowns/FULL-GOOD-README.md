@@ -1,5 +1,5 @@
 # <h1 align="center">:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>
- #### <h3 align="center">https://meetyourclassmates.herokuapp.com/</h3>
+### <h3 align="center">https://meetyourclassmates.herokuapp.com/</h3>
  <h5 align="center">Amar 'Pan' Panjwani</h5>
 
 ## Introduction
@@ -27,7 +27,7 @@ Meet Your Classmates is an Instagram-clone and hub where students can get to kno
  
 </details>
 
-<details>
+<details open>
  <summary>Functionality</summary>
  
  | Description | Screenshot |

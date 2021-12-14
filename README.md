@@ -1,7 +1,7 @@
-# <h1 align="center">How to Fix a README</h1>
+# <h1 align="center">How to Fix a GA Bootcamp Project README</h1>
 <!-- ###### <h6 align="center">by</h6> -->
 ###### <h6 align="center"> [Amar Pan - GA SEI '21](https://www.linkedin.com/in/amarpan/)</h6>
-The README is often the most overlooked and shunned aspect of a web dev project. And yet, it is what employers directly look at when assessing one's technical competency as a software engineer.
+The README is often the most overlooked and shunned aspect of a web dev project, frequently left until the very last minute. And yet, it is what employers directly look at when assessing one's technical competency as a software engineer.
 
 Thus, today we'll take a look at how to clean-up an existing README so that it becomes eye-candy rather than an eye-sore.   
 
@@ -21,8 +21,8 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 |            | Instructions |
 |------------|--------------|
 | Note:      | Each `#` stands for a header of that number in HTML. | 
-|            | Ex. `#` is equivalent to \<h1>. |
-|            | Ex. `######` is equivalent to \<h6>.|
+|            | Ex. `#` is equivalent to `<h1>` |
+|            | Ex. `######` is equivalent to `<h6>`|
 | Note:      | Integrate styling with `<h1 align="center">` to center text. |
 | Note:      | Add your deployed link directly to the top here - many users won't scroll all the way down to find it.
 | Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school:
