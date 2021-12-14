@@ -1,0 +1,2 @@
+Some of my icebox ideas!   
+One thing I didn't get to add that I wish could have been included was the ability to add comment functionality so others users can interact with one another and have discussions. Another would have been to add the ability to edit and update one's user profile.

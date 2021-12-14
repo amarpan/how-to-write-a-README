@@ -1,16 +1,16 @@
 # How to Fix a README
-###### by [Amar Pan](https://www.linkedin.com/in/amarpan/)
+###### by [Amar Pan - GA SEI '21](https://www.linkedin.com/in/amarpan/)
 The README is often the most overlooked and underrated aspect of a web dev project. And yet, it is what employers directly look at when assessing one's technical competency as a software engineer.
 
-Thus, today we'll take a look at how to clean-up an existing README so that it looks presentable.   
+Thus, today we'll take a look at how to clean-up an existing README so that it becomes eye-candy rather than an eye-sore.   
 
 ***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my template [here](). 
 
 
 
-| From this:     | To this:      |
+<!-- | From this:     | To this:      |
 |---------------|--------------|
-| <img src="./images/FullBadREADME.png"> | <img src="./images/FullGoodREADME.png"> |
+| <img src="./images/FullBadREADME.png"> | <img src="./images/FullGoodREADME.png"> | -->
 
 ## <h2  align="center">Header - Bad vs Good</h2>
  <img src="./images/BAD-HEADER.png">    
@@ -19,8 +19,11 @@ Thus, today we'll take a look at how to clean-up an existing README so that it l
  
 |            | Instructions |
 |------------|--------------|
+| Note:      | Each `#` stands for a header of that number in HTML | 
+|            | Ex. `#` --> \<h1> & `######` --> \<h6>|
 | Note:      | Integrate styling with `<h1 align="center">` to center text |
 | Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school:
+| Note:      | A full list of available emojis can be found [here](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
 ## <h2  align="center">Screenshots - Bad vs Good</h2>
  <img src="./images/BAD-SCREENSHOTS.png">    
@@ -28,7 +31,10 @@ Thus, today we'll take a look at how to clean-up an existing README so that it l
 
 |            | Instructions |
 |------------|--------------|
-| Note:      | To set up a  table, use `\| Description \| Screenshot \| ` followed by `\|---\|---\|` followed by `\| <caption> \| <image> \|`
+| Note:      | To set up a  table, use |
+|            | `\| Description \| Screenshot\|` |
+|            |`\|-------------\|-----------\|`|
+|            |`\|   caption   \|   image   \|`|
 | Note:      | Whatever is placed in between `<details></details> ` will be put into a closed drop-down menu. The title for this should be placed in between `<summary></summary>` 
 | Note:      | To have a drop-down menu display by default without the user having to click it, add `<details open>` 
 
@@ -65,3 +71,8 @@ Thus, today we'll take a look at how to clean-up an existing README so that it l
 |------------|--------------|
 | Note:      | Try to avoid using the word "icebox", as most non-technical users won't know what this means
 | Note:      | Avoid paragraphs and instead use bullet points to make it immediately clear what each new feature would be
+
+## <h2  align="center">The Final Product</h2>
+ <img src="./images/GOOD-FULL-README.png">    
+ 
+Today we learned how to convert an average README into one that instantly catches the eyes of employers. 
