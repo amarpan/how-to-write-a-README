@@ -1,6 +1,6 @@
 # How to Fix a README
 ###### by [Amar Pan - GA SEI '21](https://www.linkedin.com/in/amarpan/)
-The README is often the most overlooked and underrated aspect of a web dev project. And yet, it is what employers directly look at when assessing one's technical competency as a software engineer.
+The README is often the most overlooked and shunned aspect of a web dev project. And yet, it is what employers directly look at when assessing one's technical competency as a software engineer.
 
 Thus, today we'll take a look at how to clean-up an existing README so that it becomes eye-candy rather than an eye-sore.   
 
@@ -20,7 +20,8 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 |            | Instructions |
 |------------|--------------|
 | Note:      | Each `#` stands for a header of that number in HTML | 
-|            | Ex. `#` --> \<h1> & `######` --> \<h6>|
+|            | Ex. `#` --> \<h1> |
+|            | Ex. `######` --> \<h6>|
 | Note:      | Integrate styling with `<h1 align="center">` to center text |
 | Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school:
 | Note:      | A full list of available emojis can be found [here](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
@@ -36,7 +37,8 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 |            |`\|-------------\|-----------\|`|
 |            |`\|   caption   \|   image   \|`|
 | Note:      | Whatever is placed in between `<details></details> ` will be put into a closed drop-down menu. The title for this should be placed in between `<summary></summary>` 
-| Note:      | To have a drop-down menu display by default without the user having to click it, add `<details open>` 
+| Note:      | To have a drop-down menu display by default without the user having to click it, add the word 'open' to the details tag
+|            |Ex. `<details>`  -->  `<details open>` 
 
 ## <h2  align="center">Getting Started - Bad vs Good</h2>
  <img src="./images/BAD-GETTING-STARTED.png">    
