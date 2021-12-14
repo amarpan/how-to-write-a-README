@@ -1,11 +1,11 @@
-# <h1 align="center">How to Fix a GA Bootcamp Project README</h1>
+# <h1 align="center"><img src="./images/GAfavicon.ico">  How to Fix a GA Bootcamp Project README<img src="./images/GAfavicon.ico"></h1>
 <!-- ###### <h6 align="center">by</h6> -->
 ###### <h6 align="center"> [Amar Pan - GA SEI '21](https://www.linkedin.com/in/amarpan/)</h6>
-The README is often the most overlooked and shunned aspect of a web dev project, frequently left until the very last minute. And yet, it is what employers directly look at when assessing one's technical competency as a software engineer.
+The README is often the most overlooked and underestimated aspect of a web dev project, frequently left until the very last minute. And yet, it is what employers directly look at when assessing one's technical competency as a software engineer.
 
 Thus, today we'll take a look at how to clean-up an existing README so that it becomes eye-candy rather than an eye-sore.   
 
-***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](). 
+***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template). 
 
 
 
