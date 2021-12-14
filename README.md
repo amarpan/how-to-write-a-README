@@ -1,4 +1,4 @@
-# <h1 align="center"><img src="./images/GAfavicon.ico">  How to Fix a GA Bootcamp Project README<img src="./images/GAfavicon.ico"></h1>
+# <h1 align="center"><img src="./images/GAfavicon.ico">  How to Fix a GA Bootcamp Project README <img src="./images/GAfavicon.ico"></h1>
 <!-- ###### <h6 align="center">by</h6> -->
 ###### <h6 align="center"> [Amar Pan - GA SEI '21](https://www.linkedin.com/in/amarpan/)</h6>
 The README is often the most overlooked and underestimated aspect of a web dev project, frequently left until the very last minute. And yet, it is what employers directly look at when assessing one's technical competency as a software engineer.
