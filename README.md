@@ -1,5 +1,5 @@
 # <h1 align="center">How to Fix a README</h1>
-###### <h6 align="center">by</h6>
+<!-- ###### <h6 align="center">by</h6> -->
 ###### <h6 align="center"> [Amar Pan - GA SEI '21](https://www.linkedin.com/in/amarpan/)</h6>
 The README is often the most overlooked and shunned aspect of a web dev project. And yet, it is what employers directly look at when assessing one's technical competency as a software engineer.
 
