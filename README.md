@@ -52,7 +52,7 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 
 |            | Instructions |
 |------------|--------------|
-| Note:      | Separate each technology used with a `\|`(vertical bar) to avoid making your README unnecessarily lengthy.
+| Note:      | Separate each technology used with a `\|` (vertical bar) to avoid making your README unnecessarily lengthy.
 
 ## <h2  align="center">Getting Started</h2>
  <img src="./images/BAD-GETTING-STARTED.png">    
