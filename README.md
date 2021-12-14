@@ -4,7 +4,7 @@ The README is often the most overlooked and shunned aspect of a web dev project.
 
 Thus, today we'll take a look at how to clean-up an existing README so that it becomes eye-candy rather than an eye-sore.   
 
-***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my template [here](). 
+***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](). 
 
 
 
@@ -19,10 +19,10 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
  
 |            | Instructions |
 |------------|--------------|
-| Note:      | Each `#` stands for a header of that number in HTML | 
-|            | Ex. `#` is equivalent to \<h1> |
-|            | Ex. `######` is equivalent to \<h6>|
-| Note:      | Integrate styling with `<h1 align="center">` to center text |
+| Note:      | Each `#` stands for a header of that number in HTML. | 
+|            | Ex. `#` is equivalent to \<h1>. |
+|            | Ex. `######` is equivalent to \<h6>.|
+| Note:      | Integrate styling with `<h1 align="center">` to center text. |
 | Note:      | Add your deployed link directly to the top here - many users won't scroll all the way down to find it.
 | Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school:
 |            | A full list of available emojis can be found [here](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
@@ -37,8 +37,8 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 |            | `\| Description \| Screenshot\|` |
 |            |`\|-------------\|-----------\|`|
 |            |`\|   caption   \|   image   \|`|
-| Note:      | Whatever is placed in between `<details></details> ` will be put into a closed drop-down menu. The title for this should be placed in between `<summary></summary>` 
-| Note:      | To have a drop-down menu display by default without the user having to click it, add the word 'open' to the details tag
+| Note:      | Whatever is placed in between `<details></details> ` will be put into a closed drop-down menu. The title for this should be placed in between `<summary></summary>`. 
+| Note:      | To have a drop-down menu display by default without the user having to click it, add the word 'open' to the details tag.
 |            |Ex. `<details>`  -->  `<details open>` 
 | Note:      |Images can also be resized with `<img src="" width="300" height="400">`
 
@@ -48,7 +48,7 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 
 |            | Instructions |
 |------------|--------------|
-| Note:      | Use number lists as opposed to lengthy paragraphs to make sure this section is easily readable
+| Note:      | Use number lists as opposed to lengthy paragraphs to make sure this section is easily readable.
 
 ## <h2  align="center">Technologies Used</h2>
  <img src="./images/BAD-TECHNOLOGIES-USED.png">    
@@ -56,7 +56,7 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 
 |            | Instructions |
 |------------|--------------|
-| Note:      | Separate each technology used with a `\|`(vertical bar) to avoid making your README unnecessarily long 
+| Note:      | Separate each technology used with a `\|`(vertical bar) to avoid making your README unnecessarily lengthy.
 
 ## <h2  align="center">Resources</h2>
  <img src="./images/BAD-RESOURCES.png">    
@@ -65,7 +65,7 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 |            | Instructions |
 |------------|--------------|
 | Note:      | Put your links in more drop-down menus using `<details open>` and `<summary>`
-| Note:      | Try to choose something simple and memorable when choosing your URL / link name
+| Note:      | Try to choose something simple and memorable when choosing your URL / link name..
 
 ## <h2  align="center">Next Steps</h2>
  <img src="./images/BAD-NEXT-STEPS.png">    
@@ -73,10 +73,10 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 
 |            | Instructions |
 |------------|--------------|
-| Note:      | Try to avoid using the word "icebox", as most non-technical users won't know what this means
-| Note:      | Avoid paragraphs and instead use bullet points to make it immediately clear what each new feature would be
+| Note:      | Try to avoid using the word "icebox", as most non-technical users won't know what this means.
+| Note:      | Avoid paragraphs and instead use bullet points to make it immediately clear what each new feature would be.
 
 ## <h2  align="center">The Final Product</h2>
  <img src="./images/GOOD-FULL-README.png">    
  
-Today we learned how to convert an average README into one that instantly catches the eyes of employers. Although we can't use proper CSS to change colors and styles, you'll quickly find that we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts. 
+Today we learned how to convert an average README into one that instantly catches the eyes of employers. Despite not being able to use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts. 
