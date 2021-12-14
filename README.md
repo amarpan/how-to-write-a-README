@@ -25,7 +25,7 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 | Note:      | Integrate styling with `<h1 align="center">` to center text |
 | Note:      | Add your deployed link directly to the top here - many users won't scroll all the way down to find it.
 | Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school:
-| Note:      | A full list of available emojis can be found [here](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
+|            | A full list of available emojis can be found [here](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
 ## <h2  align="center">Screenshots</h2>
  <img src="./images/BAD-SCREENSHOTS.png">    
