@@ -5,7 +5,7 @@ The README is often the most overlooked and underestimated aspect of a web dev p
 
 Thus, today we'll take a look at how to clean up an existing README so that it becomes eye-candy rather than an eye-sore.   
 
-***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template).    
+***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md).    
 
 ***For a quick review of how to use Markdown, go [here](https://www.markdowntutorial.com/).
 
