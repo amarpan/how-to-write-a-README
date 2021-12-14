@@ -19,9 +19,9 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
  
 |            | Instructions |
 |------------|--------------|
-| Note:      | Each `'#'` stands for a header of that number in HTML | 
-|            | Ex. `#` --> \<h1> |
-|            | Ex. `######` --> \<h6>|
+| Note:      | Each '`#`' stands for a header of that number in HTML | 
+|            | Ex. `#` is equivalent to \<h1> |
+|            | Ex. `######` is equivalent to \<h6>|
 | Note:      | Integrate styling with `<h1 align="center">` to center text |
 | Note:      | Add your deployed link directly to the top here - many users won't scroll all the way down to find it.
 | Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school:
@@ -79,4 +79,4 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 ## <h2  align="center">The Final Product</h2>
  <img src="./images/GOOD-FULL-README.png">    
  
-Today we learned how to convert an average README into one that instantly catches the eyes of employers. Although we can't use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right ____ . 
+Today we learned how to convert an average README into one that instantly catches the eyes of employers. Although we can't use proper CSS to change colors and styles, you'll quickly find that we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts . 
