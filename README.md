@@ -19,10 +19,11 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
  
 |            | Instructions |
 |------------|--------------|
-| Note:      | Each `#` stands for a header of that number in HTML | 
+| Note:      | Each `'#'` stands for a header of that number in HTML | 
 |            | Ex. `#` --> \<h1> |
 |            | Ex. `######` --> \<h6>|
 | Note:      | Integrate styling with `<h1 align="center">` to center text |
+| Note:      | Add your deployed link directly to the top here - many users won't scroll all the way down to find it.
 | Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school:
 | Note:      | A full list of available emojis can be found [here](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
@@ -39,6 +40,7 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 | Note:      | Whatever is placed in between `<details></details> ` will be put into a closed drop-down menu. The title for this should be placed in between `<summary></summary>` 
 | Note:      | To have a drop-down menu display by default without the user having to click it, add the word 'open' to the details tag
 |            |Ex. `<details>`  -->  `<details open>` 
+| Note:      |Images can also be resized with `<img src="" width="300" height="400">`
 
 ## <h2  align="center">Getting Started</h2>
  <img src="./images/BAD-GETTING-STARTED.png">    
@@ -54,7 +56,7 @@ Thus, today we'll take a look at how to clean-up an existing README so that it b
 
 |            | Instructions |
 |------------|--------------|
-| Note:      | Separate each technology used with a `\|` to avoid making your README unnecessarily long 
+| Note:      | Separate each technology used with a `'\|'`(vertical bar) to avoid making your README unnecessarily long 
 
 ## <h2  align="center">Resources</h2>
  <img src="./images/BAD-RESOURCES.png">    
