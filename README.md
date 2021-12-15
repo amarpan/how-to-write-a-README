@@ -1,4 +1,4 @@
-# <h1 align="center">How to Fix a GA SEI Bootcamp Project README</h1>
+# <h1 align="center">How to Write a GA SEI Project README</h1>
 <!-- ###### <h6 align="center">by</h6> -->
 ###### <h6 align="center"> [Amar Pan - GA SEI '21](https://www.linkedin.com/in/amarpan/)</h6>
 
