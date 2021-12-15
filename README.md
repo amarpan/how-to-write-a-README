@@ -3,7 +3,7 @@
 ###### <h6 align="center"> [Amar Pan - GA SEI '21](https://www.linkedin.com/in/amarpan/)</h6>
 The README is often the most overlooked and underestimated aspect of a software engineering project, frequently left until the very last minute. And yet, it is what employers immediately look at when assessing one's technical competency as a software engineer.
 
-Thus, in today's tutorial, we will look at how to write and design a clean README that becomes eye-candy rather than an eye-sore.   
+Thus, in today's tutorial, we'll take a look at how to write and design a clean README that becomes eye-candy rather than an eye-sore.   
 
 ***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md).    
 
