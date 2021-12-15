@@ -13,7 +13,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a README
 
 ***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md).    
 
-***For a quick review of how to use Markdown, go [here](https://www.markdowntutorial.com/).
+***For a quick review on how to use Markdown, go [here](https://www.markdowntutorial.com/).
 
 ## <h2  align="center">Description</h2>
  <img src="./images/BAD-DESCRIPTION.png">    
