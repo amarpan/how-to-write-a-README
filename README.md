@@ -1,6 +1,6 @@
 # <h1 align="center">How to Write a GA SEI Project README</h1>
 <!-- ###### <h6 align="center">by</h6> -->
-###### <h6 align="center"> [Amar Pan - GA SEI '21](https://www.linkedin.com/in/amarpan/)</h6>
+###### <h6 align="center"> [Professor Pan, M.Ed - GA SEI '21](https://www.linkedin.com/in/amarpan/)</h6>
 <div align="center">
  <a href="https://amarpan.github.io" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-darkgreen?style=flat&logo=medium"
