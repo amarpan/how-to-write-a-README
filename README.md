@@ -110,7 +110,9 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  
  ## Examples
 <details open>
-<summary>Neil Italia's "I Love Hue" Project </summary>
+<summary>   
+Neil Italia's "I Love Hue" Project   
+</summary>
 <h4> https://github.com/neilitalia/ilovehue </h4>
 </details>
  
@@ -122,7 +124,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 ## Contributions
 <details>
 <summary>Neil Italia</summary>
-<h4> How to Add Horizontally-Scrolling Images </h4>
+<h4> How to Add Horizontally-Scrolling Images (In-progress) </h4>
 </details>
 
 <details>
