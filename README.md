@@ -56,7 +56,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 |            | `\| Description \| Screenshot\|` |
 |            |`\|-------------\|-----------\|`|
 |            |`\|   caption   \|   image   \|`|
-| Note:      | Whatever is placed in between `<details></details> ` will be hidden beneath a closed drop-down menu, until its arrow is clicked on. The title for this should be placed in between `<summary></summary>`. 
+| Note:      | Whatever is placed in between `<details></details>` will be hidden beneath a closed drop-down menu, until its arrow is clicked on. The title for this should be placed in between `<summary></summary>`. 
 | Note:      | To have a drop-down menu display by default without the user having to click it, add the word 'open' to the details tag.
 |            |Ex. `<details>`  -->  `<details open>` 
 | Note:      |Image dimensions can also be resized by specifying width and height.| 
