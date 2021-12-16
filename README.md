@@ -18,17 +18,18 @@
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-black?style=flat&logo=medium">
  </a>
 </div>
+<h3>
+The README is often the most overlooked and underestimated aspect of a General Assembly SEI project, frequently left until the very last minute.
+And yet, it is what employers immediately look at when assessing one's technical competency as a developer. <hr/>
 
-The README is often the most overlooked and underestimated aspect of a General Assembly SEI project, frequently left until the very last minute. 
-
-And yet, it is what employers immediately look at when assessing one's technical competency as a developer.
-
-Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI README that would make anyone's portfolio shine. 
+Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI README that would make anyone's portfolio shine. <hr/>
+ 
+ </h3>
 
 
-***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md).    
+ ***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md).       
 
-***For a quick review on how to use Markdown, go [here](https://www.markdowntutorial.com/).
+***For a quick review on how to use Markdown, go [here](https://www.markdowntutorial.com/).   
 
 ## <h2  align="center">Description</h2>
  <img src="./images/BAD-DESCRIPTION.png">    
@@ -95,4 +96,4 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  <img align="center" src="./images/GOOD-FULL-README.png">    
 </div>
 
-Today we learned how to convert an average README into one that instantly catches the eyes of employers. Despite not being able to use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts. 
+<h3>Today we learned how to convert an average README into one that instantly catches the eyes of employers. Despite not being able to use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts.</h3>
