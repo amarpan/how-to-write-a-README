@@ -107,3 +107,22 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 <h4>Today we learned how to convert an average README into one that instantly catches the eyes of employers.</h4>   
  
  <h4>Despite not being able to use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts.</h4>
+ 
+## Contributions
+<details>
+<summary>Neil Italia</summary>
+<h4> How to Add Horizontally-Scrolling Images </h4>
+</details>
+
+<details>
+<summary>Isaac Ferrero </summary>
+<h4> Proofreading | Editing | Quality Assurance </h4>
+</details>
+
+<details>
+<summary>Miguel Urena</summary>
+<h4> Quality Assurance </h4>
+</details>
+
+
+
