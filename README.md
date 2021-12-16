@@ -25,7 +25,7 @@
 The README is often the most overlooked and underestimated aspect of a General Assembly SEI project, frequently left until the very last minute.
 And yet, it is what employers immediately look at when assessing one's technical competency as a developer. <hr/>
 
-Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI README that would make anyone's portfolio shine. <hr/>
+Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI README that would make any employer blush. <hr/>
  
  </h4>
 
