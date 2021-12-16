@@ -108,6 +108,12 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  
  <h4>Despite not being able to use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts.</h4>
  
+ ## Examples
+<details open>
+<summary>Neil Italia's "I Love Hue" Project </summary>
+<h4> https://github.com/neilitalia/ilovehue </h4>
+</details>
+ 
 ## Contributions
 <details>
 <summary>Neil Italia</summary>
