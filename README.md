@@ -17,6 +17,9 @@
  <a href="https://medium.com/@amarpan">
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-black?style=flat&logo=medium">
  </a>
+  
+  ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
+  
 </div>
 <h3>
 The README is often the most overlooked and underestimated aspect of a General Assembly SEI project, frequently left until the very last minute.
