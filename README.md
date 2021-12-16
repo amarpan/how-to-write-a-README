@@ -1,19 +1,34 @@
 # <h1 align="center">How to Write a GA SEI Project README</h1>
 <!-- ###### <h6 align="center">by</h6> -->
-###### <h6 align="center"> [Amar Pan - GA SEI '21](https://www.linkedin.com/in/amarpan/)</h6>
+###### <h6 align="center"> [Professor Pan, M.Ed - GA SEI '21](https://www.linkedin.com/in/amarpan/)</h6>
+<div align="center">
+ <a href="https://amarpan.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-darkgreen?style=flat&logo=medium"
+ </a>
+    
+ <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
+      <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
+ </a> 
+    
+ <a href="mailto:amar.panjwani@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
+ </a>
+    
+ <a href="https://medium.com/@amarpan">
+    <img src="https://img.shields.io/badge/-medium.com/@amarpan-black?style=flat&logo=medium">
+ </a>
+</div>
 
-The README is often the most overlooked and underestimated aspect of a software engineering project, frequently left until the very last minute. 
+The README is often the most overlooked and underestimated aspect of a General Assembly SEI project, frequently left until the very last minute. 
 
 And yet, it is what employers immediately look at when assessing one's technical competency as a developer.
 
-
-
-Thus, in today's tutorial, we'll take a look at how to write and design a README that will make anyone's portfolio shine. 
+Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI README that would make anyone's portfolio shine. 
 
 
 ***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md).    
 
-***For a quick review of how to use Markdown, go [here](https://www.markdowntutorial.com/).
+***For a quick review on how to use Markdown, go [here](https://www.markdowntutorial.com/).
 
 ## <h2  align="center">Description</h2>
  <img src="./images/BAD-DESCRIPTION.png">    
