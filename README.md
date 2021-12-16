@@ -99,4 +99,6 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  <img align="center" src="./images/GOOD-FULL-README.png">    
 </div>
 
-<h4>Today we learned how to convert an average README into one that instantly catches the eyes of employers. <hr/>Despite not being able to use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts.</h4>
+<h4>Today we learned how to convert an average README into one that instantly catches the eyes of employers.</h4>   
+ 
+ <h4>Despite not being able to use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts.</h4>
