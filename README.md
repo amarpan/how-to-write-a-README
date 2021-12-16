@@ -21,13 +21,13 @@
   ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
   
 </div>
-<h3>
+<h4>
 The README is often the most overlooked and underestimated aspect of a General Assembly SEI project, frequently left until the very last minute.
 And yet, it is what employers immediately look at when assessing one's technical competency as a developer. <hr/>
 
 Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI README that would make anyone's portfolio shine. <hr/>
  
- </h3>
+ </h4>
 
 
  ***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md).       
