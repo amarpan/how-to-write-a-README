@@ -90,6 +90,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 | Note:      | Use bullet points rather than paragraphs to make it immediately clear what each new feature would be.
 
 ## <h2  align="center">The Final Product</h2>
+#### <h4 align="center">(On GitHub)</h3>
 <div align="center">
  <img align="center" src="./images/GOOD-FULL-README.png">    
 </div>
