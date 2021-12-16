@@ -90,6 +90,8 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 | Note:      | Use bullet points rather than paragraphs to make it immediately clear what each new feature would be.
 
 ## <h2  align="center">The Final Product</h2>
- <img src="./images/GOOD-FULL-README.png">    
- 
+<div align="center">
+ <img align="center" src="./images/GOOD-FULL-README.png">    
+</div>
+
 Today we learned how to convert an average README into one that instantly catches the eyes of employers. Despite not being able to use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts. 
