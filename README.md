@@ -21,7 +21,7 @@
     
  <a href="https://medium.com/@amarpan">
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-black?style=flat&logo=medium">
- </a>
+ </a> 
   
   ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
   
