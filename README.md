@@ -111,9 +111,18 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  ## Examples
 <details open>
 <summary>   
-Neil Italia's "I Love Hue" Project   
+## Neil Italia GA SEI Oct '21 - Dallas, TX   
 </summary>
-<h4> https://github.com/neilitalia/ilovehue </h4>
+<h4> 
+
+https://github.com/neilitalia/ilovehue 
+
+https://github.com/neilitalia/plantrade
+
+https://github.com/neilitalia/spacex-flights
+
+
+</h4>
 </details>
  
  ## Future Updates
@@ -124,7 +133,7 @@ Neil Italia's "I Love Hue" Project
 ## Contributions
 <details>
 <summary>Neil Italia</summary>
-<h4> How to Add Horizontally-Scrolling Images (In-progress) </h4>
+<h4> How to Add Horizontally-Scrolling Images (In-Progress) </h4>
 </details>
 
 <details>
