@@ -117,7 +117,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  ## Future Updates
 
 - [x] Add Contributions
-- [ ] Add Examples from other GA students
+- [x] Add Examples from other GA students
  
 ## Contributions
 <details>
