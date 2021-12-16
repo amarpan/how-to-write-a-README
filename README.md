@@ -111,7 +111,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  ## Examples
 <details open>
 <summary>   
-## Neil Italia GA SEI Oct '21 - Dallas, TX   
+Neil Italia GA SEI Oct '21 - Dallas, TX   
 </summary>
 <h4> 
 
