@@ -16,37 +16,37 @@
    <a href="https://www.github.com/amarpan/" target="_blank">
       <img src="https://img.shields.io/badge/-github.com/amarpan-orange?style=flat&logo=GitHub&logoColor=white"/>
  </a> 
-  
-  
+
  <a href="https://medium.com/@amarpan">
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-black?style=flat&logo=medium">
  </a> 
-  
+
   ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
-  
+
 </div>
 
 <h4>
 The README is often the most overlooked and underestimated aspect of a General Assembly SEI project, frequently left until the very last minute.
-And yet, it is what employers directly look at when assessing one's technical competency as a developer. <hr/>
-
-Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI README that would make any employer blush. <hr/>
+And yet, it is what employers directly look at when assessing one's technical competency as a developer.
 </h4>
+<hr/>
 
+<h4>
+Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI README that would make any employer blush.
+</h4>
+<hr/>
 
- ***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md).       
+This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md)      
 
-***For a quick review on how to use Markdown, go [here](https://www.markdowntutorial.com/).   
+For a quick review on how to use Markdown, go [here](https://www.markdowntutorial.com/). For GitHub specific markdown, go [here](https://github.github.com/gfm/), and GitHub-friendly emojis can be found [here](https://github.com/ikatyang/emoji-cheat-sheet)
 
-## <h2  align="center">Header & Description</h2>
+<hr>
+
+<h2  align="center">Project Header & Description</h2>
 
 <div align="center"> 
   <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">
 </div>
-
- |                                                                              |     
- |---------------------------------------------------------------------------------------|                      
- | __Code__
 
 ```html
 <div align="center">
@@ -66,11 +66,9 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
       <img src="https://img.shields.io/badge/-medium.com/@user-black?style=flat&logo=medium">
    </a>
 </div>
+<h1>:pencil: Description</h1>
 
-## :pencil: Description
-
-Meet Your Classmates is an Instagram-clone and hub where students can get to know and relate to their peers via completion of short 3-question mini-surveys. By learning about others' backgrounds, previous experiences, and interests, an atmosphere of community is created that is conducive to higher levels of learning and success.
-   
+<p>Meet Your Classmates is an Instagram-clone and hub where students can get to know and relate to their peers via completion of short 3-question mini-surveys. By learning about others' backgrounds, previous experiences, and interests, an atmosphere of community is created that is conducive to higher levels of learning and success.</p>
 ```
 
 |            | Instructions |
@@ -84,59 +82,37 @@ Meet Your Classmates is an Instagram-clone and hub where students can get to kno
 |         | While emojis automatically show on GitHub, to see them on VS Code one needs to install an extension like [this](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji).
 |            | A full list of available emojis can be found [here](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
-## <h2  align="center">Screenshots</h2>
-    
+<hr>
+
+<h2  align="center">Project Screenshots</h2>
 <div align="center"> 
-
    <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
-
 </div>
 
- |                                                                              |     
- |---------------------------------------------------------------------------------------|                      
- | __Code__   
- 
- `<details>`
+```html
+<details>
+<summary> :bar_chart: ERD</summary>
+| Description | Screenshot |
+|------------ | ------------|
+| <h3 align="center">ERD</h3> | <img src="https://``github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png" width="700"> |
+</details>
 
- `<summary> :bar_chart: ERD</summary>`
+<details>
+<summary> :art: Wireframes</summary>
+| Description | Screenshot |
+|------------ | ------------|
+| <h3 align="center">Home Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/Homepage.Wireframe.MYC.png" width="700"/>
+| <h3 align="center">Profile Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.Wireframe.MYC.png" width="700"> |
+</details>
 
- `| Description | Screenshot |`
-
- `|------------ | ------------|`
-
- `| <h3 align="center">ERD</h3> | <img src="https://``github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png" width="700">`
- 
-`</details>`
-
-`<details>`
-
- `<summary> :art: Wireframes</summary>`
- 
- `| Description | Screenshot |`
- 
- `|------------ | ------------|`
-
- `| <h3 align="center">Home Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/Homepage.Wireframe.MYC.png"` `width="700">`
-
- `<h3 align="center">Profile Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.Wireframe.MYC.png" width="700">`
- 
- 
-`</details>`
-
-`<details open>`
-
- `<summary> :gear: Functionality</summary>`
- 
- `| Description | Screenshot |`
-
- `|------------ | ------------|`
-
- `| <h3 align="center">Feed Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/blob/main/public/Screenshots/FeedPage.png?raw=true" width="700">`
-
- `| <h3 align="center">Profile Page</h3> | <img src="https://github.com/amarpan/``meet-your-classmates/raw/main/public/Screenshots/ProfilePage.png" width="700">`
- 
-`</details>`   
-       
+<details open>
+<summary> :gear: Functionality</summary>
+| Description | Screenshot |
+|------------ | ------------|
+| <h3 align="center">Feed Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/blob/main/public/Screenshots/FeedPage.png?raw=true" width="700"/> |
+| <h3 align="center">Profile Page</h3> | <img src="https://github.com/amarpan/``meet-your-classmates/raw/main/public/Screenshots/ProfilePage.png" width="700"/> |
+</details>
+```   
 
 |            | Instructions |
 |------------|--------------|
@@ -150,49 +126,45 @@ Meet Your Classmates is an Instagram-clone and hub where students can get to kno
 | Note:      |Image dimensions can also be resized by specifying width and height.| 
 |            |Ex. `<img src="" width="300" height="400">`| 
 
-## <h2  align="center">Technologies Used</h2>  
+<hr>
 
-    
+<h2  align="center">Project Technologies Used</h2>  
+
 <div align="center"> 
-
-   <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
-
+   <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png">
 </div>
 
- |                                                                              |     
- |---------------------------------------------------------------------------------------|                      
- |  <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png">                      |
- | __Code__  
+```markdown
+## 💻 Technologies Used
 
- `## 💻 Technologies Used`   
+![MongoDB Atlas](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 
- `![MongoDB Atlas](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)`   
+![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
 
- `![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)`
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
 
-`![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)` 
+![Node](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 
-`![Node](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)`
+![SemanticUIReact](https://img.shields.io/badge/-Semantic%20UI%20React-333?style=flat&logo=semanticuireact)
 
-`![SemanticUIReact](https://img.shields.io/badge/-Semantic%20UI%20React-333?style=flat&logo=semanticuireact)`
+![AWS S3](https://img.shields.io/badge/-AWS_S3-333?style=flat&logo=amazons3)
 
-`![AWS S3](https://img.shields.io/badge/-AWS_S3-333?style=flat&logo=amazons3)`
+![JWT](https://img.shields.io/badge/-JSON_Web_Tokens-333?style=flat&logo=jsonwebtokens)
 
-`![JWT](https://img.shields.io/badge/-JSON_Web_Tokens-333?style=flat&logo=jsonwebtokens)`
+![Mongoose ODM](https://img.shields.io/badge/-Mongoose_ODM-333?style=flat&logo=mongodb)
 
-`![Mongoose ODM](https://img.shields.io/badge/-Mongoose_ODM-333?style=flat&logo=mongodb)`
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 
-`![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)` 
+![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
 
-`![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)`
+![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
 
-`![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)`
+![Trello](https://img.shields.io/badge/-Trello-333?style=flat&logo=trello)
 
-`![Trello](https://img.shields.io/badge/-Trello-333?style=flat&logo=trello)`
+![Heroku](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)
 
-`![Heroku](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)`
-
-`![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)`       
+![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
+```
    
 <!-- 
 |            | Instructions |
@@ -200,68 +172,45 @@ Meet Your Classmates is an Instagram-clone and hub where students can get to kno
 | Note:      | 
  -->
 
-## <h2  align="center">Getting Started</h2>   
- 
-     
+<h2  align="center">Project 'Getting Started' Section</h2>
+
 <div align="center"> 
-
-   <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
-
+   <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">
 </div>
 
- |                                                                              |     
- |---------------------------------------------------------------------------------------|                      
- | <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">    
-                        
- __Code__  
+```html
+<h2> :atom_symbol: Getting Started </h2>
 
- `## :atom_symbol: Getting Started`   
+<h3> :calling: Instructions </h3>
+<details open>
+<summary>How to Create a Post</summary>
+<ol>
+<li>Type in your answers to each of the 3 randomly-generated mini-survey questions.</li>
+<li>Click on "Add Survey" to post your responses so others may see them.</li>
+<li>Click on the "X" in the bottom-right corner to delete a post.</li>
+</ol>
+</details>
 
-`### :calling: Instructions`   
+<details>
+<summary>How to Interact With Others' Posts</summary>
+<ol>
+<li>Posts may be "liked" or "disliked" by clicking on the thumbs up or down button on their card.</li>
+<li>To reveal the author of a post, hover over the "Who could it possibly be?" button.</li>
+<li>To see more posts by the same user, click on the revealed username and profile picture.</li>
+</ol>
+</details>
 
-`<details open>`   
+<details>
+<h3> :link: Links </h3>
+<summary>Trello Board</summary>   
+<a href="https://trello.com/b/x4ViComX/meet-your-classmates-project-4">https://trello.com/b/x4ViComX/meet-your-classmates-project-4</a>   
+</details>
 
-`<summary>How to Create a Post</summary>`
- 
-`1. Type in your answers to each of the 3` `randomly-generated mini-survey questions.`   
- 
-`2. Click on "Add Survey" to post your responses so` `others may see them.`
- 
-`3. Click on the "X" in the bottom-right corner to` `delete a post. `   
-
-`</details>`   
-   
-
-`<details>`   
-
-`<summary>How to Interact With Others' Posts</summary>`
- 
-`1.  Posts may be "liked" or "disliked" by clicking` `on the thumbs up or down button on their card.`
- 
-`2. To reveal the author of a post, hover over the` `"Who could it possibly be?" button.`
- 
-`3. To see more posts by the same user, click on the` `revealed username and profile picture.`
-
-`</details>`   
-
-
-`### :link: Links`
-
-`<details>`   
-
-`<summary>Trello Board</summary>`   
-
-`<a href="https://trello.com/b/x4ViComX/meet-your-classmates-project-4">https://trello.com/b/x4ViComX/``meet-your-classmates-project-4</a>`   
-
-`</details>`
-
-
-`<details open>`   
-
-`<summary>Deployed Link (Heroku)</summary>`   
-
-`<a href="https://meetyourclassmates.herokuapp.com/">https://meetyourclassmates.herokuapp.com/</a>`
-`</details>`   
+<details open>   
+<summary>Deployed Link (Heroku)</summary>
+<a href="https://meetyourclassmates.herokuapp.com/">https://meetyourclassmates.herokuapp.com/</a>
+</details>
+```
 
 |            | Instructions |
 |------------|--------------|
@@ -269,41 +218,37 @@ Meet Your Classmates is an Instagram-clone and hub where students can get to kno
 | Note:      | Put your links in more drop-down menus using `<details open>` and `<summary>`.
 | Note:      | Try to choose something simple and memorable when choosing your Heroku URL / link name.
 
-## <h2  align="center">Next Steps</h2>
-   
-       
+<hr>
+
+<h2  align="center">Project Updates</h2>
+
 <div align="center"> 
-
    <img src="./images/GOOD-NEXT-STEPS-SINGLE.png"> 
-
 </div>
 
- 
+```markdown
+## :fast_forward: Next Steps   
 
-|                                                                              |     
-|------------------------------------------------------------------------------|                   
- __Code__
+### Upcoming Features
 
-`## :fast_forward: Next Steps`   
+- [X] Add gifs to animated sliding buttons   
 
-`### Upcoming Features`
+- [ ] Add comment functionality on posts to encourage discussion   
 
-`- [X] Add gifs to animated sliding buttons`   
+- [ ] Add edit and update functionality for a user's profile  
 
-`- [ ] Add comment functionality on posts to encourage discussion`   
-
-`- [ ] Add edit and update functionality for a user's profile`  
-
-`- [ ] <s>Add Tinder API Integration </s>`
-  
+- [ ] ~~Add Tinder API Integration~~
+```
 
 |            | Instructions |
 |------------|--------------|
 | Note:      | Try to avoid using the word "icebox", as most non-technical users probably won't know what this means.
 | Note:      | Use bullet points rather than paragraphs to make it immediately clear what each new feature would be.
 
-## <h2  align="center">The Final Product</h2>
-#### <h4 align="center">(On GitHub)</h3>
+<hr>
+
+<h2  align="center">The Final Product</h2>
+<h4 align="center">(On GitHub)</h3>
 
 <div align="center">
 
