@@ -46,7 +46,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  |---------------------------------------------------------------------------------------|                      
  | <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">                            |
  | Code {Feel Fee to Copy & Paste}   
-                                         
+
  `<div align="center">`       
 
  `# <h1>:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>` 
@@ -91,8 +91,8 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 |            | A full list of available emojis can be found [here](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
 ## <h2  align="center">Screenshots</h2>
- <img src="./images/BAD-SCREENSHOTS.png">    
- <img src="./images/GOOD-SCREENSHOTS.png">
+    
+ <img src="./images/GOOD-SCREENSHOTS-SOLO.png">
 
 |            | Instructions |
 |------------|--------------|
