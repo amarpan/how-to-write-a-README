@@ -265,9 +265,9 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 
 <hr>
 
-<h1  align="center">Optional Additions</h1>
+<h1 align="center">Optional Additions</h1>
 
-<h2 align="center">Project Banner<h2>
+<h2 align="center">Project Banner</h2>
 
 <div align="center"> 
    <img src="./images/OPTIONAL-PROJECT-BANNER.png"> 
