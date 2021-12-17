@@ -1,4 +1,4 @@
-<h1 align="center">How to Write a GA SEI Project README</h1>
+<h1 align="center">:pencil: How to Write a GA SEI Project README 📝</h1>
 <!-- ###### <h6 align="center">by</h6> -->
 <h6 align="center">
    <a href="https://www.linkedin.com/in/amarpan/">Amar Pan (GA Los Angeles)</a> | <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia (GA Dallas)</a>      <br>
