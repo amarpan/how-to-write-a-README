@@ -330,6 +330,20 @@ git commit -m ":pencil2: fix typo on cart page"
 
 ## <h2 align="center"> Full README Examples
 
+</details>
+ </h5>
+ <details open>
+<summary>   
+Amar 'Pan' Panjwani - GA SEI Nov '21 - Apple Valley, CA (Los Angeles)   
+</summary>
+<h4> 
+
+https://github.com/amarpan/meet-your-classmates
+
+</h4>
+</details>
+
+
 <details open>
 <summary>   
 Neil Italia - GA SEI Oct '21 - Dallas / Fort Worth, TX   
@@ -344,18 +358,8 @@ https://github.com/neilitalia/spacex-flights
 
 
 </h4>
-</details>
- </h5>
- <details open>
-<summary>   
-Amar 'Pan' Panjwani - GA SEI Nov '21 - Apple Valley, CA (Los Angeles)   
-</summary>
-<h4> 
 
-https://github.com/amarpan/meet-your-classmates
 
-</h4>
-</details>
  
  ## Future Updates
 
