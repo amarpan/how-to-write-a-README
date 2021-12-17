@@ -45,7 +45,8 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
  | <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">                            |
- | Code {Feel Fee to Copy & Paste}                                                                                 |        
+ | Code {Feel Fee to Copy & Paste}   
+                                         
  `<div align="center">`       
 
  `# <h1>:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>` 
