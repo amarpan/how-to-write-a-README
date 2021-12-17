@@ -1,12 +1,14 @@
-# <h1 align="center">:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>
-
-### <h3 align="center">https://meetyourclassmates.herokuapp.com/</h3>
-
-##### <h5 align="center">Teammate Name | Your Name | Teammate Name </h5>
-
 <div align="center">
+
+# <h1>:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>
+
+### <h3>https://meetyourclassmates.herokuapp.com/</h3>
+
+##### <h5>Teammate Name | Your Name | Teammate Name </h5>
+
  <a href="https://yourportfoliolink.com" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio:_user.github.io-darkgreen?style=flat&logo=medium"
+
  </a>
     
  <a href="https://www.linkedin.com/in/user/" target="_blank">
@@ -20,6 +22,7 @@
  <a href="https://medium.com/@user">
     <img src="https://img.shields.io/badge/-medium.com/@user-black?style=flat&logo=medium">
  </a>
+
  </div>
 
 ## :pencil: Description

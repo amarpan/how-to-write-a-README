@@ -40,9 +40,15 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 ***For a quick review on how to use Markdown, go [here](https://www.markdowntutorial.com/).   
 
 ## <h2  align="center">Description</h2>
- <img src="./images/BAD-DESCRIPTION.png">    
  
- <img src="./images/GOOD-DESCRIPTION.png">
+
+ |   Code                                                                                |          |
+ |---------------------------------------------------------------------------------------|----------|                      
+ | <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">                            |          |
+ | Code                                                                                  | Comments |
+ | `<div align="center">`                                                                | centers text |   
+ | `# <h1>:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>`| yesh  
+   
  
 |            | Instructions |
 |------------|--------------|
