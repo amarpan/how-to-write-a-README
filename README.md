@@ -287,10 +287,10 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 
 <hr>
 
-<h2 align="center">Colorful commits<h2>
+<h2 align="center">Colorful commits</h2>
 
 <div align="center"> 
-   <img src="./images/OPTIONAL-COMMITS.png" width="800"> 
+   <img src="./images/OPTIONAL-COMMITS.png" width="800" /> 
 </div>
 
 ```console
@@ -303,10 +303,10 @@ git commit -m ":pencil2: fix typo on cart page"
 
 <hr>
 
-<h2 align="center">Carousel Hack<h2>
+<h2 align="center">Carousel Hack</h2>
 
 <div align="center"> 
-   <img src="./images/OPTIONAL-CAROUSEL.png" width="800"> 
+   <img src="./images/OPTIONAL-CAROUSEL.png" width="800" /> 
 </div>
 
 ```html
