@@ -41,6 +41,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 ## <h2  align="center">Header & Description</h2>
  
+  <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800"> 
 
  |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
@@ -53,7 +54,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
  `### <h3>https://meetyourclassmates.herokuapp.com/</h3>`                               
 
- `#### <h5>Teammate Name | Your Name | Teammate Name </h5>`                             
+ `##### <h5>Teammate Name | Your Name | Teammate Name </h5>`                             
            
  `<a href="https://yourportfoliolink.com" target="_blank">`
     `<img src="https://img.shields.io/badge/-Portfolio:_user.github.io-darkgreen?style=flat&``logo=medium"`
@@ -66,7 +67,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
     
  `<a href="mailto:user@gmail.com" target="_blank">`
     `<img src="https://img.shields.io/badge/-user@gmail.com-c14438?style=flat&logo=Gmail&``logoColor=white">`
- `</a>
+ </a>
     
  `<a href="https://medium.com/@user">`
     `<img src="https://img.shields.io/badge/-medium.com/@user-black?style=flat&logo=medium">`
@@ -117,6 +118,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  `| Description | Screenshot |`
  
  `|------------ | ------------|`
+
  `| <h3 align="center">Home Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/Homepage.Wireframe.MYC.png"` `width="700">`
 
  `<h3 align="center">Profile Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.Wireframe.MYC.png" width="700">`
@@ -232,7 +234,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 `</details>`   
 
 
-`### 🔗 Links`
+`### :link: Links`
 
 `<details>`   
 
@@ -247,7 +249,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 `<summary>Deployed Link (Heroku)</summary>`   
 
-`<a href="https://meetyourclassmates.herokuapp.com/``">https://meetyourclassmates.herokuapp.com/</a>`
+`<a href="https://meetyourclassmates.herokuapp.com/">https://meetyourclassmates.herokuapp.com/</a>`
 `</details>`   
 
 |            | Instructions |
