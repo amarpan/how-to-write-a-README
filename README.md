@@ -45,7 +45,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
  | <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">                            |
- | Code
+ | __Code__
 
  `<div align="center">`       
 
@@ -95,34 +95,42 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
  |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
- |  <img src="./images/GOOD-SCREENSHOTS-SOLO.png">">                          |
- | Code   
+ |  <img src="./images/GOOD-SCREENSHOTS-SOLO.png">                     |
+ | __Code__   
  
  `<details>`
- `<summary> 📊 ERD</summary>`
+
+ `<summary> :bar_chart: ERD</summary>`
+
  `| Description | Screenshot |`
+
  `|------------ | ------------|`
- `| <h3 align="center">ERD</h3> | <img src="https://``github.com/amarpan/meet-your-classmates/raw/main/``public/Screenshots/ERD.MYC.png" width="700">`
+
+ `| <h3 align="center">ERD</h3> | <img src="https://``github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png" width="700">`
  
 `</details>`
 
 `<details>`
- `<summary> 🎨 Wireframes</summary>`
+
+ `<summary> :art: Wireframes</summary>`
  
  `| Description | Screenshot |`
  `|------------ | ------------|`
- `| <h3 align="center">Home Page</h3> | <img src="https://github.com/amarpan/``meet-your-classmates/raw/main/public/Screenshots/Homepage.Wireframe.MYC.png"` `width="700">`
- `<h3 align="center">Profile Page</h3> | <img src="https://github.com/amarpan/``meet-your-classmates/raw/main/public/Screenshots/ProfilePage.Wireframe.MYC.png" width="700">`
+ `| <h3 align="center">Home Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/Homepage.Wireframe.MYC.png"` `width="700">`
+
+ `<h3 align="center">Profile Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.Wireframe.MYC.png" width="700">`
  
  
 `</details>`
 
 `<details open>`
+
  `<summary> ⚙️ Functionality</summary>`
  
  `| Description | Screenshot |`
  `|------------ | ------------|`
- `| <h3 align="center">Feed Page</h3> | <img src="https://github.com/amarpan/``meet-your-classmates/blob/main/public/Screenshots/FeedPage.png?raw=true" width="700">`
+ `| <h3 align="center">Feed Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/blob/main/public/Screenshots/FeedPage.png?raw=true" width="700">`
+
  `| <h3 align="center">Profile Page</h3> | <img src="https://github.com/amarpan/``meet-your-classmates/raw/main/public/Screenshots/ProfilePage.png" width="700">`
  
 `</details>`   
@@ -146,7 +154,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
  |  <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png">                      |
- | Code {Feel Fee to Copy & Paste}   
+ | __Code__  
 
  `## 💻 Technologies Used`   
 
@@ -178,11 +186,11 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 `![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)`       
    
-
+<!-- 
 |            | Instructions |
 |------------|--------------|
 | Note:      | 
-
+ -->
 
 ## <h2  align="center">Getting Started</h2>   
  
@@ -190,23 +198,24 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  |---------------------------------------------------------------------------------------|                      
  | <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">    
                         
- Code {Feel Fee to Copy & Paste}   
+ __Code__  
 
- `## ⚛️ Getting Started`   
+ `## :atom_symbol: Getting Started`   
 
-`### 📲 Instructions`   
+`### :calling: Instructions`   
 
 `<details open>`   
 
 `<summary>How to Create a Post</summary>`
  
-`1. Type in your answers to each of the 3` `randomly-generated mini-survey questions.` 
+`1. Type in your answers to each of the 3` `randomly-generated mini-survey questions.`   
  
 `2. Click on "Add Survey" to post your responses so` `others may see them.`
  
 `3. Click on the "X" in the bottom-right corner to` `delete a post. `   
 
-`</details>`
+`</details>`   
+   
 
 `<details>`   
 
@@ -218,7 +227,8 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  
 `3. To see more posts by the same user, click on the` `revealed username and profile picture.`
 
-`</details>`
+`</details>`   
+
 
 `### 🔗 Links`
 
@@ -252,13 +262,18 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  |---------------------------------------------------------------------------------------|                      
  | <img src="./images/GOOD-NEXT-STEPS-SINGLE.png">    
                         
- Code {Feel Fee to Copy & Paste}   
+ __Code__
 
-## ⏭️ Next Steps
-### Upcoming Features
+`## ⏭️ Next Steps`   
+
+`### Upcoming Features`
+
 `- [X] Add gifs to animated sliding buttons`   
-`- [ ] Add comment functionality on posts to encourage discussion`
-`- [ ] Add edit and update functionality for a user's profile`    
+
+`- [ ] Add comment functionality on posts to encourage discussion`   
+
+`- [ ] Add edit and update functionality for a user's profile`  
+
 `- [ ] <s>Add Tinder API Integration </s>`
   
 
