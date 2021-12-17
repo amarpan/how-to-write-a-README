@@ -7,22 +7,23 @@
     <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
  
- <a href="https://amarpan.github.io" target="_blank">
+ <a href="https://www.github.com/amarpan/" target="_blank">
+      <img src="https://img.shields.io/badge/-github.com/amarpan-orange?style=flat&logo=GitHub&logoColor=white">
+ </a> 
+ 
+  <a href="https://amarpan.github.io" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-gold?style=flat&logo="
  </a>
-  
- <a href="https://www.github.com/amarpan/" target="_blank">
-      <img src="https://img.shields.io/badge/-github.com/amarpan-darkgreen?style=flat&logo=GitHub&logoColor=white">
- </a> 
-    
- <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
+   
+   <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
- </a> 
+ </a>    
+  
   
  <a href="https://medium.com/@amarpan">
-    <img src="https://img.shields.io/badge/-medium.com/@amarpan-violet?style=flat&logo=medium">
- </a> 
-  
+    <img src="https://img.shields.io/badge/-medium.com/@amarpan-darkgreen?style=flat&logo=medium">
+ </a>
+   
   ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
   
 </div>
