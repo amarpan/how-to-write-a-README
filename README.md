@@ -2,25 +2,25 @@
 <!-- ###### <h6 align="center">by</h6> -->
 ###### <h6 align="center"> [Professor Pan, M.Ed. - GA SEI '21](https://www.linkedin.com/in/amarpan/)</h6>
 <div align="center">
- <a href="https://amarpan.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-violet?style=flat&logo="
+ 
+  <a href="mailto:amar.panjwani@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
+ 
+ <a href="https://amarpan.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-gold?style=flat&logo="
+ </a>
+  
+ <a href="https://www.github.com/amarpan/" target="_blank">
+      <img src="https://img.shields.io/badge/-github.com/amarpan-darkgreen?style=flat&logo=GitHub&logoColor=white">
+ </a> 
     
  <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
  </a> 
   
- <a href="mailto:amar.panjwani@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
- </a>
-    
-   <a href="https://www.github.com/amarpan/" target="_blank">
-      <img src="https://img.shields.io/badge/-github.com/amarpan-orange?style=flat&logo=GitHub&logoColor=white">
- </a> 
-  
-  
  <a href="https://medium.com/@amarpan">
-    <img src="https://img.shields.io/badge/-medium.com/@amarpan-black?style=flat&logo=medium">
+    <img src="https://img.shields.io/badge/-medium.com/@amarpan-violet?style=flat&logo=medium">
  </a> 
   
   ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
@@ -47,7 +47,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 </div>
 
- |                                                                              |     
+   
  ---
  `<div align="center">`       
 
@@ -99,10 +99,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
    <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
 
 </div>
-
- |                                                                              |        |     
- |---------------------------------------------------------------------------------------|------|                      
- 
+               
  `<details>`
 
  `<summary> :bar_chart: ERD</summary>`
@@ -205,7 +202,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 | Note:      | 
  -->
 
-## <h2  align="center">Getting Started</h2>   
+<!-- ## <h2  align="center">Getting Started</h2>   
  
      
 <div align="center"> 
@@ -213,10 +210,11 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
    <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
 
 </div>
-
+ -->
  |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
  | <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">    
+ 
  `## :atom_symbol: Getting Started`   
 
 `### :calling: Instructions`   
@@ -279,11 +277,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
    <img src="./images/GOOD-NEXT-STEPS-SINGLE.png"> 
 
 </div>
-
  
-
-|                                                                              |     
-|------------------------------------------------------------------------------|                   
 `## :fast_forward: Next Steps`   
 
 `### Upcoming Features`
@@ -349,7 +343,7 @@ https://github.com/amarpan/meet-your-classmates
 - [x] Add Contributions
 - [x] Add Examples from other GA students
 - [x] Add code samples that are easy to copy and paste
-- [] Add horizontally-scrolling images feature
+- [ ] Add horizontally-scrolling images feature
  
 ## Contributions
 <details>
