@@ -351,10 +351,10 @@ https://github.com/amarpan/meet-your-classmates
  
  ## Future Updates
 
-- [x] Add Contributions
-- [x] Add Examples from other GA students
-- [x] Add code samples that are easy to copy and paste
-- [x] Add horizontally-scrolling images feature
+- [x] Add contributions
+- [x] Add examples from other GA students
+- [x] Add code samples
+- [x] Add horizontally-scrolling images how-to
  
 ## Contributions
 <details>
