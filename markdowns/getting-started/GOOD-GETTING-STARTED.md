@@ -1,5 +1,5 @@
-## Getting Started
-
+## ⚛️ Getting Started
+### 📲 Instructions
 <details>
 <summary>How to Create a Post</summary>
  
@@ -20,6 +20,8 @@
 3. To see more posts by the same user, click on the revealed username and profile picture.
 
 </details>
+
+### 🔗 Links
 
 <details>
 <summary>Trello Board</summary>
