@@ -38,7 +38,7 @@ And yet, it is what employers directly look at when assessing one's technical co
 Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI README that would make any employer blush.
 </h4>
 
-This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md)      
+This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md).      
 
 For a quick review on how to use Markdown, go [here](https://www.markdowntutorial.com/). For GitHub specific markdown, go [here](https://github.github.com/gfm/)
 
@@ -117,7 +117,7 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 
 |            | Instructions |
 |------------|--------------|
-| Note:      | To set up a  table, use |
+| Note:      | To set up a  table, use: |
 |            | `\| Description \| Screenshot\|` |
 |            |`\|-------------\|-----------\|`|
 |            |`\|   caption   \|   image   \|`|
@@ -257,8 +257,8 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
  <img align="center" src="./images/GOOD-FULL-README.png">  
 </div>
 
-<h4>Today we learned how to convert an average README into one that instantly catches the eyes of employers.</h4>
-<h4>Despite not being able to use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts.</h4>
+<!-- <h4>Today we learned how to convert an average README into one that instantly catches the eyes of employers.</h4>
+<h4>Despite not being able to use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts.</h4> -->
 
 <hr>
 
@@ -279,8 +279,8 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 
 |       | Instructions |
 |-------|--------------|
-|       | Royalty-free stock photos can be found on [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), or [Unsplash](https://unsplash.com/) |
-|       | Free photo editing tools like [Photopea](https://www.photopea.com/) can streamline the editing process with its ability to import images from URLs and export images directly into [imgur](https://imgur.com/) |
+| Note: | Royalty-free stock photos can be found on [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), or [Unsplash](https://unsplash.com/) |
+| Note: | Free photo editing tools like [Photopea](https://www.photopea.com/) can streamline the editing process with its ability to import images from URLs and export images directly into [imgur](https://imgur.com/) |
 
 <hr>
 
@@ -296,7 +296,7 @@ git commit -m ":pencil2: fix typo on cart page"
 
 |       | Instructions |
 |-------|--------------|
-|       | GitHub-friendly commit emojis can be found on [gitmoji](https://gitmoji.dev/) |
+| Note: | GitHub-friendly commit emojis can be found on [gitmoji](https://gitmoji.dev/). |
 
 <hr>
 
@@ -318,9 +318,9 @@ git commit -m ":pencil2: fix typo on cart page"
 
 |       | Instructions |
 |-------|--------------|
-| Note: | This works best with images of similar heights |
+| Note: | This works best with images of similar heights. |
 
-## Examples
+## <h2 align="center"> Full README Examples
 
 <details open>
 <summary>   
@@ -354,7 +354,7 @@ https://github.com/amarpan/meet-your-classmates
 - [x] Add Contributions
 - [x] Add Examples from other GA students
 - [x] Add code samples that are easy to copy and paste
-- [ ] Add horizontally-scrolling images feature
+- [x] Add horizontally-scrolling images feature
  
 ## Contributions
 <details>
