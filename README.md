@@ -42,16 +42,19 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 ## <h2  align="center">Description</h2>
  
 
- |   Code                                                                                |     
+ |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
  | <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">                            |
- | Code                                                                                  |        
- | `<div align="center">`                                                                |   
- | `# <h1>:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>`|            
- | `### <h3>https://meetyourclassmates.herokuapp.com/</h3>`                              | 
- | ` `|                                                                                   |  
- | ` `|             
- | ` `|     
+ | Code {Feel Fee to Copy & Paste}                                                                                 |        
+ `<div align="center">`       
+
+ `# <h1>:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>` 
+
+ `### <h3>https://meetyourclassmates.herokuapp.com/</h3>`                               
+
+ `#### <h5>Teammate Name | Your Name | Teammate Name </h5>`                             
+ ` `             
+ ` `|     
    
  
 |            | Instructions |
