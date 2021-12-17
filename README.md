@@ -40,8 +40,12 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 ***For a quick review on how to use Markdown, go [here](https://www.markdowntutorial.com/).   
 
 ## <h2  align="center">Header & Description</h2>
- 
-  <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800"> 
+
+<div align="center"> 
+
+  <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">
+
+</div>
 
  |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
