@@ -106,8 +106,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 | Note:      |Image dimensions can also be resized by specifying width and height.| 
 |            |Ex. `<img src="" width="300" height="400">`| 
 
-## <h2  align="center">Technologies Used</h2>
- <img src="./images/BAD-TECHNOLOGIES-USED.png">    
+## <h2  align="center">Technologies Used</h2>  
  <img src="./images/GOOD-TECHNOLOGIES-USED.png">    
 
 |            | Instructions |
