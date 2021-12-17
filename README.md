@@ -145,10 +145,11 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
  |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
- |  <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png">                          |
+ |  <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png">                      |
  | Code {Feel Fee to Copy & Paste}   
 
- `## 💻 Technologies Used`
+ `## 💻 Technologies Used`   
+
  `![MongoDB Atlas](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)`   
 
  `![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)`
@@ -189,21 +190,26 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  |---------------------------------------------------------------------------------------|                      
  | <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">    
                         
- | Code {Feel Fee to Copy & Paste}   
+ Code {Feel Fee to Copy & Paste}   
 
- `## ⚛️ Getting Started`
-`### 📲 Instructions`
-`<details open>`
+ `## ⚛️ Getting Started`   
+
+`### 📲 Instructions`   
+
+`<details open>`   
+
 `<summary>How to Create a Post</summary>`
  
 `1. Type in your answers to each of the 3` `randomly-generated mini-survey questions.` 
  
 `2. Click on "Add Survey" to post your responses so` `others may see them.`
  
-`3. Click on the "X" in the bottom-right corner to` `delete a post. `
+`3. Click on the "X" in the bottom-right corner to` `delete a post. `   
+
 `</details>`
 
-`<details>`
+`<details>`   
+
 `<summary>How to Interact With Others' Posts</summary>`
  
 `1.  Posts may be "liked" or "disliked" by clicking` `on the thumbs up or down button on their card.`
@@ -216,17 +222,22 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 `### 🔗 Links`
 
-`<details>`
-`<summary>Trello Board</summary>`
-`<a href="https://trello.com/b/x4ViComX/meet-your-classmates-project-4">https://trello.com/b/x4ViComX/``meet-your-classmates-project-4</a>`
+`<details>`   
+
+`<summary>Trello Board</summary>`   
+
+`<a href="https://trello.com/b/x4ViComX/meet-your-classmates-project-4">https://trello.com/b/x4ViComX/``meet-your-classmates-project-4</a>`   
+
 `</details>`
 
 
-`<details open>`
-`<summary>Deployed Link (Heroku)</summary>`
+`<details open>`   
+
+`<summary>Deployed Link (Heroku)</summary>`   
+
 `<a href="https://meetyourclassmates.herokuapp.com/``">https://meetyourclassmates.herokuapp.com/</a>`
-`</details>`
- ` `
+`</details>`   
+
 |            | Instructions |
 |------------|--------------|
 | Note:      | Use number lists as opposed to lengthy paragraphs to make sure this section is easily readable.
@@ -234,8 +245,8 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 | Note:      | Try to choose something simple and memorable when choosing your Heroku URL / link name.
 
 ## <h2  align="center">Next Steps</h2>
- <img src="./images/BAD-NEXT-STEPS.png">    
- <img src="./images/GOOD-NEXT-STEPS.png">    
+   
+ <img src="./images/GOOD-NEXT-STEPS-SINGLE.png">    
 
 |            | Instructions |
 |------------|--------------|
