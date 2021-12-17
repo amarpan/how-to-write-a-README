@@ -112,7 +112,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  `| Description | Screenshot |`
  `|------------ | ------------|`
  `| <h3 align="center">Home Page</h3> | <img src="https://github.com/amarpan/``meet-your-classmates/raw/main/public/Screenshots/Homepage.Wireframe.MYC.png"` `width="700">`
- `| <h3 align="center">Profile Page</h3> | <img src="https://github.com/amarpan/``meet-your-classmates/raw/main/public/Screenshots/ProfilePage.Wireframe.MYC.png" width="700">`
+ `<h3 align="center">Profile Page</h3> | <img src="https://github.com/amarpan/``meet-your-classmates/raw/main/public/Screenshots/ProfilePage.Wireframe.MYC.png" width="700">`
  
  
 `</details>`
