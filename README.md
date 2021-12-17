@@ -33,18 +33,15 @@
 The README is often the most overlooked and underestimated aspect of a General Assembly SEI project, frequently left until the very last minute.
 And yet, it is what employers directly look at when assessing one's technical competency as a developer.
 </h4>
-<hr/>
 
 <h4>
 Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI README that would make any employer blush.
 </h4>
-<hr/>
 
 This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md)      
 
 For a quick review on how to use Markdown, go [here](https://www.markdowntutorial.com/). For GitHub specific markdown, go [here](https://github.github.com/gfm/)
 
-<hr>
 
 <h2  align="center">Project Header & Description</h2>
 
