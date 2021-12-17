@@ -107,12 +107,44 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 |            |Ex. `<img src="" width="300" height="400">`| 
 
 ## <h2  align="center">Technologies Used</h2>  
- <img src="./images/GOOD-TECHNOLOGIES-USED.png">    
+
+ |                                                                              |     
+ |---------------------------------------------------------------------------------------|                      
+ |  <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png">                          |
+ | Code {Feel Fee to Copy & Paste}   
+
+ `![MongoDB Atlas](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)`   
+
+ `![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)`
+
+`![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)` 
+
+`![Node](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)`
+
+`![SemanticUIReact](https://img.shields.io/badge/-Semantic%20UI%20React-333?style=flat&logo=semanticuireact)`
+
+`![AWS S3](https://img.shields.io/badge/-AWS_S3-333?style=flat&logo=amazons3)`
+
+`![JWT](https://img.shields.io/badge/-JSON_Web_Tokens-333?style=flat&logo=jsonwebtokens)`
+
+`![Mongoose ODM](https://img.shields.io/badge/-Mongoose_ODM-333?style=flat&logo=mongodb)`
+
+`![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)` 
+
+`![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)`
+
+`![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)`
+
+`![Trello](https://img.shields.io/badge/-Trello-333?style=flat&logo=trello)`
+
+`![Heroku](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)`
+
+`![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)`       
+   
 
 |            | Instructions |
 |------------|--------------|
-| Note:      | Separate each technology used with a `\|` (vertical bar) to avoid making your README unnecessarily lengthy.
-
+| Note:      | 
 ## <h2  align="center">Getting Started</h2>
  <img src="./images/BAD-GETTING-STARTED.png">    
  <img src="./images/GOOD-GETTING-STARTED.png">    
