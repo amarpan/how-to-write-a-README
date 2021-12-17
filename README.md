@@ -38,7 +38,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md)      
 
-For a quick review on how to use Markdown, go [here](https://www.markdowntutorial.com/). For GitHub specific markdown, go [here](https://github.github.com/gfm/), and GitHub-friendly emojis can be found [here](https://github.com/ikatyang/emoji-cheat-sheet)
+For a quick review on how to use Markdown, go [here](https://www.markdowntutorial.com/). For GitHub specific markdown, go [here](https://github.github.com/gfm/)
 
 <hr>
 
@@ -66,8 +66,8 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
       <img src="https://img.shields.io/badge/-medium.com/@user-black?style=flat&logo=medium">
    </a>
 </div>
-<h1>:pencil: Description</h1>
 
+<h1>:pencil: Description</h1>
 <p>Meet Your Classmates is an Instagram-clone and hub where students can get to know and relate to their peers via completion of short 3-question mini-surveys. By learning about others' backgrounds, previous experiences, and interests, an atmosphere of community is created that is conducive to higher levels of learning and success.</p>
 ```
 
@@ -135,7 +135,7 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 </div>
 
 ```markdown
-## 💻 Technologies Used
+## :computer: Technologies Used
 
 ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 
@@ -171,6 +171,8 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 |------------|--------------|
 | Note:      | 
  -->
+
+<hr>
 
 <h2  align="center">Project 'Getting Started' Section</h2>
 
@@ -247,21 +249,78 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 
 <hr>
 
-<h2  align="center">The Final Product</h2>
+<h2 align="center">The Final Product</h2>
 <h4 align="center">(On GitHub)</h3>
 
 <div align="center">
-
  <img align="center" src="./images/GOOD-FULL-README.png">  
-
 </div>
 
-<h4>Today we learned how to convert an average README into one that instantly catches the eyes of employers.</h4>   
- 
- <h4>Despite not being able to use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts.</h4>
- 
- ## Examples
- 
+<h4>Today we learned how to convert an average README into one that instantly catches the eyes of employers.</h4>
+<h4>Despite not being able to use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts.</h4>
+
+<hr>
+
+<h1  align="center">Optional Additions</h1>
+
+<h2 align="center">Project Banner<h2>
+
+<div align="center"> 
+   <img src="./images/OPTIONAL-PROJECT-BANNER.png"> 
+</div>
+
+```html
+<div align="center">
+   <img src="https://i.imgur.com/y2SPx4E.jpg" width="800" height="400" />
+   <h1 align="center">plantrade</h1>
+</div>
+```
+
+|       | Instructions |
+|-------|--------------|
+|       | Royalty-free stock photos can be found on [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), or [Unsplash](https://unsplash.com/) |
+|       | Free photo editing tools like [Photopea](https://www.photopea.com/) can streamline the editing process with its ability to import images from URLs and export images directly into [imgur](https://imgur.com/) |
+
+<hr>
+
+<h2 align="center">Colorful commits<h2>
+
+<div align="center"> 
+   <img src="./images/OPTIONAL-COMMITS.png" width="800"> 
+</div>
+
+```console
+git commit -m ":pencil2: fix typo on cart page"
+```
+
+|       | Instructions |
+|-------|--------------|
+|       | GitHub-friendly commit emojis can be found on [gitmoji](https://gitmoji.dev/) |
+
+<hr>
+
+<h2 align="center">Carousel Hack<h2>
+
+<div align="center"> 
+   <img src="./images/OPTIONAL-CAROUSEL.png" width="800"> 
+</div>
+
+```html
+<pre>
+  <img src="https://i.imgur.com/NdzHyyX.png" width="700" height="500" />
+  <img src="https://i.imgur.com/XIxBAcO.png" width="700" height="500" />
+  <img src="https://i.imgur.com/tYVxWvF.png" width="700" height="500" />
+  <img src="https://i.imgur.com/vRjshke.png" width="700" height="500" />
+  <img src="https://i.imgur.com/qap5IXS.png" width="700" height="500" />
+</pre>
+```
+
+|       | Instructions |
+|-------|--------------|
+| Note: | This works best with images of similar heights |
+
+## Examples
+
 <details open>
 <summary>   
 Neil Italia - GA SEI Oct '21 - Dallas / Fort Worth, TX   
