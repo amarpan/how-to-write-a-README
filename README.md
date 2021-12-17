@@ -1,21 +1,20 @@
-# <h1 align="center">How to Write a GA SEI Project README</h1>
+<h1 align="center">How to Write a GA SEI Project README</h1>
 <!-- ###### <h6 align="center">by</h6> -->
-###### <h6 align="center"> [Professor Pan, M.Ed. - GA SEI '21](https://www.linkedin.com/in/amarpan/)</h6>
+<h6 align="center">
+   <a href="https://www.linkedin.com/in/amarpan/">Professor Pan, M.Ed. - GA SEI '21</a>
+</h6>
 <div align="center">
  <a href="https://amarpan.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-violet?style=flat&logo="
+    <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-violet?style=flat&logo="/>
  </a>
-    
  <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
-      <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white"/>
  </a> 
-  
  <a href="mailto:amar.panjwani@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/>
  </a>
-    
    <a href="https://www.github.com/amarpan/" target="_blank">
-      <img src="https://img.shields.io/badge/-github.com/amarpan-orange?style=flat&logo=GitHub&logoColor=white">
+      <img src="https://img.shields.io/badge/-github.com/amarpan-orange?style=flat&logo=GitHub&logoColor=white"/>
  </a> 
   
   
@@ -26,13 +25,13 @@
   ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
   
 </div>
+
 <h4>
 The README is often the most overlooked and underestimated aspect of a General Assembly SEI project, frequently left until the very last minute.
 And yet, it is what employers directly look at when assessing one's technical competency as a developer. <hr/>
 
 Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI README that would make any employer blush. <hr/>
- 
- </h4>
+</h4>
 
 
  ***This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md).       
@@ -42,47 +41,38 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 ## <h2  align="center">Header & Description</h2>
 
 <div align="center"> 
-
   <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">
-
 </div>
 
  |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
  | __Code__
 
- `<div align="center">`       
+```html
+<div align="center">
+   <h1>:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>
+   <h3>https://meetyourclassmates.herokuapp.com/</h3>
+   <h5>Teammate Name | Your Name | Teammate Name </h5>`                             
+   <a href="https://yourportfoliolink.com" target="_blank">
+      <img src="https://img.shields.io/badge/-Portfolio:_user.github.io-darkgreen?style=flat&logo=medium"/>
+   </a>
+   <a href="https://www.linkedin.com/in/user/" target="_blank">
+      <img src="https://img.shields.io/badge/-linkedin.com/in/user-blue?style=flat&``logo=Linkedin&logoColor=white">
+   </a> 
+   <a href="mailto:user@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/-user@gmail.com-c14438?style=flat&logo=Gmail&``logoColor=white">
+   </a>
+   <a href="https://medium.com/@user">
+      <img src="https://img.shields.io/badge/-medium.com/@user-black?style=flat&logo=medium">
+   </a>
+</div>
 
- `# <h1>:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>` 
+## :pencil: Description
 
- `### <h3>https://meetyourclassmates.herokuapp.com/</h3>`                               
-
- `##### <h5>Teammate Name | Your Name | Teammate Name </h5>`                             
-           
- `<a href="https://yourportfoliolink.com" target="_blank">`
-    `<img src="https://img.shields.io/badge/-Portfolio:_user.github.io-darkgreen?style=flat&``logo=medium"`
-
- </a>
-    
- `<a href="https://www.linkedin.com/in/user/" target="_blank">`
-      `<img src="https://img.shields.io/badge/-linkedin.com/in/user-blue?style=flat&``logo=Linkedin&logoColor=white">`
- </a> 
-    
- `<a href="mailto:user@gmail.com" target="_blank">`
-    `<img src="https://img.shields.io/badge/-user@gmail.com-c14438?style=flat&logo=Gmail&``logoColor=white">`
- </a>
-    
- `<a href="https://medium.com/@user">`
-    `<img src="https://img.shields.io/badge/-medium.com/@user-black?style=flat&logo=medium">`
- `</a>`
-
- `</div>`     
-
- `## :pencil: Description`
-
-`Meet Your Classmates is an Instagram-clone and hub where students can get to know and relate to their peers via completion of short 3-question mini-surveys. By learning about others' backgrounds, previous experiences, and interests, an atmosphere of community is created that is conducive to higher levels of learning and success.`
+Meet Your Classmates is an Instagram-clone and hub where students can get to know and relate to their peers via completion of short 3-question mini-surveys. By learning about others' backgrounds, previous experiences, and interests, an atmosphere of community is created that is conducive to higher levels of learning and success.
    
- 
+```
+
 |            | Instructions |
 |------------|--------------|
 | Note:      | Each `#` stands for a header of that number in HTML. | 
