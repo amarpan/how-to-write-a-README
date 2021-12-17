@@ -49,7 +49,6 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
  |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
- | <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">                            |
  | __Code__
 
  `<div align="center">`       
@@ -97,10 +96,14 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 ## <h2  align="center">Screenshots</h2>
     
+<div align="center"> 
+
+   <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
+
+</div>
 
  |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
- |  <img src="./images/GOOD-SCREENSHOTS-SOLO.png">                     |
  | __Code__   
  
  `<details>`
@@ -159,6 +162,13 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 ## <h2  align="center">Technologies Used</h2>  
 
+    
+<div align="center"> 
+
+   <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
+
+</div>
+
  |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
  |  <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png">                      |
@@ -202,6 +212,13 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 ## <h2  align="center">Getting Started</h2>   
  
+     
+<div align="center"> 
+
+   <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
+
+</div>
+
  |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
  | <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">    
@@ -264,12 +281,17 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 ## <h2  align="center">Next Steps</h2>
    
+       
+<div align="center"> 
+
+   <img src="./images/GOOD-NEXT-STEPS-SINGLE.png"> 
+
+</div>
+
  
 
 |                                                                              |     
- |---------------------------------------------------------------------------------------|                      
- | <img src="./images/GOOD-NEXT-STEPS-SINGLE.png">    
-                        
+|------------------------------------------------------------------------------|                   
  __Code__
 
 `## :fast_forward: Next Steps`   
@@ -292,8 +314,11 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 ## <h2  align="center">The Final Product</h2>
 #### <h4 align="center">(On GitHub)</h3>
+
 <div align="center">
- <img align="center" src="./images/GOOD-FULL-README.png">    
+
+ <img align="center" src="./images/GOOD-FULL-README.png">  
+
 </div>
 
 <h4>Today we learned how to convert an average README into one that instantly catches the eyes of employers.</h4>   
@@ -301,6 +326,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  <h4>Despite not being able to use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts.</h4>
  
  ## Examples
+ 
 <details open>
 <summary>   
 Neil Italia - GA SEI Oct '21 - Dallas / Fort Worth, TX   
