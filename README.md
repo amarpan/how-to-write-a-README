@@ -48,7 +48,6 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 </div>
 
  |                                                                              |     
- |------------------------------------------------------------------------------|  
  ---
  `<div align="center">`       
 
