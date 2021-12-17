@@ -48,9 +48,8 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 </div>
 
  |                                                                              |     
- |---------------------------------------------------------------------------------------|                      
- | __Code__
-
+ |------------------------------------------------------------------------------|  
+ ---
  `<div align="center">`       
 
  `# <h1>:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>` 
@@ -102,9 +101,8 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 </div>
 
- |                                                                              |     
- |---------------------------------------------------------------------------------------|                      
- | __Code__   
+ |                                                                              |        |     
+ |---------------------------------------------------------------------------------------|------|                      
  
  `<details>`
 
@@ -172,8 +170,6 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
  |  <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png">                      |
- | __Code__  
-
  `## 💻 Technologies Used`   
 
  `![MongoDB Atlas](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)`   
@@ -222,9 +218,6 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  |                                                                              |     
  |---------------------------------------------------------------------------------------|                      
  | <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">    
-                        
- __Code__  
-
  `## :atom_symbol: Getting Started`   
 
 `### :calling: Instructions`   
@@ -292,8 +285,6 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 |                                                                              |     
 |------------------------------------------------------------------------------|                   
- __Code__
-
 `## :fast_forward: Next Steps`   
 
 `### Upcoming Features`
