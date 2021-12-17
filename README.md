@@ -10,32 +10,17 @@
  </a>
  
  <a href="https://amarpan.github.io" target="_blank">
-<<<<<<< HEAD
-    <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-violet?style=flat&logo="/>
- </a>
-=======
-    <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-gold?style=flat&logo="
+    <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-gold?style=flat&logo=" />
  </a>
   
  <a href="https://www.github.com/amarpan/" target="_blank">
       <img src="https://img.shields.io/badge/-github.com/amarpan-darkgreen?style=flat&logo=GitHub&logoColor=white">
  </a> 
     
->>>>>>> upstream/main
  <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white"/>
  </a> 
-<<<<<<< HEAD
- <a href="mailto:amar.panjwani@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white"/>
- </a>
-   <a href="https://www.github.com/amarpan/" target="_blank">
-      <img src="https://img.shields.io/badge/-github.com/amarpan-orange?style=flat&logo=GitHub&logoColor=white"/>
- </a> 
-
-=======
   
->>>>>>> upstream/main
  <a href="https://medium.com/@amarpan">
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-violet?style=flat&logo=medium">
  </a> 
@@ -67,7 +52,6 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
   <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">
 </div>
 
-<<<<<<< HEAD
 ```html
 <div align="center">
    <h1>:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>
@@ -86,36 +70,6 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
       <img src="https://img.shields.io/badge/-medium.com/@user-black?style=flat&logo=medium">
    </a>
 </div>
-=======
-   
- ---
- `<div align="center">`       
-
- `# <h1>:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>` 
-
- `### <h3>https://meetyourclassmates.herokuapp.com/</h3>`                               
-
- `##### <h5>Teammate Name | Your Name | Teammate Name </h5>`                             
-           
- `<a href="https://yourportfoliolink.com" target="_blank">`
-    `<img src="https://img.shields.io/badge/-Portfolio:_user.github.io-darkgreen?style=flat&``logo=medium"`
-
- </a>
-    
- `<a href="https://www.linkedin.com/in/user/" target="_blank">`
-      `<img src="https://img.shields.io/badge/-linkedin.com/in/user-blue?style=flat&``logo=Linkedin&logoColor=white">`
- </a> 
-    
- `<a href="mailto:user@gmail.com" target="_blank">`
-    `<img src="https://img.shields.io/badge/-user@gmail.com-c14438?style=flat&logo=Gmail&``logoColor=white">`
- </a>
-    
- `<a href="https://medium.com/@user">`
-    `<img src="https://img.shields.io/badge/-medium.com/@user-black?style=flat&logo=medium">`
- `</a>`
-
- `</div>`     
->>>>>>> upstream/main
 
 <h1>:pencil: Description</h1>
 <p>Meet Your Classmates is an Instagram-clone and hub where students can get to know and relate to their peers via completion of short 3-question mini-surveys. By learning about others' backgrounds, previous experiences, and interests, an atmosphere of community is created that is conducive to higher levels of learning and success.</p>
@@ -138,7 +92,6 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 <div align="center"> 
    <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
 </div>
-<<<<<<< HEAD
 
 ```html
 <details>
@@ -147,43 +100,6 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 |------------ | ------------|
 | <h3 align="center">ERD</h3> | <img src="https://``github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png" width="700"> |
 </details>
-=======
-               
- `<details>`
-
- `<summary> :bar_chart: ERD</summary>`
-
- `| Description | Screenshot |`
-
- `|------------ | ------------|`
-
- `| <h3 align="center">ERD</h3> | <img src="https://``github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png" width="700">`
- 
-`</details>`
-
-`<details>`
-
- `<summary> :art: Wireframes</summary>`
- 
- `| Description | Screenshot |`
- 
- `|------------ | ------------|`
-
- `| <h3 align="center">Home Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/Homepage.Wireframe.MYC.png"` `width="700">`
-
- `<h3 align="center">Profile Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.Wireframe.MYC.png" width="700">`
- 
- 
-`</details>`
-
-`<details open>`
-
- `<summary> :gear: Functionality</summary>`
- 
- `| Description | Screenshot |`
-
- `|------------ | ------------|`
->>>>>>> upstream/main
 
 <details>
 <summary> :art: Wireframes</summary>
@@ -198,7 +114,7 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 | Description | Screenshot |
 |------------ | ------------|
 | <h3 align="center">Feed Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/blob/main/public/Screenshots/FeedPage.png?raw=true" width="700"/> |
-| <h3 align="center">Profile Page</h3> | <img src="https://github.com/amarpan/``meet-your-classmates/raw/main/public/Screenshots/ProfilePage.png" width="700"/> |
+| <h3 align="center">Profile Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.png" width="700"/> |
 </details>
 ```   
 
@@ -222,17 +138,10 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
    <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png">
 </div>
 
-<<<<<<< HEAD
 ```markdown
 ## :computer: Technologies Used
 
 ![MongoDB Atlas](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-=======
- |                                                                              |     
- |---------------------------------------------------------------------------------------|                      
- |  <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png">                      |
- `## 💻 Technologies Used`   
->>>>>>> upstream/main
 
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
 
@@ -267,21 +176,13 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 | Note:      | 
  -->
 
-<<<<<<< HEAD
 <hr>
-=======
-<!-- ## <h2  align="center">Getting Started</h2>   
- 
-     
-<div align="center"> 
->>>>>>> upstream/main
 
 <h2  align="center">Project 'Getting Started' Section</h2>
 
 <div align="center"> 
    <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">
 </div>
-<<<<<<< HEAD
 
 ```html
 <h2> :atom_symbol: Getting Started </h2>
@@ -295,14 +196,6 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 <li>Click on the "X" in the bottom-right corner to delete a post.</li>
 </ol>
 </details>
-=======
- -->
- |                                                                              |     
- |---------------------------------------------------------------------------------------|                      
- | <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">    
- 
- `## :atom_symbol: Getting Started`   
->>>>>>> upstream/main
 
 <details>
 <summary>How to Interact With Others' Posts</summary>
@@ -379,7 +272,6 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 <div align="center"> 
    <img src="./images/OPTIONAL-PROJECT-BANNER.png"> 
 </div>
-<<<<<<< HEAD
 
 ```html
 <div align="center">
@@ -394,10 +286,6 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 |       | Free photo editing tools like [Photopea](https://www.photopea.com/) can streamline the editing process with its ability to import images from URLs and export images directly into [imgur](https://imgur.com/) |
 
 <hr>
-=======
- 
-`## :fast_forward: Next Steps`   
->>>>>>> upstream/main
 
 <h2 align="center">Colorful commits<h2>
 
