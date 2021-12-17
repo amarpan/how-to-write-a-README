@@ -225,7 +225,7 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 
 |            | Instructions |
 |------------|--------------|
-| Note:      | Use number lists as opposed to lengthy paragraphs to make sure this section is easily readable.
+| Note:      | Use numbered lists as opposed to lengthy paragraphs to make sure this section is easily readable.
 | Note:      | Put your links in more drop-down menus using `<details open>` and `<summary>`.
 | Note:      | Try to choose something simple and memorable when choosing your Heroku URL / link name.
 
