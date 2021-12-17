@@ -111,7 +111,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  ## Examples
 <details open>
 <summary>   
-Neil Italia - GA SEI Oct '21 - Dallas, TX   
+Neil Italia - GA SEI Oct '21 - Dallas / Fort Worth, TX   
 </summary>
 <h4> 
 
@@ -127,7 +127,7 @@ https://github.com/neilitalia/spacex-flights
  </h5>
  <details open>
 <summary>   
-Amar 'Pan' Panjwani - GA SEI Nov '21 - Los Angeles, CA   
+Amar 'Pan' Panjwani - GA SEI Nov '21 - Apple Valley, CA (Los Angeles)   
 </summary>
 <h4> 
 
@@ -143,17 +143,17 @@ https://github.com/amarpan/meet-your-classmates
  
 ## Contributions
 <details>
-<summary>Neil Italia</summary>
+<summary>Neil Italia - GA SEI Oct '21 - Dallas / Fort Worth, TX </summary>
 <h4> How to Add Horizontally-Scrolling Images (In-Progress) </h4>
 </details>
 
 <details>
-<summary>Isaac Ferrero </summary>
+<summary>Isaac Ferrero - GA SEI Nov '21 - Bremerton, WA (Seattle)   </summary>
 <h4> Proofreading | Editing | Quality Assurance </h4>
 </details>
 
 <details>
-<summary>Miguel Urena</summary>
+<summary>Miguel Urena - GA SEI Nov '21 - Anaheim, CA (Orange County / Los Angeles)   </summary>
 <h4> Quality Assurance </h4>
 </details>
 
