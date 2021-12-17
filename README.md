@@ -246,7 +246,21 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 ## <h2  align="center">Next Steps</h2>
    
- <img src="./images/GOOD-NEXT-STEPS-SINGLE.png">    
+ 
+
+|                                                                              |     
+ |---------------------------------------------------------------------------------------|                      
+ | <img src="./images/GOOD-NEXT-STEPS-SINGLE.png">    
+                        
+ Code {Feel Fee to Copy & Paste}   
+
+## ⏭️ Next Steps
+### Upcoming Features
+`- [X] Add gifs to animated sliding buttons`   
+`- [ ] Add comment functionality on posts to encourage discussion`
+`- [ ] Add edit and update functionality for a user's profile`    
+`- [ ] <s>Add Tinder API Integration </s>`
+  
 
 |            | Instructions |
 |------------|--------------|
