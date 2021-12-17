@@ -124,10 +124,10 @@ https://github.com/neilitalia/spacex-flights
 
 </h4>
 </details>
- 
+ </h5>
  <details open>
 <summary>   
-My Own   
+Amar 'Pan' Panjwani - GA SEI Nov '21 - Los Angeles, CA   
 </summary>
 <h4> 
 
