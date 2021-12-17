@@ -1,11 +1,11 @@
 <h1 align="center">How to Write a GA SEI Project README</h1>
 <!-- ###### <h6 align="center">by</h6> -->
 <h6 align="center">
-   <a href="https://www.linkedin.com/in/amarpan/">Professor Pan, M.Ed. - GA SEI '21</a>
+   <a href="https://www.linkedin.com/in/amarpan/">Amar Pan (GA SEI Nov '21) | Neil Italia (GA SEI Oct '21)</a>
 </h6>
 <div align="center">
  
-  <a href="mailto:amar.panjwani@gmail.com" target="_blank">
+  <!-- <a href="mailto:amar.panjwani@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
  
@@ -23,7 +23,7 @@
   
  <a href="https://medium.com/@amarpan">
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-darkgreen?style=flat&logo=medium">
- </a>
+ </a> -->
     
   ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
 
