@@ -2,4 +2,5 @@
 ### Upcoming Features
 - [X] Add gifs to animated sliding buttons
 - [ ] Add comment functionality on posts to encourage discussion
-- [ ] Add edit and update functionality for a user's profile
+- [ ] Add edit and update functionality for a user's profile   
+- [ ] <s>Add Tinder API Integration </s>
