@@ -259,7 +259,7 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 <hr>
 
 <h2 align="center">The Final Product</h2>
-<h4 align="center">(On GitHub)</h3>
+
 
 <div align="center">
  <img align="center" src="./images/GOOD-FULL-README.png">  
