@@ -40,7 +40,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md).      
 
-For a quick review on how to use Markdown, go [here](https://www.markdowntutorial.com/). For GitHub specific markdown, go [here](https://github.github.com/gfm/).
+For a quick review on how to use Markdown, go [here](https://www.markdowntutorial.com/). For GitHub-flavored Markdown documentation, go [here](https://github.github.com/gfm/).
 
 
 <h2  align="center">Project Header & Description</h2>
