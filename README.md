@@ -104,10 +104,10 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  `|------------ | ------------|`
  `| <h3 align="center">ERD</h3> | <img src="https://``github.com/amarpan/meet-your-classmates/raw/main/``public/Screenshots/ERD.MYC.png" width="700">`
  
-`</details>
+`</details>`
 
-`<details>
- `<summary> 🎨 Wireframes</summary>
+`<details>`
+ `<summary> 🎨 Wireframes</summary>`
  
  `| Description | Screenshot |`
  `|------------ | ------------|`
