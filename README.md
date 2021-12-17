@@ -51,7 +51,7 @@ This tutorial assumes you already have some semblance of a README. If you're sta
 For a quick review on how to use Markdown, go [here](https://www.markdowntutorial.com/). For GitHub-flavored Markdown documentation, go [here](https://github.github.com/gfm/).
 
 
-<h2  align="center">Project Header & Description</h2>
+<h2  align="center">Header & Description</h2>
 
 <div align="center"> 
   <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">
@@ -93,7 +93,7 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 
 <hr>
 
-<h2  align="center">Project Screenshots</h2>
+<h2  align="center">Screenshots</h2>
 <div align="center"> 
    <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
 </div>
@@ -137,7 +137,7 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 
 <hr>
 
-<h2  align="center">Project Technologies Used</h2>  
+<h2  align="center">Technologies Used</h2>  
 
 <div align="center"> 
    <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png">
@@ -183,7 +183,7 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 
 <hr>
 
-<h2  align="center">Project 'Getting Started' Section</h2>
+<h2  align="center">Getting Started</h2>
 
 <div align="center"> 
    <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">
@@ -231,7 +231,7 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 
 <hr>
 
-<h2  align="center">Project Updates</h2>
+<h2  align="center">Next Steps</h2>
 
 <div align="center"> 
    <img src="./images/GOOD-NEXT-STEPS-SINGLE.png"> 
@@ -272,7 +272,7 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 
 <h1 align="center">Optional Additions</h1>
 
-<h2 align="center">Project Banner</h2>
+<h2 align="center">Banner</h2>
 
 <div align="center"> 
    <img src="./images/OPTIONAL-PROJECT-BANNER.png"> 
