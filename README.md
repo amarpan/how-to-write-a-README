@@ -92,7 +92,42 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
 
 ## <h2  align="center">Screenshots</h2>
     
- <img src="./images/GOOD-SCREENSHOTS-SOLO.png">
+
+ |                                                                              |     
+ |---------------------------------------------------------------------------------------|                      
+ |  <img src="./images/GOOD-SCREENSHOTS-SOLO.png">">                          |
+ | Code {Feel Fee to Copy & Paste}   
+ 
+ `<details>`
+ `<summary> 📊 ERD</summary>`
+ `| Description | Screenshot |`
+ `|------------ | ------------|`
+ `| <h3 align="center">ERD</h3> | <img src="https://``github.com/amarpan/meet-your-classmates/raw/main/``public/Screenshots/ERD.MYC.png" width="700">`
+ 
+`</details>
+
+`<details>
+ `<summary> 🎨 Wireframes</summary>
+ 
+ `| Description | Screenshot |
+ `|------------ | ------------|
+ `| <h3 align="center">Home Page</h3> | <img `src="https://github.com/amarpan/`meet-your-classmates/raw/main/public/Screenshots/`Homepage.Wireframe.MYC.png" width="700">
+ `| <h3 align="center">Profile Page</h3> | <img `src="https://github.com/amarpan/`meet-your-classmates/raw/main/public/Screenshots/`ProfilePage.Wireframe.MYC.png" width="700">
+ 
+ 
+`</details>
+
+`<details open>
+ `<summary> ⚙️ Functionality</summary>
+ 
+ `| Description | Screenshot |`
+ `|------------ | ------------|`
+ `| <h3 align="center">Feed Page</h3> | <img src="https://github.com/amarpan/``meet-your-classmates/blob/main/public/Screenshots/FeedPage.png?raw=true" width="700">`
+ `| <h3 align="center">Profile Page</h3> | <img src="https://github.com/amarpan/``meet-your-classmates/raw/main/public/Screenshots/ProfilePage.png" width="700">`
+ 
+`</details>`   
+`</details>`
+       
 
 |            | Instructions |
 |------------|--------------|
@@ -113,6 +148,7 @@ Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI
  |  <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png">                          |
  | Code {Feel Fee to Copy & Paste}   
 
+ `## 💻 Technologies Used`
  `![MongoDB Atlas](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)`   
 
  `![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)`
