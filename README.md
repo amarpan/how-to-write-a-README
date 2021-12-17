@@ -10,15 +10,15 @@
       <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
  </a> 
   
-   <a href="https://www.github.com/amarpan/" target="_blank">
-      <img src="https://img.shields.io/badge/-github.com/amarpan-orange?style=flat&logo=GitHub&logoColor=white">
- </a> 
-    
-    
  <a href="mailto:amar.panjwani@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
     
+   <a href="https://www.github.com/amarpan/" target="_blank">
+      <img src="https://img.shields.io/badge/-github.com/amarpan-orange?style=flat&logo=GitHub&logoColor=white">
+ </a> 
+  
+  
  <a href="https://medium.com/@amarpan">
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-black?style=flat&logo=medium">
  </a> 
