@@ -1,12 +1,13 @@
 <h1 align="center"><img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"> How to Write a GA SEI Project README <img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"></h1>
 <!-- ###### <h6 align="center">by</h6> -->
 <h6 align="center">
-   <a href="https://www.linkedin.com/in/amarpan/">Amar Pan (GA Los Angeles)</a> | <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia (GA Dallas)</a>      <br>
+   <a href="https://www.linkedin.com/in/amarpan/">Amar Pan
+      </a> + <a href="https://www.linkedin.com/in/neilitalia">Neil Italia</a>      <br>
    
       
    <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
- </a>    
+ </a>
    <a href="https://www.linkedin.com/in/neilitalia/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/neilitalia-blue?style=flat&logo=Linkedin&logoColor=white">
  </a>    
@@ -271,8 +272,8 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 <hr>
 
 <h1 align="center">Optional Additions</h1>
-
-<h2 align="center">Banner</h2>
+<h6 align="center">by <br> Neil Italia GA SEI Oct '21 Dallas, TX
+<h2 align="center">Header Banner</h2>
 
 <div align="center"> 
    <img src="./images/OPTIONAL-PROJECT-BANNER.png"> 
@@ -288,11 +289,11 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 |       | Instructions |
 |-------|--------------|
 | Note: | Royalty-free stock photos can be found on [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), or [Unsplash](https://unsplash.com/). |
-| Note: | Free photo editing tools like [Photopea](https://www.photopea.com/) can streamline the editing process with its ability to import images from URLs and export images directly into [imgur](https://imgur.com/). |
+| Note: | Free photo editing tools like [Photopea](https://www.photopea.com/) can streamline the editing process with their ability to import images from URLs and export images directly into [imgur](https://imgur.com/). |
 
 <hr>
 
-<h2 align="center">Colorful Commits</h2>
+<h2 align="center">Emoji Commits</h2>
 
 <div align="center"> 
    <img src="./images/OPTIONAL-COMMITS.png" width="800" /> 
@@ -328,7 +329,7 @@ git commit -m ":pencil2: fix typo on cart page"
 |-------|--------------|
 | Note: | This works best with images of similar heights. |
 
-## <h2 align="center"> Full README Examples
+## Full README Examples
 
 </details>
  </h5>
@@ -371,12 +372,18 @@ https://github.com/neilitalia/spacex-flights
 ## Contributions
 <details>
 <summary>Neil Italia - GA SEI Oct '21 - Dallas / Fort Worth, TX </summary>
-<h4> How to Add Horizontally-Scrolling Images (In-Progress) </h4>
+<h4>Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider</h4>
 </details>
 
 <details>
-<summary>Isaac Ferrero - GA SEI Nov '21 - Bremerton, WA (Seattle)   </summary>
-<h4> Proofreading | Editing | Quality Assurance </h4>
+<summary>Olivia Emery - GA SEI Oct '15 - San Francisco, CA (Mountain View) - Technical Writer @ Google</summary>
+<h4> Editing, Suggestions for Clarity of Writing</h4>
+</details>
+
+
+<details>
+<summary>Isaac Ferrero - GA SEI Nov '21 - Seattle, WA (Bremerton)   </summary>
+<h4> Proofreading, Editing, and Quality Assurance </h4>
 </details>
 
 <details>
