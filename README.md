@@ -271,7 +271,7 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 <hr>
 
 <h1 align="center">Optional Additions</h1>
-
+<h6 align="center">Neil Italia GA SEI Oct '21 Dallas, TX
 <h2 align="center">Banner</h2>
 
 <div align="center"> 
