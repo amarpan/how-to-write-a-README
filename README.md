@@ -292,7 +292,7 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 
 <hr>
 
-<h2 align="center">Colorful Commits</h2>
+<h2 align="center">Emoji Commits</h2>
 
 <div align="center"> 
    <img src="./images/OPTIONAL-COMMITS.png" width="800" /> 
@@ -371,11 +371,11 @@ https://github.com/neilitalia/spacex-flights
 ## Contributions
 <details>
 <summary>Neil Italia - GA SEI Oct '21 - Dallas / Fort Worth, TX </summary>
-<h4> How to Add Horizontally-Scrolling Images (In-Progress) </h4>
+<h4>Code Samples, Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider</h4>
 </details>
 
 <details>
-<summary>Olivia Emery - GA SEI Oct '15 - San Francisco, CA {Technical Writer @ Google) </summary>
+<summary>Olivia Emery - GA SEI Oct '15 - San Francisco, CA (Technical Writer @ Google) </summary>
 <h4> Editing, Suggestions for Clarity of Writing</h4>
 </details>
 
