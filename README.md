@@ -381,7 +381,7 @@ https://github.com/neilitalia/spacex-flights
 
 <details>
 <summary>Miguel Urena - GA SEI Nov '21 - Anaheim, CA (Orange County / Los Angeles)   </summary>
-<h4> Quality Assurance </h4>
+<h4> Graphic Design, Social Media Rich Preview Banner, Quality Assurance </h4>
 </details>
 
 
