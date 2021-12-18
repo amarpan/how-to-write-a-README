@@ -2,7 +2,7 @@
 <!-- ###### <h6 align="center">by</h6> -->
 <h6 align="center">
    <a href="https://www.linkedin.com/in/amarpan/">Amar Pan
-      </a> - <a href="https://www.linkedin.com/in/neilitalia">Neil Italia</a>      <br>
+      </a> + <a href="https://www.linkedin.com/in/neilitalia">Neil Italia</a>      <br>
    
       
    <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
