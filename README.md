@@ -272,7 +272,7 @@ For a quick review on how to use Markdown, go [here](https://www.markdowntutoria
 
 <h1 align="center">Optional Additions</h1>
 <h6 align="center">by <br> Neil Italia GA SEI Oct '21 Dallas, TX
-<h2 align="center">Banner</h2>
+<h2 align="center">Header Banner</h2>
 
 <div align="center"> 
    <img src="./images/OPTIONAL-PROJECT-BANNER.png"> 
@@ -371,7 +371,7 @@ https://github.com/neilitalia/spacex-flights
 ## Contributions
 <details>
 <summary>Neil Italia - GA SEI Oct '21 - Dallas / Fort Worth, TX </summary>
-<h4>Code Samples, Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider</h4>
+<h4>Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider</h4>
 </details>
 
 <details>
