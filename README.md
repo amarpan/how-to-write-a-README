@@ -1,12 +1,13 @@
 <h1 align="center"><img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"> How to Write a GA SEI Project README <img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"></h1>
 <!-- ###### <h6 align="center">by</h6> -->
 <h6 align="center">
-   <a href="https://www.linkedin.com/in/amarpan/">Amar Pan (GA Los Angeles)</a> | <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia (GA Dallas)</a>      <br>
+   <a href="https://www.linkedin.com/in/amarpan/">Amar Pan | Neil Italia<br>
+      </a> <br> <a href="https://www.linkedin.com/in/neilitalia</a>      <br>
    
       
    <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
- </a>    
+ </a> |   
    <a href="https://www.linkedin.com/in/neilitalia/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/neilitalia-blue?style=flat&logo=Linkedin&logoColor=white">
  </a>    
