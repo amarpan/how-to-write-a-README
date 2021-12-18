@@ -328,7 +328,7 @@ git commit -m ":pencil2: fix typo on cart page"
 |-------|--------------|
 | Note: | This works best with images of similar heights. |
 
-## <h2 align="center"> Full README Examples
+## Full README Examples
 
 </details>
  </h5>
