@@ -375,8 +375,14 @@ https://github.com/neilitalia/spacex-flights
 </details>
 
 <details>
+<summary>Olivia Emery - GA SEI Oct '15 - San Francisco, CA {Technical Writer @ Google) </summary>
+<h4> Editing, Suggestions for Clarity of Writing</h4>
+</details>
+
+
+<details>
 <summary>Isaac Ferrero - GA SEI Nov '21 - Bremerton, WA (Seattle)   </summary>
-<h4> Proofreading | Editing | Quality Assurance </h4>
+<h4> Proofreading, Editing, and Quality Assurance </h4>
 </details>
 
 <details>
