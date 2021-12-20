@@ -394,10 +394,10 @@ https://github.com/neilitalia/spacex-flights
 <details>
    <summary>
       Amar (Pan) Panjwani - GA SEI Nov '21 - Apple Valley, CA (Los Angeles) - IT Manager at Summit Medical
+   </summary>
       <h4>
       Literally everything else + making this in the first place
-      </h4>
-   </summary>
+   </h4>
    </details>
 
 
