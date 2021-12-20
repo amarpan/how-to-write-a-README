@@ -390,6 +390,15 @@ https://github.com/neilitalia/spacex-flights
 <summary>Miguel Urena - GA SEI Nov '21 - Anaheim, CA (Orange County / Los Angeles)   </summary>
 <h4> Graphic Design, Social Media Rich Preview Banner, Quality Assurance </h4>
 </details>
+   
+<details>
+   <summary>
+      Amar (Pan) Panjwani - GA SEI Nov '21 - Apple Valley, CA (Los Angeles) - IT Manager at Summit Medical
+      <h4>
+      Literally everything else + making this in the first place
+      </h4>
+   </summary>
+   </details>
 
 
 
