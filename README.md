@@ -38,18 +38,18 @@
 
 </div>
 
-<h4>
-   The README is often the most overlooked and underestimated aspect of a General Assembly (GA) Software Engineering Immersive (SEI) project, frequently left until the very last minute.
-And yet, it is what employers directly look at when assessing one's technical competency as a developer.
-</h4>
+<p>
+   Let's face it - writing technical documentation in the form of READMEs is the last thing any General Assembly (GA) Software Engineering Immersive (SEI) student wants to do, especially after a long and exhausting project week.
+</p>
 
-<h4>
-Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI README that would make any employer blush.
-</h4>
+<p>
+Thus, today I'll teach you how to write and design a README with minimal time and effort. 
+</p>
 
-This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download [my blank skeleton template](https://github.com/amarpan/blank-README-template/blob/main/README.md).      
 
-For a quick review on README formatting, check out [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/). <br> For a more in-depth reference, check out [the official GitHub-flavored Markdown documentation](https://github.github.com/gfm/).
+<!-- This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download [my blank skeleton template](https://github.com/amarpan/blank-README-template/blob/main/README.md).      
+
+For a quick review on README formatting, check out [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/). <br> For a more in-depth reference, check out [the official GitHub-flavored Markdown documentation](https://github.github.com/gfm/). -->
 
 
 <h2  align="center">Header & Description</h2>
