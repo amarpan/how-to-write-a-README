@@ -39,7 +39,7 @@
 </div>
 
 <p>
-   Let's face it - writing technical documentation in the form of READMEs is the last thing any General Assembly (GA) Software Engineering Immersive (SEI) student wants to do, especially after a long and exhausting project week.
+   Let's face it - writing project documentation in the form of READMEs is the last thing any General Assembly (GA) Software Engineering Immersive (SEI) student wants to do, especially after a long and exhausting project week.
 </p>
 
 <p>
