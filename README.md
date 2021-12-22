@@ -272,7 +272,6 @@ For a quick review on README formatting, check out [this no-nonsense Markdown tu
 <hr>
 
 <h1 align="center">Optional Additions</h1>
-<h6 align="center">by <br> Neil Italia GA SEI Oct '21 Dallas, TX
 <h2 align="center">Header Banner</h2>
 
 <div align="center"> 
