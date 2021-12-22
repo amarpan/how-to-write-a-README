@@ -39,7 +39,7 @@
 </div>
 
 <h4>
-The README is often the most overlooked and underestimated aspect of a General Assembly SEI project, frequently left until the very last minute.
+The README is often the most overlooked and underestimated aspect of a General Assembly Software Engineering Immersive (SEI) project, frequently left until the very last minute.
 And yet, it is what employers directly look at when assessing one's technical competency as a developer.
 </h4>
 
