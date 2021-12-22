@@ -371,7 +371,7 @@ https://github.com/neilitalia/spacex-flights
 ## Contributions
 <details>
 <summary>Neil Italia - GA SEI Oct '21 - Dallas / Fort Worth, TX </summary>
-<h4> UX/ UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider</h4>
+<h4> UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider</h4>
 </details>
 
 <details>
@@ -395,7 +395,7 @@ https://github.com/neilitalia/spacex-flights
       Amar (Pan) Panjwani - GA SEI Nov '21 - Los Angeles, CA (Apple Valley, CA) - IT Manager at Summit Medical
    </summary>
       <h4>
-      Literally everything else + making/conceptualizing this in the first place because my classmates' READMEs sucked
+      Literally everything else
    </h4>
    </details>
 
