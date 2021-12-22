@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"> How to Write a General Assembly Software Engineering Immersive Project README <img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"></h1>
 <!-- ###### <h6 align="center">by</h6> -->
-<h6 align="center">
+<h6 align="center">by<br>
    <a href="https://www.linkedin.com/in/amarpan/">Amar Pan
       </a> + <a href="https://www.linkedin.com/in/neilitalia">Neil Italia</a>      <br>
    
