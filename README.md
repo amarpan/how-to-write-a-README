@@ -43,7 +43,7 @@
 </p>
 
 <p>
-Thus, today I'll teach you how to write and design a quick but presentable README with minimal time and effort. 
+Thus, today I'll provide you with the copy and paste-able code to make a quick and presentable README. 
 </p>
 
 
@@ -363,11 +363,14 @@ https://github.com/neilitalia/spacex-flights
 
  
  ## Future Updates
-
+<details>
+   <summary>Future Updates</summary>
+   </details>
 - [x] Add contributions
 - [x] Add examples from other GA students
 - [x] Add code samples
 - [x] Add horizontally-scrolling images how-to
+- [ ] Add table of contents
  
 ## Contributions
 <details>
