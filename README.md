@@ -361,10 +361,7 @@ https://github.com/neilitalia/spacex-flights
 
 
  
- ## Future Updates
-<details>
-   <summary>Future Updates</summary>
-   </details>
+ ## Future Updates 
 - [x] Add contributions
 - [x] Add examples from other GA students
 - [x] Add code samples
