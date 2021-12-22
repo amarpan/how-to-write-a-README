@@ -47,9 +47,9 @@ And yet, it is what employers directly look at when assessing one's technical co
 Thus, in today's tutorial, we'll take a look at how to write and design a GA SEI README that would make any employer blush.
 </h4>
 
-This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download my blank skeleton template [here](https://github.com/amarpan/blank-README-template/blob/main/README.md).      
+This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download [my blank skeleton template](https://github.com/amarpan/blank-README-template/blob/main/README.md).      
 
-For a quick review on README formatting, check out this quick [Markdown tutorial](https://www.markdowntutorial.com/). For GitHub-flavored Markdown documentation, go [here](https://github.github.com/gfm/).
+For a quick review on README formatting, check out this no-nonsense [Markdown tutorial](https://www.markdowntutorial.com/). <br> For some a more in-depth reference, check out the official [GitHub-flavored Markdown documentation](https://github.github.com/gfm/).
 
 
 <h2  align="center">Header & Description</h2>
