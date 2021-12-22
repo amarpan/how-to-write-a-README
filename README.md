@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"> How to Write a GA SEI Project README <img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"></h1>
+<h1 align="center"><img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"> How to Write a General Assembly Software Engineering Immersive Project README <img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"></h1>
 <!-- ###### <h6 align="center">by</h6> -->
 <h6 align="center">
    <a href="https://www.linkedin.com/in/amarpan/">Amar Pan
@@ -39,7 +39,7 @@
 </div>
 
 <h4>
-The README is often the most overlooked and underestimated aspect of a General Assembly Software Engineering Immersive (SEI) project, frequently left until the very last minute.
+   The README is often the most overlooked and underestimated aspect of a General Assembly (GA) Software Engineering Immersive (SEI) project, frequently left until the very last minute.
 And yet, it is what employers directly look at when assessing one's technical competency as a developer.
 </h4>
 
