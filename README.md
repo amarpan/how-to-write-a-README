@@ -43,7 +43,7 @@
 </p>
 
 <p>
-Thus, today I'll teach you how to write and design a README with minimal time and effort. 
+Thus, today I'll teach you how to write and design a quick but presentable README with minimal time and effort. 
 </p>
 
 
