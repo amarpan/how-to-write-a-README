@@ -18,11 +18,11 @@
     <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
  
- <a href="https://www.github.com/amarpan/" target="_blank">
+ <a href="https://www.github.com/panamruth/" target="_blank">
       <img src="https://img.shields.io/badge/-github.com/amarpan-orange?style=flat&logo=GitHub&logoColor=white">
  </a> 
 
-  <a href="https://amarpan.github.io" target="_blank">
+  <a href="https://panamruth.github.io" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-gold?style=flat&logo="
  </a>
    
@@ -39,11 +39,11 @@
 </div>
 
 <p>
-   Let's face it - writing project documentation in the form of READMEs is the last thing any General Assembly (GA) Software Engineering Immersive (SEI) student wants to do, especially after a long and exhausting project week.
+ Writing project documentation in the form of READMEs is typically the last thing any General Assembly (GA) Software Engineering Immersive (SEI) student wants to do, especially after a long and exhausting project week.
 </p>
 
 <p>
-Thus, today I'll provide you with the copy and paste-able code to quickly make a presentable README. 
+Thus, today I'll provide you with the copy and paste-able code to quickly make and set up a presentable project README. 
 </p>
 
 
