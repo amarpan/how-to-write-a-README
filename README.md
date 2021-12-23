@@ -6,7 +6,7 @@
    
       
    <a href="https://www.linkedin.com/in/panamruth/" target="_blank">
-      <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/-linkedin.com/in/panamruth-blue?style=flat&logo=Linkedin&logoColor=white">
  </a>
    <a href="https://www.linkedin.com/in/neilitalia/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/neilitalia-blue?style=flat&logo=Linkedin&logoColor=white">
