@@ -39,7 +39,7 @@
 </div>
 
 <p>
- Writing project documentation in the form of READMEs is typically the last thing any GA SEI student wants to do, especially after a long and exhausting project week.
+ Writing project documentation in the form of a README is typically the last thing any GA SEI student wants to do, especially after a long and exhausting project week.
 </p>
 
 <p>
