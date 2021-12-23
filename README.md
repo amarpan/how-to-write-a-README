@@ -43,7 +43,7 @@
 </p>
 
 <p>
-Thus, today I'll provide you with the copy and paste-able code to quickly make and set up a presentable project README. 
+Thus, today we'll provide you with the copy and paste-able code to quickly make and set up a presentable project README. 
 </p>
 
 
