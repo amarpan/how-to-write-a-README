@@ -367,6 +367,7 @@ https://github.com/neilitalia/spacex-flights
 - [x] Add code samples
 - [x] Add horizontally-scrolling images how-to
 - [ ] Add table of contents
+- [ ] Add technologies used buttons for everything learned in GA SEI
  
 ## Contributions
 <details>
@@ -395,7 +396,7 @@ https://github.com/neilitalia/spacex-flights
       Pan Amar - GA SEI Nov '21 - Los Angeles, CA (Apple Valley, CA) - IT Manager at Summit Medical
    </summary>
       <h4>
-      Literally everything else
+      Conception, Screenshots, Writing, Organization, Code Instructions / Explanations, Search Engine Optimization, Design, Banner Creation
    </h4>
    </details>
 
