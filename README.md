@@ -89,8 +89,8 @@ For a quick review on README formatting, check out [this no-nonsense Markdown tu
 | Note:      | Integrate styling with `<h1 align="center">` to center text. |
 | Note:      | Add your deployed link directly to the top here - many users won't scroll all the way down to find it.
 | Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school:
-|         | While emojis automatically show on GitHub, to see them on VS Code one needs to install an extension like [this](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji).
-|            | A full list of available emojis can be found [here](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
+|         | While emojis automatically show on GitHub, to see them on VS Code one needs to install an extension like [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji).
+|            | A full list of available emojis can be found [on this repo](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
 <hr>
 
