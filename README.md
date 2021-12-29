@@ -33,8 +33,8 @@
  <a href="https://medium.com/@amarpan">
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-darkgreen?style=flat&logo=medium">
  </a> -->
-    
-  ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
+   
+ [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/panamruth/readme-writing-tutorial?style=social)](https://github.com/panamruth/readme-writing-tutorial) ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
 
 </div>
 
@@ -398,6 +398,5 @@ https://github.com/neilitalia/spacex-flights
       Conception, Screenshots, Writing, Organization, Code Instructions / Explanations, Search Engine Optimization, Design, Banner Creation
    </h4>
    </details>
-
 
 
