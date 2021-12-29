@@ -393,7 +393,7 @@ https://github.com/neilitalia/spacex-flights
 
 <details>
 <summary>Isaac Ferraro - GA SEI Nov '21 - Seattle, WA (Bremerton)   </summary>
-<h4> Proofreading, Editing, and Quality Assurance </h4>
+<h4> Proofreading, Editing, Quality Assurance </h4>
 </details>
 
 <details>
