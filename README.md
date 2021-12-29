@@ -371,6 +371,15 @@ https://github.com/neilitalia/spacex-flights
 - [ ] Add 'Further Reading' section with links to Markdown tutorials and documentation
  
 ## Contributions
+ 
+   
+<details>
+<summary>Pan Amar - GA SEI Nov '21 - Los Angeles, CA (Apple Valley) - IT Manager at Summit Medical</summary>
+      <h4>
+      Conception, Screenshots, Writing, Organization, Code Instructions / Explanations, Search Engine Optimization, Design, Social Media Preview Banner Creation
+   </h4>
+   </details>
+ 
 <details>
 <summary>Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney/Frisco) </summary>
 <h4> UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider</h4>
@@ -391,12 +400,6 @@ https://github.com/neilitalia/spacex-flights
 <summary>Miguel Urena - GA SEI Nov '21 - Los Angeles, CA (Anaheim)   </summary>
 <h4> Graphic Design, Social Media Rich Preview Banner, Quality Assurance </h4>
 </details>
-   
-<details>
-<summary>Pan Amar - GA SEI Nov '21 - Los Angeles, CA (Apple Valley) - IT Manager at Summit Medical</summary>
-      <h4>
-      Conception, Screenshots, Writing, Organization, Code Instructions / Explanations, Search Engine Optimization, Design, Banner Creation
-   </h4>
-   </details>
+
 
 
