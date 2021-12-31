@@ -147,33 +147,31 @@ For a quick review on README formatting, check out [this no-nonsense Markdown tu
 ```markdown
 ## :computer: Technologies Used
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
-
+![MongoDB Atlas](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
-
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-
+![React](https://img.shields.io/badge/-React-333?style=flat&logo=react) 
 ![Node](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-
 ![SemanticUIReact](https://img.shields.io/badge/-Semantic%20UI%20React-333?style=flat&logo=semanticuireact)
-
 ![AWS S3](https://img.shields.io/badge/-AWS_S3-333?style=flat&logo=amazons3)
-
 ![JWT](https://img.shields.io/badge/-JSON_Web_Tokens-333?style=flat&logo=jsonwebtokens)
-
 ![Mongoose ODM](https://img.shields.io/badge/-Mongoose_ODM-333?style=flat&logo=mongodb)
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) 
 ![HTML5](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-
 ![CSS3](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)
-
-![Trello](https://img.shields.io/badge/-Trello-333?style=flat&logo=trello)
-
+![Trello](https://img.shields.io/badge/-Trello-333?style=flat&logo=trello) 
 ![Heroku](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)
-
 ![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
+![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=github)
+![VSCode](https://img.shields.io/badge/-VS_Code-333?style=flat&logo=visualstudio)
+![Vim](https://img.shields.io/badge/-Vim-333?style=flat&logo=vim)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+![Materialize CSS](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign) 
+![Trello](https://img.shields.io/badge/-Trello-333?style=flat&logo=trello)
+ ![Heroku](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)
 ```
    
 <!-- 
