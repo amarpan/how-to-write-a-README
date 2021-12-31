@@ -90,7 +90,7 @@ For a quick review on README formatting, check out [this no-nonsense Markdown tu
 | Note:      | Add your deployed link directly to the top here - many users won't scroll all the way down to find it.
 | Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school:
 |         | While emojis automatically show on GitHub, to see them on VS Code one needs to install an extension like [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji).
-|            | A full list of available emojis can be found [on this repo](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
+|            | Check out [ this full list of available GitHub emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 
 <hr>
 
