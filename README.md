@@ -163,7 +163,7 @@ For a quick review on README formatting, check out [this no-nonsense Markdown tu
 ![Canva](https://img.shields.io/badge/-Canva-333?style=flat&logo=canva)
 ![Markdown](https://img.shields.io/badge/-Markdown-333?style=flat&logo=markdown)
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-Github-333?style=flat&logo=github)
+![Github](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 ![VSCode](https://img.shields.io/badge/-VS_Code-333?style=flat&logo=visualstudio)
 ![Vim](https://img.shields.io/badge/-Vim-333?style=flat&logo=vim)
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
