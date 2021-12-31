@@ -170,8 +170,6 @@ For a quick review on README formatting, check out [this no-nonsense Markdown tu
 ![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 ![Materialize CSS](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign) 
-![Trello](https://img.shields.io/badge/-Trello-333?style=flat&logo=trello)
- ![Heroku](https://img.shields.io/badge/-Heroku-333?style=flat&logo=heroku)
 ```
    
 <!-- 
