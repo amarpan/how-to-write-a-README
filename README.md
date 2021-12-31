@@ -147,7 +147,7 @@ For a quick review on README formatting, check out [this no-nonsense Markdown tu
 ```markdown
 ## :computer: Technologies Used
 
-![MongoDB Atlas](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
 
