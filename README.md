@@ -330,7 +330,7 @@ git commit -m ":pencil2: fix typo on cart page"
  </h5>
  <details open>
 <summary>   
-Amar 'Pan' Panjwani - GA SEI Nov '21 - Apple Valley, CA (Los Angeles)   
+Pan Amar - GA SEI Nov '21 - Apple Valley, CA (Los Angeles)   
 </summary>
 <h4> 
 
