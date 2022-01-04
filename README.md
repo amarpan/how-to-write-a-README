@@ -363,7 +363,7 @@ https://github.com/neilitalia/spacex-flights
 - [x] Add code samples
 - [x] Add horizontally-scrolling images how-to
 - [ ] Add table of contents
-- [ ] Add technologies used buttons for everything learned in GA SEI
+- [x] Add technologies used buttons for everything learned in GA SEI
 - [ ] Add 'Further Reading' section with links to Markdown tutorials and documentation
  
 ## Contributions
