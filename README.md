@@ -5,12 +5,18 @@
       </a> + <a href="https://www.linkedin.com/in/neilitalia">Neil Italia</a>      <br>
    
       
+<!--    <a href="https://panamruth.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-panamruth.github.io/portfolio-gold?style=flat&logo="
+ </a> -->
    <a href="https://www.linkedin.com/in/panamruth/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/panamruth-blue?style=flat&logo=Linkedin&logoColor=white">
  </a>
    <a href="https://www.linkedin.com/in/neilitalia/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/neilitalia-blue?style=flat&logo=Linkedin&logoColor=white">
  </a>    
+<!--     <a href="https://neilitalia.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/-neilitalia.dev-gold?style=flat&logo="
+ </a> -->
 </h6>
 <div align="center">
  
