@@ -1,6 +1,6 @@
 <div align="center">
 
-# <h1>:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>
+# <h1>:school_satchel: MEET YOUR CLASSMATES :school_satchel: </h1>
 
 ### <h3>https://meetyourclassmates.herokuapp.com/</h3>
 
