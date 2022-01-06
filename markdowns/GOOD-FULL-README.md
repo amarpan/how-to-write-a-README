@@ -1,7 +1,7 @@
 # <h1 align="center">:school_satchel: MEET YOUR CLASSMATES :school_satchel: </h1>
  #### <h3 align="center">https://meetyourclassmates.herokuapp.com/</h3>
  
- <h5 align="center">Pan Amruth</h5>      
+ <h5 align="center">Pan Amruth Amar</h5>      
  
  <div align="center">
  <a href="https://panamruth.github.io/portfolio" target="_blank">
