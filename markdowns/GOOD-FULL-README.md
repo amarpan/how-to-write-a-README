@@ -51,8 +51,8 @@ Meet Your Classmates is an Instagram-clone and hub where students can get to kno
  
  | Description | Screenshot |
  |------------ | ------------|
- | <h3 align="center">Feed Page</h3> | <img src="public/Screenshots/FeedPage.png" width="700">
- | <h3 align="center">Profile Page</h3> | <img src="public/Screenshots/ProfilePage.png" width="700">
+ | <h3 align="center">Feed Page</h3> | <img src="https://github.com/panamruth/meet-your-classmates/raw/main/public/Screenshots/FeedPage.png" width="700">
+ | <h3 align="center">Profile Page</h3> | <img src="https://github.com/panamruth/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.png" width="700">
  
 </details>
 
