@@ -337,7 +337,7 @@ git commit -m ":pencil2: fix typo on cart page"
  </h5>
  <details open>
 <summary>   
-Pan Amar - GA SEI Nov '21 - Apple Valley, CA (Los Angeles)   
+Pan Amar - GA SEI Nov '21 - Los Angeles, CA (Apple Valley)   
 </summary>
 <h4> 
 
@@ -349,7 +349,7 @@ https://github.com/amarpan/meet-your-classmates
 
 <details open>
 <summary>   
-Neil Italia - GA SEI Oct '21 - Dallas / Fort Worth, TX   
+Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney/Frisco)   
 </summary>
 <h4> 
 
