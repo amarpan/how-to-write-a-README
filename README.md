@@ -53,9 +53,7 @@ Thus, today we'll provide you with the copy and paste-able code to quickly set u
 </p>
 
 
-<!-- This tutorial assumes you already have some semblance of a README. If you're starting from scratch, however, download [my blank skeleton template](https://github.com/amarpan/blank-README-template/blob/main/README.md).      
 
-For a quick review on README formatting, check out [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/). <br> For a more in-depth reference, check out [the official GitHub-flavored Markdown documentation](https://github.github.com/gfm/). -->
 
 
 <h2  align="center">Header & Description</h2>
@@ -362,7 +360,12 @@ https://github.com/neilitalia/spacex-flights
 
 </h4>
 
+## Further Reading
 
+|       | Instructions |
+|-------|--------------|
+| Note: | For a quick review on README formatting, check out [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/).
+| Note: | Read through the [official GitHub-flavored Markdown documentation](https://github.github.com/gfm/) for further reference.
  
  ## Future Updates 
 - [x] Add contributions
@@ -371,7 +374,7 @@ https://github.com/neilitalia/spacex-flights
 - [x] Add horizontally-scrolling images how-to
 - [ ] Add table of contents
 - [x] Add technologies used buttons for everything learned in GA SEI
-- [ ] Add 'Further Reading' section with links to Markdown tutorials and documentation
+- [x] Add 'Further Reading' section with links to Markdown tutorials and documentation
  
 ## Contributions
  
