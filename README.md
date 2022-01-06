@@ -181,7 +181,7 @@ For a quick review on README formatting, check out [this no-nonsense Markdown tu
 
 |            | Instructions |
 |------------|--------------|
-| Note:      | More custom badges can be found at [the shields.io website.](https://shields.io/)
+| Note:      | Additional custom badges can be found at [the shields.io website.](https://shields.io/)
 | Note:      | For a list of more colorful badges, [check out this repository.](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 
