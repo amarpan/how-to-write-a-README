@@ -387,7 +387,7 @@ https://github.com/neilitalia/spacex-flights
    </details>
  
 <details>
-<summary>Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney/Frisco) </summary>
+<summary>Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney / Frisco) </summary>
 <h4> UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider</h4>
 </details>
 
