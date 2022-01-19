@@ -43,19 +43,19 @@
  [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/panamruth/readme-writing-tutorial?style=social)](https://github.com/panamruth/readme-writing-tutorial) ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
 
 </div>
-
+<hr />
 <p>
  Writing project documentation in the form of a README is typically the last thing any GA SEI student wants to do, especially after a long and exhausting project week.
 </p>
 
 <p>
-Thus, today we'll provide you with the copy and paste-able code to quickly set up a README that will impress your classmates, instructors, and potential employers.
+Thus, today we'll provide you with the copy and paste-able code to quickly and easily set up a README that will impress your classmates, instructors, and potential employers.
 </p>
 
 
 
 
-
+<hr />
 <h2  align="center">Header & Description</h2>
 
 <div align="center"> 
@@ -350,7 +350,7 @@ https://github.com/amarpan/meet-your-classmates
 
 <details open>
 <summary>   
-Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney/Frisco)   
+Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney / Frisco)   
 </summary>
 <h4> 
 
@@ -383,14 +383,14 @@ https://github.com/neilitalia/spacex-flights
  
    
 <details>
-<summary>Pan Amar - GA SEI Nov '21 - Los Angeles, CA (Apple Valley) - IT Manager at Summit Medical</summary>
+<summary>Pan Amar - GA SEI Nov '21 - Los Angeles, CA (Apple Valley) - Tech Support at Summit Medical</summary>
       <h4>
-      Conception, Screenshots, Writing, Organization, Code Instructions / Explanations, Search Engine Optimization, Design, Social Media Preview Banner Creation
+      Conception, Writing, Screenshots, Organization, Code Instructions / Explanations, Search Engine Optimization, Design, Social Media Preview Banner Creation, Interviewing Other Engineers
    </h4>
    </details>
  
 <details>
-<summary>Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney/Frisco) </summary>
+<summary>Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney / Frisco) </summary>
 <h4> UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider</h4>
 </details>
 
@@ -402,12 +402,12 @@ https://github.com/neilitalia/spacex-flights
 
 <details>
 <summary>Isaac Ferraro - GA SEI Nov '21 - Seattle, WA (Bremerton)   </summary>
-<h4> Proofreading, Editing, Quality Assurance </h4>
+<h4> Suggestions, Proofreading, Editing, Quality Assurance </h4>
 </details>
 
 <details>
 <summary>Miguel Urena - GA SEI Nov '21 - Los Angeles, CA (Anaheim)   </summary>
-<h4> Graphic Design, Social Media Rich Preview Banner, Quality Assurance </h4>
+<h4> Suggestions, Graphic Design, Social Media Rich Preview Banner, Quality Assurance </h4>
 </details>
 
 
