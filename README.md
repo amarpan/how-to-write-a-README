@@ -34,7 +34,7 @@
   
  <a href="https://medium.com/@panamruth">
     <img src="https://img.shields.io/badge/-medium.com/@panamruth-darkgreen?style=flat&logo=medium">
- </a> -->
+ </a>
    
  [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/panamruth/readme-writing-tutorial?style=social)](https://github.com/panamruth/readme-writing-tutorial) ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
 
