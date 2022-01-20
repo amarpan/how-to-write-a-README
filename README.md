@@ -1,8 +1,6 @@
  <h1 align="center"><img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"> How to Write a General Assembly (GA) Software Engineering Immersive (SEI) Project README <img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"></h1>
 <!-- ###### <h6 align="center">by</h6> -->
-<h6 align="center">by<br>
-   <a href="https://www.linkedin.com/in/panamruth/">Pan Amruth Amar
-      </a>       <br>
+       
    
       
 <!--    <a href="https://panamruth.github.io/portfolio" target="_blank">
@@ -18,7 +16,9 @@
  </a> -->
 </h6>
 <div align="center">
-
+<h6 align="center">by<br>
+   <a href="https://www.linkedin.com/in/panamruth/">Pan Amruth Amar
+      </a><br>
 <a href="https://www.linkedin.com/in/panamruth/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/panamruth-blue?style=flat&logo=Linkedin&logoColor=white">
  
