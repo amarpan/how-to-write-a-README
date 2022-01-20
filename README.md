@@ -1,45 +1,47 @@
  <div align="center">
  <h1 align="center"><img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"> How to Write a General Assembly (GA) Software Engineering Immersive (SEI) Project README <img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"></h1>
 <!-- ###### <h6 align="center">by</h6> -->
-<h6 align="center">by<br>
-   <a href="https://www.linkedin.com/in/panamruth/">Pan Amar
-      </a> + <a href="https://www.linkedin.com/in/neilitalia">Neil Italia</a>      <br>
+       
    
       
 <!--    <a href="https://panamruth.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/-panamruth.github.io/portfolio-gold?style=flat&logo="
  </a> -->
-   <a href="https://www.linkedin.com/in/panamruth/" target="_blank">
-      <img src="https://img.shields.io/badge/-linkedin.com/in/panamruth-blue?style=flat&logo=Linkedin&logoColor=white">
+   
  </a>
-   <a href="https://www.linkedin.com/in/neilitalia/" target="_blank">
+ <!--  <a href="https://www.linkedin.com/in/neilitalia/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/neilitalia-blue?style=flat&logo=Linkedin&logoColor=white">
- </a>    
+ </a>   --> 
 <!--     <a href="https://neilitalia.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-neilitalia.dev-gold?style=flat&logo="
  </a> -->
 </h6>
 <div align="center">
+<h6 align="center">by<br>
+   <a href="https://www.linkedin.com/in/panamruth/">Pan Amruth Amar
+      </a><br>
+<a href="https://www.linkedin.com/in/panamruth/" target="_blank">
+      <img src="https://img.shields.io/badge/-linkedin.com/in/panamruth-blue?style=flat&logo=Linkedin&logoColor=white">
  
-  <!-- <a href="mailto:amar.panjwani@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
- </a>
- 
- <a href="https://www.github.com/panamruth/" target="_blank">
-      <img src="https://img.shields.io/badge/-github.com/amarpan-orange?style=flat&logo=GitHub&logoColor=white">
+<a href="https://panamruth.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-panamruth.github.io/portfolio-gold?style=flat&logo=Github"
  </a> 
 
-  <a href="https://panamruth.github.io" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio:_amarpan.github.io-gold?style=flat&logo="
+ <a href="https://medium.com/@panamruth">
+    <img src="https://img.shields.io/badge/-medium.com/@panamruth-purple?style=flat&logo=medium">
  </a>
-   
-   <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
-      <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
- </a>    
-  
- <a href="https://medium.com/@amarpan">
-    <img src="https://img.shields.io/badge/-medium.com/@amarpan-darkgreen?style=flat&logo=medium">
+
+  <!-- <a href="mailto:pan.amruth@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-pan.amruth@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a> -->
+ 
+<!-- <a href="https://www.github.com/panamruth/" target="_blank">
+      <img src="https://img.shields.io/badge/-github.com/panamruth-orange?style=flat&logo=GitHub&logoColor=white">
+ </a> -->
+
+  
+  
+
    
  [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/panamruth/readme-writing-tutorial?style=social)](https://github.com/panamruth/readme-writing-tutorial) ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
 
