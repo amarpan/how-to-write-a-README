@@ -30,9 +30,9 @@
     <img src="https://img.shields.io/badge/-medium.com/@panamruth-darkgreen?style=flat&logo=medium">
  </a>
 
-   <a href="mailto:pan.amruth@gmail.com" target="_blank">
+  <!-- <a href="mailto:pan.amruth@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-pan.amruth@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
- </a>
+ </a> -->
  
 <!-- <a href="https://www.github.com/panamruth/" target="_blank">
       <img src="https://img.shields.io/badge/-github.com/panamruth-orange?style=flat&logo=GitHub&logoColor=white">
