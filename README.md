@@ -23,7 +23,7 @@
       <img src="https://img.shields.io/badge/-linkedin.com/in/panamruth-blue?style=flat&logo=Linkedin&logoColor=white">
  
 <a href="https://panamruth.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-panamruth.github.io/portfolio-gold?style=flat&logo="
+    <img src="https://img.shields.io/badge/-panamruth.github.io/portfolio-gold?style=flat&logo=Github"
  </a> 
 
  <a href="https://medium.com/@panamruth">
