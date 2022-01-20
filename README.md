@@ -27,7 +27,7 @@
  </a> 
 
  <a href="https://medium.com/@panamruth">
-    <img src="https://img.shields.io/badge/-medium.com/@panamruth-darkgreen?style=flat&logo=medium">
+    <img src="https://img.shields.io/badge/-medium.com/@panamruth-purple?style=flat&logo=medium">
  </a>
 
   <!-- <a href="mailto:pan.amruth@gmail.com" target="_blank">
