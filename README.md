@@ -1,3 +1,4 @@
+ <div align="center">
  <h1 align="center"><img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"> How to Write a General Assembly (GA) Software Engineering Immersive (SEI) Project README <img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"></h1>
 <!-- ###### <h6 align="center">by</h6> -->
 <h6 align="center">by<br>
@@ -43,20 +44,21 @@
  [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/panamruth/readme-writing-tutorial?style=social)](https://github.com/panamruth/readme-writing-tutorial) ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
 
 </div>
-<hr />
+<!-- <hr /> -->
 <p>
- Writing project documentation in the form of a README is typically the last thing any GA SEI student wants to do, especially after a long and exhausting project week.
+Thus tutorial describes how to easily write a GA SEI Project README in Markdown and HTML via copy and pastable code snippets.
+ <!-- Writing project documentation in the form of a README is typically the last thing any GA SEI student wants to do, especially after a long and exhausting project week. -->
 </p>
 
 <p>
-Thus, today we'll provide you with the copy and paste-able code to quickly and easily set up a README that will impress your classmates, instructors, and potential employers.
+<!-- Thus, today we'll provide you with the copy and paste-able code to quickly and easily set up a README that will impress your classmates, instructors, and potential employers. -->
 </p>
 
 
 
 
-<hr />
-<h2  align="center">Header & Description</h2>
+<!-- <hr /> -->
+<h2  align="center"><u>Header & Description</u></h2>
 
 <div align="center"> 
   <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">
@@ -84,6 +86,7 @@ Thus, today we'll provide you with the copy and paste-able code to quickly and e
 <h1>:pencil: Description</h1>
 <p>Meet Your Classmates is an Instagram-clone and hub where students can get to know and relate to their peers via completion of short 3-question mini-surveys. By learning about others' backgrounds, previous experiences, and interests, an atmosphere of community is created that is conducive to higher levels of learning and success.</p>
 ```
+<div align="center">
 
 |            | Instructions |
 |------------|--------------|
@@ -96,12 +99,12 @@ Thus, today we'll provide you with the copy and paste-able code to quickly and e
 |            | Ex. `#` is equivalent to `<h1>` |
 |            | Ex. `######` is equivalent to `<h6>`| -->   
 
-
+</div>
 
 
 <hr>
 
-<h2  align="center">Screenshots</h2>
+<h2  align="center"><u>Screenshots</u></h2>
 <div align="center"> 
    <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
 </div>
@@ -131,6 +134,8 @@ Thus, today we'll provide you with the copy and paste-able code to quickly and e
 </details>
 ```   
 
+<div align="center">
+
 |            | Instructions |
 |------------|--------------|
 | Note:      | To set up a  table, use: |
@@ -145,7 +150,7 @@ Thus, today we'll provide you with the copy and paste-able code to quickly and e
 
 <hr>
 
-<h2  align="center">Technologies Used</h2>  
+<h2  align="center"><u>Technologies Used</u></h2>  
 
 <div align="center"> 
    <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png">
@@ -184,11 +189,13 @@ Thus, today we'll provide you with the copy and paste-able code to quickly and e
 |------------|--------------|
 | Note:      | Additional custom badges can be found at [the shields.io website.](https://shields.io/)
 | Note:      | For a list of more colorful badges, [check out this repository.](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+<!-- | Note:      | If you'd rather note use badges (or can't find applicable ones), separate technologies in the following format: | 
+|            | Ex. MongoDB|  ***figure out how to cancel out | character -->
 
 
 <hr>
 
-<h2  align="center">Getting Started</h2>
+<h2  align="center"><u>Getting Started</u></h2>
 
 <div align="center"> 
    <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">
@@ -236,7 +243,7 @@ Thus, today we'll provide you with the copy and paste-able code to quickly and e
 
 <hr>
 
-<h2  align="center">Next Steps</h2>
+<h2  align="center"><u>Next Steps</u></h2>
 
 <div align="center"> 
    <img src="./images/GOOD-NEXT-STEPS-SINGLE.png"> 
@@ -263,7 +270,7 @@ Thus, today we'll provide you with the copy and paste-able code to quickly and e
 
 <hr>
 
-<h2 align="center">The Final Product</h2>
+<h2 align="center"><u>The Final Product</u></h2>
 
 
 <div align="center">
@@ -332,7 +339,8 @@ git commit -m ":pencil2: fix typo on cart page"
 |-------|--------------|
 | Note: | This works best with images of similar heights. |
 
-## Full README Examples
+<div >
+<h2> Full README Examples </h2>
 
 </details>
  </h5>
