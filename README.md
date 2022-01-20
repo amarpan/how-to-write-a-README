@@ -293,7 +293,7 @@ Thus tutorial describes how to easily write a GA SEI Project README in Markdown 
 <hr>
 
 <h1 align="center">Optional Additions</h1>
-<h2 align="center">Header Banner</h2>
+<h2 align="center"><u>Header Banner</u></h2>
 
 <div align="center"> 
    <img src="./images/OPTIONAL-PROJECT-BANNER.png"> 
@@ -317,7 +317,7 @@ Thus tutorial describes how to easily write a GA SEI Project README in Markdown 
 
 <hr>
 
-<h2 align="center">Emoji Commits</h2>
+<h2 align="center"><u>Emoji Commits</u></h2>
 
 <div align="center"> 
    <img src="./images/OPTIONAL-COMMITS.png" width="800" /> 
@@ -337,7 +337,7 @@ git commit -m ":pencil2: fix typo on cart page"
 
 <hr>
 
-<h2 align="center">Horizontal Image Scroll (Carousel) Hack</h2>
+<h2 align="center"><u>Horizontal Image Scroll (Carousel)</u></h2>
 
 <div align="center"> 
    <img src="./images/OPTIONAL-CAROUSEL.png" width="800" /> 
@@ -361,7 +361,8 @@ git commit -m ":pencil2: fix typo on cart page"
 |-------|--------------|
 | Note: | This works best with images of similar heights. |
 
-<div >
+<div>
+<hr >
 <h2> <u>Full README Examples</u> </h2>
 
 </details>
@@ -393,7 +394,7 @@ https://github.com/neilitalia/spacex-flights
 
 </h4>
 
-## Further Reading
+<h2> <u>Further Reading</u> </h2>
 
 |       | Instructions |
 |-------|--------------|
@@ -413,10 +414,19 @@ https://github.com/neilitalia/spacex-flights
 - [x] Add technologies used buttons for everything learned in GA SEI
 - [x] Add 'Further Reading' section with links to Markdown tutorials and documentation -->
  
-## Contributions
+<h2> <u>Contributions</u> </h2>
  
+ |       | Instructions |
+|-------|--------------|
+| Pan Amar - GA SEI Los Angeles '21 | Conception, Writing, Screenshots, Organization, Code Instructions / Explanations, SEO, Design, Social Media Preview Banner Creation, Interviewing Other Engineers
+| Neil Italia - GA SEI Dallas '21 | UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider
+| Olivia Emery - GA SEI San Francisco '15 | Editing, Suggestions for Clarity of Writing
+| Isaac Ferraro - GA SEI Seattle '21 | Suggestions, Proofreading, Editing, Quality Assurance
+| Miguel Urena - GA SEI Los Angeles '21| Suggestions, Graphic Design, Social Media Rich Preview Banner, Quality Assurance
+
    
-<details>
+   
+<!-- <details>
 <summary>Pan Amar - GA SEI Nov '21 - Los Angeles, CA (Apple Valley) - Tech Support at Summit Medical</summary>
       <h4>
       Conception, Writing, Screenshots, Organization, Code Instructions / Explanations, Search Engine Optimization, Design, Social Media Preview Banner Creation, Interviewing Other Engineers
@@ -424,7 +434,7 @@ https://github.com/neilitalia/spacex-flights
    </details>
  
 <details>
-<summary>Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney / Frisco) </summary>
+<summary> (McKinney / Frisco) </summary>
 <h4> UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider</h4>
 </details>
 
@@ -442,7 +452,7 @@ https://github.com/neilitalia/spacex-flights
 <details>
 <summary>Miguel Urena - GA SEI Nov '21 - Los Angeles, CA (Anaheim)   </summary>
 <h4> Suggestions, Graphic Design, Social Media Rich Preview Banner, Quality Assurance </h4>
-</details>
+</details> -->
 
 
 
