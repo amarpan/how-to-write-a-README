@@ -66,6 +66,8 @@ Thus tutorial describes how to easily write a GA SEI Project README in Markdown 
   <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">
 </div>
 
+</div>
+
 ```html
 <div align="center">
    <h1>:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>
@@ -157,6 +159,7 @@ Thus tutorial describes how to easily write a GA SEI Project README in Markdown 
 <div align="center"> 
    <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png">
 </div>
+</div>
 
 ```markdown
 ## :computer: Technologies Used
@@ -185,7 +188,7 @@ Thus tutorial describes how to easily write a GA SEI Project README in Markdown 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 ![Materialize CSS](https://img.shields.io/badge/-Materialize_CSS-333?style=flat&logo=materialdesign) 
 ```
-   
+   <div align="center">
 
 |            | Instructions |
 |------------|--------------|
@@ -193,7 +196,7 @@ Thus tutorial describes how to easily write a GA SEI Project README in Markdown 
 | Note:      | For a list of more colorful badges, [check out this repository.](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 <!-- | Note:      | If you'd rather note use badges (or can't find applicable ones), separate technologies in the following format: | 
 |            | Ex. MongoDB|  ***figure out how to cancel out | character -->
-
+</div>
 
 <hr>
 
@@ -236,6 +239,7 @@ Thus tutorial describes how to easily write a GA SEI Project README in Markdown 
 <a href="https://meetyourclassmates.herokuapp.com/">https://meetyourclassmates.herokuapp.com/</a>
 </details>
 ```
+<div align="center">
 
 |            | Instructions |
 |------------|--------------|
@@ -251,6 +255,8 @@ Thus tutorial describes how to easily write a GA SEI Project README in Markdown 
    <img src="./images/GOOD-NEXT-STEPS-SINGLE.png"> 
 </div>
 
+</div>
+
 ```markdown
 ## :fast_forward: Next Steps   
 
@@ -264,6 +270,8 @@ Thus tutorial describes how to easily write a GA SEI Project README in Markdown 
 
 - [ ] ~~Add Tinder API Integration~~
 ```
+
+<div align="center">
 
 |            | Instructions |
 |------------|--------------|
@@ -291,12 +299,16 @@ Thus tutorial describes how to easily write a GA SEI Project README in Markdown 
    <img src="./images/OPTIONAL-PROJECT-BANNER.png"> 
 </div>
 
+</div>
+
+
 ```html
 <div align="center">
    <img src="https://i.imgur.com/y2SPx4E.jpg" width="800" height="400" />
    <h1 align="center">plantrade</h1>
 </div>
 ```
+<div align="center">
 
 |       | Instructions |
 |-------|--------------|
@@ -311,9 +323,13 @@ Thus tutorial describes how to easily write a GA SEI Project README in Markdown 
    <img src="./images/OPTIONAL-COMMITS.png" width="800" /> 
 </div>
 
+</div>
+
 ```console
 git commit -m ":pencil2: fix typo on cart page"
 ```
+
+<div align="center">
 
 |       | Instructions |
 |-------|--------------|
@@ -327,6 +343,8 @@ git commit -m ":pencil2: fix typo on cart page"
    <img src="./images/OPTIONAL-CAROUSEL.png" width="800" /> 
 </div>
 
+</div>
+
 ```html
 <pre>
   <img src="https://i.imgur.com/NdzHyyX.png" width="700" height="500" />
@@ -337,12 +355,14 @@ git commit -m ":pencil2: fix typo on cart page"
 </pre>
 ```
 
+<div align="center">
+
 |       | Instructions |
 |-------|--------------|
 | Note: | This works best with images of similar heights. |
 
 <div >
-<h2> Full README Examples </h2>
+<h2> <u>Full README Examples</u> </h2>
 
 </details>
  </h5>
@@ -380,14 +400,18 @@ https://github.com/neilitalia/spacex-flights
 | Note: | For a quick review on README formatting, check out [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/).
 | Note: | Read through the [official GitHub-flavored Markdown documentation](https://github.github.com/gfm/) for further reference.
  
- ## Future Updates 
+ <!-- ## Future Updates 
+
+ </div>
+ </div>
+
 - [x] Add contributions
 - [x] Add examples from other GA students
 - [x] Add code samples
 - [x] Add horizontally-scrolling images how-to
 - [ ] Add table of contents
 - [x] Add technologies used buttons for everything learned in GA SEI
-- [x] Add 'Further Reading' section with links to Markdown tutorials and documentation
+- [x] Add 'Further Reading' section with links to Markdown tutorials and documentation -->
  
 ## Contributions
  
