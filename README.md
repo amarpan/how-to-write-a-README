@@ -20,21 +20,25 @@
 </h6>
 <div align="center">
  
+<a href="https://panamruth.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-panamruth.github.io/portfolio-gold?style=flat&logo="
+ </a> 
+
+ <a href="https://medium.com/@panamruth">
+    <img src="https://img.shields.io/badge/-medium.com/@panamruth-darkgreen?style=flat&logo=medium">
+ </a>
+
    <a href="mailto:pan.amruth@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-pan.amruth@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
  
- <a href="https://www.github.com/panamruth/" target="_blank">
+<!-- <a href="https://www.github.com/panamruth/" target="_blank">
       <img src="https://img.shields.io/badge/-github.com/panamruth-orange?style=flat&logo=GitHub&logoColor=white">
- </a> 
+ </a> -->
 
-  <a href="https://panamruth.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-panamruth.github.io/portfolio-gold?style=flat&logo="
- </a> 
   
- <a href="https://medium.com/@panamruth">
-    <img src="https://img.shields.io/badge/-medium.com/@panamruth-darkgreen?style=flat&logo=medium">
- </a>
+  
+
    
  [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/panamruth/readme-writing-tutorial?style=social)](https://github.com/panamruth/readme-writing-tutorial) ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
 
