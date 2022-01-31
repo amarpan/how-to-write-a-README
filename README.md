@@ -418,7 +418,7 @@ https://github.com/neilitalia/spacex-flights
  
  |       | Instructions |
 |-------|--------------|
-| Pan Amar <br>GA SEI<br> Los Angeles '21 | Conception, Writing, Screenshots, Organization, Code Instructions / Explanations, SEO, Design, Social Media Preview Banner Creation, Interviewing Other Engineers
+| Amar Panjwani<br>GA SEI<br> Los Angeles '21 | Conception, Writing, Screenshots, Organization, Code Instructions / Explanations, SEO, Design, Social Media Preview Banner Creation, Interviewing Other Engineers
 | Neil Italia <br> GA SEI<br> Dallas '21 | UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider
 | Olivia Emery <br> GA SEI<br> San Francisco '15 <br> Technical Writer @ Google | Editing, Suggestions for Clarity of Writing
 | Isaac Ferraro <br> GA SEI <br>Seattle '21 | Suggestions, Proofreading, Editing, Quality Assurance
@@ -427,7 +427,7 @@ https://github.com/neilitalia/spacex-flights
    
    
 <!-- <details>
-<summary>Pan Amar - GA SEI Nov '21 - Los Angeles, CA (Apple Valley) - Tech Support at Summit Medical</summary>
+<summary>Amar Panjwani - GA SEI Nov '21 - Los Angeles, CA (Apple Valley) - Tech Support at Summit Medical</summary>
       <h4>
       Conception, Writing, Screenshots, Organization, Code Instructions / Explanations, Search Engine Optimization, Design, Social Media Preview Banner Creation, Interviewing Other Engineers
    </h4>
