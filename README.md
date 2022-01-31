@@ -18,7 +18,7 @@
 </h6>
 <div align="center">
 <h6 align="center">by<br>
-   <a href="https://www.linkedin.com/in/panamruth/">Pan Amruth Amar
+   <a href="https://www.linkedin.com/in/panamruth/">Amar Panjwani
       </a><br>
 <a href="https://www.linkedin.com/in/panamruth/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/panamruth-blue?style=flat&logo=Linkedin&logoColor=white">
