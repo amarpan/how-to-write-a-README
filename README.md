@@ -18,17 +18,17 @@
 </h6>
 <div align="center">
 <h6 align="center">by<br>
-   <a href="https://www.linkedin.com/in/panamruth/">Amar Panjwani
+   <a href="https://www.linkedin.com/in/amarpan/">Amar Panjwani
       </a><br>
-<a href="https://www.linkedin.com/in/panamruth/" target="_blank">
-      <img src="https://img.shields.io/badge/-linkedin.com/in/panamruth-blue?style=flat&logo=Linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/amarpan/" target="_blank">
+      <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
  
-<a href="https://panamruth.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-panamruth.github.io/portfolio-gold?style=flat&logo=Github"
+<a href="https://amarpan.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-amarpan.github.io/portfolio-gold?style=flat&logo=Github"
  </a> 
 
- <a href="https://medium.com/@panamruth">
-    <img src="https://img.shields.io/badge/-medium.com/@panamruth-purple?style=flat&logo=medium">
+ <a href="https://medium.com/@amarpan">
+    <img src="https://img.shields.io/badge/-medium.com/@amarpan-purple?style=flat&logo=medium">
  </a>
 
   <!-- <a href="mailto:pan.amruth@gmail.com" target="_blank">
@@ -43,7 +43,7 @@
   
 
    
- [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/panamruth/readme-writing-tutorial?style=social)](https://github.com/panamruth/readme-writing-tutorial) ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
+ [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/amarpan/readme-writing-tutorial?style=social)](https://github.com/amarpan/readme-writing-tutorial) ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
 
 </div>
 <!-- <hr /> -->
