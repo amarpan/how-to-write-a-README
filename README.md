@@ -17,19 +17,25 @@
  </a> -->
 </h6>
 <div align="center">
-<h6 align="center">by<br>
-   <a href="https://www.linkedin.com/in/amarpan/">Amar Panjwani
-      </a><br>
-<a href="https://www.linkedin.com/in/amarpan/" target="_blank">
+ <a href="https://amarpan.github.io/portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/-amarpan.github.io/portfolio-gold?style=flat&logo=github">
+ </a>
+    
+ <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
- 
-<a href="https://amarpan.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-amarpan.github.io/portfolio-gold?style=flat&logo=Github"
  </a> 
-
+    
+ 
  <a href="https://medium.com/@amarpan">
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-purple?style=flat&logo=medium">
  </a>
+ 
+ <a href="mailto:amar.panjwani@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
+ </a>
+    
+ </div>
+
 
   <!-- <a href="mailto:pan.amruth@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-pan.amruth@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
