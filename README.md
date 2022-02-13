@@ -110,7 +110,7 @@ This tutorial describes how to easily write a GA SEI Project README in Markdown 
 | Note:      | Integrate styling with `<h1 align="center">` to center text. |
 | Note:      | Add your deployed link directly to the top here - many users won't scroll all the way down to find it.
 | Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school:
-|         | While emojis show automatically on GitHub, to see them on VS Code one needs to install an extension like [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji).
+|         | While emojis show automatically on GitHub, to see them on VS Code one needs to install an extension like [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji). Some emojis may also look completely different on VS Code than GitHub.
 |            | Check out [ this full list of available GitHub emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).
 <!-- | Note:      | Each `#` stands for a header of that number in HTML. | 
 |            | Ex. `#` is equivalent to `<h1>` |
