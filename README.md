@@ -2,22 +2,20 @@
  <h1 align="center"><img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"> How to Write a General Assembly (GA) Software Engineering Immersive (SEI) Project README <img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"></h1>
 <!-- ###### <h6 align="center">by</h6> -->
 
- <h6 align="center">by<br>
-   <a href="https://www.linkedin.com/in/panamruth/">Amar Panjwani
-      </a><br>
+
       
 <!--    <a href="https://panamruth.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/-panamruth.github.io/portfolio-gold?style=flat&logo="
  </a> -->
    
- </a>
+ 
  <!--  <a href="https://www.linkedin.com/in/neilitalia/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/neilitalia-blue?style=flat&logo=Linkedin&logoColor=white">
  </a>   --> 
 <!--     <a href="https://neilitalia.dev/" target="_blank">
     <img src="https://img.shields.io/badge/-neilitalia.dev-gold?style=flat&logo="
  </a> -->
-</h6>
+
 <div align="center">
  <a href="https://amarpan.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/-amarpan.github.io/portfolio-gold?style=flat&logo=github">
@@ -35,6 +33,7 @@
  <a href="mailto:amar.panjwani@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-amar.panjwani@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
+ 
     
  </div>
 
@@ -53,6 +52,12 @@
    
  [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/amarpan/readme-writing-tutorial?style=social)](https://github.com/amarpan/readme-writing-tutorial) ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
 
+  <h6 align="center">
+   <a href="https://www.linkedin.com/in/amarpan/">Amar Panjwani
+      </a><br></a>
+ </h6>
+ 
+ 
 </div>
 <!-- <hr /> -->
 <p>
