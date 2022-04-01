@@ -31,8 +31,8 @@
  </a>
  
  
-  <a href="mailto:amarpan.us@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-amarpan.us@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
+  <a href="mailto:amar.panjwani@ga.co" target="_blank">
+    <img src="https://img.shields.io/badge/-amar.panjwani@ga.co-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
     
  </div>
@@ -53,7 +53,7 @@
  [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/amarpan/readme-writing-tutorial?style=social)](https://github.com/amarpan/readme-writing-tutorial) ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
 
   <h6 align="center">
-   <a href="https://www.linkedin.com/in/amarpan/">Amar Panjwani
+   <a href="https://www.linkedin.com/in/amarpan/">Amar Panjwani - Instructional Associate at General Assembly
       </a><br></a>
  </h6>
  
