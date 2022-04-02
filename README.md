@@ -31,8 +31,8 @@
  </a>
  
  
-  <a href="mailto:amar.panjwani@ga.co" target="_blank">
-    <img src="https://img.shields.io/badge/-amar.panjwani@ga.co-c14438?style=flat&logo=Gmail&logoColor=white">
+  <a href="mailto:amar.panjwani@generalassemb.ly" target="_blank">
+    <img src="https://img.shields.io/badge/-amar.panjwani@generalassemb.ly-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
     
  </div>
