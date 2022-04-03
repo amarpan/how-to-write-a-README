@@ -53,7 +53,7 @@
  [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/amarpan/readme-writing-tutorial?style=social)](https://github.com/amarpan/readme-writing-tutorial) ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
 
   <h6 align="center">
-   <a href="https://www.linkedin.com/in/amarpan/">Professor Pan, M.Ed.<br> Portland, OR, USA <br>Instructional Associate at General Assembly <br> Curriculum Technical Writer at Linode
+   <a href="https://www.linkedin.com/in/amarpan/">Professor Pan, M.Ed.<br> Portland, OR, USA <br>Instructional Associate at General Assembly <br> Curriculum Writer at Linode
       </a><br></a>
  </h6>
  
