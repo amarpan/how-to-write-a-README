@@ -382,11 +382,18 @@ git commit -m ":pencil2: fix typo on cart page"
  </h5>
  <details open>
 <summary>   
-Amar Panjwani - GA SEI Nov '21 - Los Angeles, CA (Apple Valley)   
+Amar Panjwani - GA SEI Nov '21 - Portland, OR   
 </summary>
 <h4> 
-
+https://github.com/amarpan/simon-memory-game
+ 
+<br> 
+ 
+https://github.com/amarpan/review-my-project
+ 
 https://github.com/amarpan/meet-your-classmates
+ 
+https://github.com/amarpan/ga-hw-tracker
 
 </h4>
 </details>
@@ -431,7 +438,7 @@ https://github.com/neilitalia/spacex-flights
  
  |       | Instructions |
 |-------|--------------|
-| Amar Panjwani<br>GA SEI<br> Los Angeles '21 | Conception, Writing, Screenshots, Organization, Code Instructions / Explanations, SEO, Design, Social Media Preview Banner Creation, Interviewing Other Engineers
+| Amar Panjwani<br>GA SEI<br> Portland '21 | Conception, Writing, Screenshots, Organization, Code Instructions / Explanations, SEO, Design, Social Media Preview Banner Creation, Interviewing Other Engineers
 | Neil Italia <br> GA SEI<br> Dallas '21 | UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider
 | Olivia Emery <br> GA SEI<br> San Francisco '15 <br> Technical Writer @ Google | Editing, Suggestions for Clarity of Writing
 | Isaac Ferraro <br> GA SEI <br>Seattle '21 | Suggestions, Proofreading, Editing, Quality Assurance
