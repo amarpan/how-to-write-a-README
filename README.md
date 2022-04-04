@@ -385,9 +385,10 @@ git commit -m ":pencil2: fix typo on cart page"
 Amar Panjwani - GA SEI Nov '21 - Portland, OR   
 </summary>
 <h4> 
+ 
 https://github.com/amarpan/simon-memory-game
  
-<br><br>
+<br>
  
 https://github.com/amarpan/review-my-project <br><br>
  
