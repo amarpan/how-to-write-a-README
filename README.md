@@ -387,7 +387,7 @@ Amar Panjwani - GA SEI Nov '21 - Portland, OR
 <h4> 
 https://github.com/amarpan/simon-memory-game
  
-<br>
+<br><br>
  
 https://github.com/amarpan/review-my-project <br><br>
  
