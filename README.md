@@ -129,6 +129,7 @@ This tutorial describes how to easily write a GA SEI Bootcamp Project README in 
 ```html
 <details>
 <summary> :bar_chart: ERD</summary>
+
 | Description | Screenshot |
 |------------ | ------------|
 | <h3 align="center">ERD</h3> | <img src="https://``github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png" width="700"> |
@@ -136,6 +137,7 @@ This tutorial describes how to easily write a GA SEI Bootcamp Project README in 
 
 <details>
 <summary> :art: Wireframes</summary>
+
 | Description | Screenshot |
 |------------ | ------------|
 | <h3 align="center">Home Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/Homepage.Wireframe.MYC.png" width="700"/>
@@ -144,6 +146,7 @@ This tutorial describes how to easily write a GA SEI Bootcamp Project README in 
 
 <details open>
 <summary> :gear: Functionality</summary>
+
 | Description | Screenshot |
 |------------ | ------------|
 | <h3 align="center">Feed Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/blob/main/public/Screenshots/FeedPage.png?raw=true" width="700"/> |
@@ -437,7 +440,7 @@ https://github.com/neilitalia/spacex-flights
  
 <h2> <u>Contributions</u> </h2>
  
- |       | Instructions |
+|       | Instructions |
 |-------|--------------|
 | Amar Panjwani<br>GA SEI<br> Portland '21 | Conception, Writing, Screenshots, Organization, Code Instructions / Explanations, SEO, Design, Social Media Preview Banner Creation, Interviewing Other Engineers
 | Neil Italia <br> GA SEI<br> Dallas '21 | UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider
