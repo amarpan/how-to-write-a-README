@@ -393,7 +393,7 @@ git commit -m ":pencil2: fix typo on cart page"
 <div>
 <hr >
 <div align="center">
-<h2 align="center"> <u>README Examples</u> </h2>
+<h2 align="center"> <u>README HALL OF FAME</u> </h2>
 </div>
 </details>
  </h5>
