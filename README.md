@@ -427,6 +427,18 @@ Project #1 (P1): https://github.com/prkrsamuels7/checkers
 </h4>
 </details>
 
+<details open>
+<summary>   
+Roger Davila - GA SEI Jun '22 - San Francisco, CA
+</summary>
+<h4> 
+ 
+Project #1 (P1): https://github.com/Toastito/solitaire
+ 
+</h4>
+</details>
+
+
 <!-- <details open>
 <summary>   
 Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney / Frisco)   
