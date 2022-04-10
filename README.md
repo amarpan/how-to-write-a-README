@@ -61,7 +61,12 @@
  [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/amarpan/readme-writing-tutorial?style=social)](https://github.com/amarpan/readme-writing-tutorial) ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
 
   <h6 align="center">
-   <a href="https://www.linkedin.com/in/amarpan/">Professor Pan, M.Ed.<br> Portland, OR, USA <br>Instructional Associate at General Assembly <br> Curriculum Writer at Linode
+   <a href="https://www.linkedin.com/in/amarpan/">Written/Created by Professor Pan, M.Ed.<br> 
+   
+   Instructional Associate at General Assembly <br>
+   Curriculum Technical Writer at Linode <br>
+   ADHD Life Coach at Pan You Can Foundation<br>
+   Portland, OR, USA <br>
       </a><br></a>
  </h6>
  
@@ -379,7 +384,7 @@ git commit -m ":pencil2: fix typo on cart page"
 </pre>
 ```
 
-<div align="center">
+<!-- <div align="center"> -->
 
 |       | Instructions |
 |-------|--------------|
@@ -387,13 +392,14 @@ git commit -m ":pencil2: fix typo on cart page"
 
 <div>
 <hr >
-<h2> <u>Full README Examples</u> </h2>
-
+<div align="center">
+<h2 align="center"> <u>README Examples</u> </h2>
+</div>
 </details>
  </h5>
  <details open>
 <summary>   
-Amar Panjwani - GA SEI Nov '21 - Portland, OR   
+Amar Pan - GA SEI Nov '21 - Portland, OR   
 </summary>
 <h4> 
  
@@ -407,13 +413,21 @@ Project #3 (P3): https://github.com/amarpan/ga-hw-tracker <br><br>
  
 Project #4 (P4): https://github.com/amarpan/meet-your-classmates 
  
-
-
 </h4>
 </details>
 
+ <details open>
+<summary>   
+Parker Samuels - GA SEI Jun '22 - Detroit, MI
+</summary>
+<h4> 
+ 
+Project #1 (P1): https://github.com/prkrsamuels7/checkers
+ 
+</h4>
+</details>
 
-<details open>
+<!-- <details open>
 <summary>   
 Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney / Frisco)   
 </summary>
@@ -426,9 +440,9 @@ https://github.com/neilitalia/plantrade
 https://github.com/neilitalia/spacex-flights
 
 
-</h4>
+</h4> -->
 
-<h2> <u>Further Reading</u> </h2>
+<h2 align="center"> <u>Further Reading</u> </h2>
 
 |       | Instructions |
 |-------|--------------|
@@ -448,9 +462,9 @@ https://github.com/neilitalia/spacex-flights
 - [x] Add technologies used buttons for everything learned in GA SEI
 - [x] Add 'Further Reading' section with links to Markdown tutorials and documentation -->
  
-<h2> <u>Contributions</u> </h2>
+<h2 align="center"> <u>Contributions</u> </h2>
  
-|       | Instructions |
+|  Name     | Work |
 |-------|--------------|
 | Amar Panjwani<br>GA SEI<br> Portland '21 | Conception, Writing, Screenshots, Organization, Code Instructions / Explanations, SEO, Design, Social Media Preview Banner Creation, Interviewing Other Engineers
 | Neil Italia <br> GA SEI<br> Dallas '21 | UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider
