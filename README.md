@@ -34,15 +34,15 @@
     <img src="https://img.shields.io/badge/-medium.com/@amarpan-purple?style=flat&logo=medium">
  </a>
 
- <a href="mailto:amar.panjwani@generalassemb.ly" target="_blank">
-    <img src="https://img.shields.io/badge/-amar.panjwani@generalassemb.ly-c14438?style=flat&logo=Gmail&logoColor=white">
+ <a href="mailto:amarpan.us@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-amaarpan.us@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
 
  <br>
  
 
  <a href="https://twitter.com/amarpan396" target="_blank">
-      <img src="https://img.shields.io/badge/-twitter.com/in/amarpan396-skyblue?style=flat&logo=Linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/-twitter.com/in/amarpan396-skyblue?style=flat&logo=Twitter&logoColor=white">
  </a> 
 
  <a href="https://www.facebook.com/amarpan396/" target="_blank">
