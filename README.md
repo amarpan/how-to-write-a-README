@@ -18,7 +18,7 @@
 
 <div align="center">
  <a href="https://amarpan.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-amarpan.github.io/portfolio-gold?style=flat&logo=github">
+    <img src="https://img.shields.io/badge/-amarpan.github.io/portfolio-gold?style=flat&logo=materialdesign">
  </a>
 
  <a href="https://www.github.com/amarpan/" target="_blank">
