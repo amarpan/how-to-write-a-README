@@ -89,7 +89,7 @@ This tutorial describes how to easily write a GA SEI Bootcamp Project README in 
 <div align="center">
    <h1>:school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel: </h1>
    <h3>https://meetyourclassmates.herokuapp.com/</h3>
-   <h5>Teammate Name | Your Name | Teammate Name </h5>`                             
+   <h5>Teammate Name | Your Name | Teammate Name </h5>                             
    <a href="https://yourportfoliolink.com" target="_blank">
       <img src="https://img.shields.io/badge/-Portfolio:_user.github.io-darkgreen?style=flat&logo=medium"/>
    </a>
@@ -133,6 +133,7 @@ This tutorial describes how to easily write a GA SEI Bootcamp Project README in 
 ```html
 <details>
 <summary> :bar_chart: ERD</summary>
+
 | Description | Screenshot |
 |------------ | ------------|
 | <h3 align="center">ERD</h3> | <img src="https://``github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png" width="700"> |
@@ -140,6 +141,7 @@ This tutorial describes how to easily write a GA SEI Bootcamp Project README in 
 
 <details>
 <summary> :art: Wireframes</summary>
+
 | Description | Screenshot |
 |------------ | ------------|
 | <h3 align="center">Home Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/Homepage.Wireframe.MYC.png" width="700"/>
@@ -148,6 +150,7 @@ This tutorial describes how to easily write a GA SEI Bootcamp Project README in 
 
 <details open>
 <summary> :gear: Functionality</summary>
+
 | Description | Screenshot |
 |------------ | ------------|
 | <h3 align="center">Feed Page</h3> | <img src="https://github.com/amarpan/meet-your-classmates/blob/main/public/Screenshots/FeedPage.png?raw=true" width="700"/> |
@@ -390,15 +393,17 @@ Amar Panjwani - GA SEI Nov '21 - Portland, OR
 </summary>
 <h4> 
  
-https://github.com/amarpan/simon-memory-game
+Project #1 (P1): https://github.com/amarpan/simon-memory-game
  
 <br>
  
-https://github.com/amarpan/review-my-project <br><br>
+Project #2 (P2): https://github.com/amarpan/review-my-project <br><br>
  
-https://github.com/amarpan/meet-your-classmates <br><br>
+Project #3 (P3): https://github.com/amarpan/ga-hw-tracker <br><br>
  
-https://github.com/amarpan/ga-hw-tracker
+Project #4 (P4): https://github.com/amarpan/meet-your-classmates 
+ 
+
 
 </h4>
 </details>
@@ -441,7 +446,7 @@ https://github.com/neilitalia/spacex-flights
  
 <h2> <u>Contributions</u> </h2>
  
- |       | Instructions |
+|       | Instructions |
 |-------|--------------|
 | Amar Panjwani<br>GA SEI<br> Portland '21 | Conception, Writing, Screenshots, Organization, Code Instructions / Explanations, SEO, Design, Social Media Preview Banner Creation, Interviewing Other Engineers
 | Neil Italia <br> GA SEI<br> Dallas '21 | UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider
