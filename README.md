@@ -35,7 +35,7 @@
  </a>
 
  <a href="mailto:amarpan.us@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-amaarpan.us@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-amarpan.us@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
  </a>
 
  <br>
