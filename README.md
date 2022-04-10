@@ -24,6 +24,10 @@
  <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
  </a> 
+
+ <a href="https://www.facebook.com/amarpan396/" target="_blank">
+      <img src="https://img.shields.io/badge/-facebook.com/amarpan396-darkblue?style=flat&logo=Facebook&logoColor=white">
+ </a> 
     
  
  <a href="https://medium.com/@amarpan">
