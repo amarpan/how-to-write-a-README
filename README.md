@@ -20,6 +20,11 @@
  <a href="https://amarpan.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/-amarpan.github.io/portfolio-gold?style=flat&logo=github">
  </a>
+
+ <a href="https://www.github.com/amarpan/" target="_blank">
+        <img
+          src="https://img.shields.io/badge/-github.com/amarpan-orange?style=flat&logo=GitHub&logoColor=white">
+      </a>
     
  <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
       <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
