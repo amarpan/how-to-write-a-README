@@ -1,59 +1,34 @@
  <div align="center">
  <h1 align="center"><img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"> How to Write a General Assembly (GA) Software Engineering Immersive (SEI) Bootcamp Project README <img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"></h1>
-<!-- ###### <h6 align="center">by</h6> -->
 
 
-      
-<!--    <a href="https://panamruth.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-panamruth.github.io/portfolio-gold?style=flat&logo="
- </a> -->
-   
- 
- <!--  <a href="https://www.linkedin.com/in/neilitalia/" target="_blank">
-      <img src="https://img.shields.io/badge/-linkedin.com/in/neilitalia-blue?style=flat&logo=Linkedin&logoColor=white">
- </a>   --> 
-<!--     <a href="https://neilitalia.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/-neilitalia.dev-gold?style=flat&logo="
- </a> -->
-
-<div align="center">
- <a href="https://amarpan.github.io/portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/-amarpan.github.io/portfolio-gold?style=flat&logo=materialdesign&logoColor=white">
- </a>
-
- <a href="https://www.github.com/amarpan/" target="_blank">
+<h3 align="center" id="author">
+   Written by <a href="https://www.linkedin.com/in/profpan396/">Professor Pan</a><br> 
+   <div align="center">
+<a href="https://profpan396.github.io/portfolio" target="_blank">
         <img
-          src="https://img.shields.io/badge/-github.com/amarpan-orange?style=flat&logo=GitHub&logoColor=white">
+          src="https://img.shields.io/badge/-profpan396.github.io/portfolio-magenta?style=flat&logo=Blackberry&logoColor=black">
       </a>
-    
- <a href="https://www.linkedin.com/in/amarpan/" target="_blank">
-      <img src="https://img.shields.io/badge/-linkedin.com/in/amarpan-blue?style=flat&logo=Linkedin&logoColor=white">
- </a> 
+<a href="mailto:profpan396@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-profpan396@gmail.com-aqua?style=flat&logo=Gmail&logoColor=black">
+ </a>
+ <a href="https://www.github.com/profpan396/" target="_blank">
+        <img
+          src="https://img.shields.io/badge/-github.com/profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black">
+      </a>
 
-  <a href="https://medium.com/@amarpan">
-    <img src="https://img.shields.io/badge/-medium.com/@amarpan-purple?style=flat&logo=medium">
+ <a href="https://www.linkedin.com/in/profpan396/" target="_blank">
+      <img src="https://img.shields.io/badge/-linkedin.com/in/profpan396-blue?style=flat&logo=Linkedin&logoColor=black">
+ </a> 
+  <a href="https://medium.com/@profpan396">
+    <img src="https://img.shields.io/badge/-medium.com/@profpan396-pink?style=flat&logo=medium&logoColor=black">
+ </a>
+ <a href="https://twitter.com/profpan396" target="_blank">
+      <img src="https://img.shields.io/badge/-twitter.com/in/profpan396-skyblue?style=flat&logo=Twitter&logoColor=black">
  </a>
 
- <a href="mailto:amarpan.us@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-amarpan.us@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
- </a>
 
- <br>
- 
-
- <a href="https://twitter.com/amarpan396" target="_blank">
-      <img src="https://img.shields.io/badge/-twitter.com/in/amarpan396-skyblue?style=flat&logo=Twitter&logoColor=white">
- </a> 
-
- <a href="https://www.facebook.com/amarpan396/" target="_blank">
-      <img src="https://img.shields.io/badge/-facebook.com/amarpan396-darkblue?style=flat&logo=Facebook&logoColor=white">
- </a> 
-
- <a href="https://www.instagram.com/amarpan396/" target="_blank">
-      <img src="https://img.shields.io/badge/-instagram.com/amarpan396-hotpink?style=flat&logo=Instagram&logoColor=white">
- </a> 
-    
- </div>
+ </h3>
 
 
   <!-- <a href="mailto:pan.amruth@gmail.com" target="_blank">
@@ -69,16 +44,6 @@
 
    
  [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/amarpan/readme-writing-tutorial?style=social)](https://github.com/amarpan/readme-writing-tutorial) ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
-
-  <h6 align="center">
-   <a href="https://www.linkedin.com/in/amarpan/">Written by Professor Pan, M.Ed.<br> 
-   
-   Instructional Associate at General Assembly <br>
-   Curriculum Technical Writer at Linode <br>
-   ADHD Life Coach at Pan You Can Foundation<br>
-   Portland, OR, USA <br>
-      </a><br></a>
- </h6>
  
  
 </div>
