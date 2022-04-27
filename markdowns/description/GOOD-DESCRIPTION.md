@@ -2,9 +2,9 @@
 
 # <h1>:school_satchel: MEET YOUR CLASSMATES :school_satchel: </h1>
 
-### <h3>https://meetyourclassmates.herokuapp.com/</h3>
+<h3><a href="https://meetyourclassmates.herokuapp.com/">CLICK TO DEMO</a></h3>
 
-##### <h5>Teammate Name | Your Name | Teammate Name </h5>
+<h5>Your Name</h5>
 
  <a href="https://yourportfoliolink.com" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio:_user.github.io-darkgreen?style=flat&logo=medium"
