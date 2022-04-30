@@ -456,7 +456,7 @@ https://github.com/neilitalia/spacex-flights
  
 |  Name     | Work |
 |-------|--------------|
-| Amar Panjwani<br>GA SEI<br> Portland '21 | Conception, Writing, Screenshots, Organization, Code Instructions / Explanations, SEO, Design, Social Media Preview Banner Creation, Interviewing Other Engineers
+| Amar Pan<br>GA SEI<br> Portland '21 | Conception, Writing, Screenshots, Organization, Code Instructions / Explanations, SEO, Design, Social Media Preview Banner Creation, Interviewing Other Engineers
 | Neil Italia <br> GA SEI<br> Dallas '21 | UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider
 | Olivia Emery <br> GA SEI<br> San Francisco '15 <br> Technical Writer @ Google | Editing, Suggestions for Clarity of Writing
 | Isaac Ferraro <br> GA SEI <br>Seattle '21 | Suggestions, Proofreading, Editing, Quality Assurance
