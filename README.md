@@ -433,7 +433,7 @@ https://github.com/neilitalia/spacex-flights
 
 |       | Instructions |
 |-------|--------------|
-| Note: | For a quick review on README formatting, check out [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/).
+| Note: | For a quick introduction to Mardown writing format, check out [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/).
 | Note: | Read through the [official GitHub-flavored Markdown documentation](https://github.github.com/gfm/) for further reference.
  
  <!-- ## Future Updates 
