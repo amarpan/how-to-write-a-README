@@ -43,7 +43,10 @@
   
 
    
- [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/amarpan/readme-writing-tutorial?style=social)](https://github.com/amarpan/readme-writing-tutorial) ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
+<!--  [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/amarpan/readme-writing-tutorial?style=social)](https://github.com/amarpan/readme-writing-tutorial) --> 
+ 
+<!--   [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/profpan396/readme-writing-tutorial?style=social)](https://github.com/profpan396/readme-writing-tutorial) -->
+ ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
  
  
 </div>
