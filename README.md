@@ -52,7 +52,7 @@
  ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
  
  
-</div>
+
 <!-- <hr /> -->
 <p>
 This tutorial describes how to easily write a GA SEI Bootcamp Project README in Markdown and HTML.
@@ -62,7 +62,7 @@ This tutorial describes how to easily write a GA SEI Bootcamp Project README in 
 <p>
 <!-- Thus, today we'll provide you with the copy and paste-able code to quickly and easily set up a README that will impress your classmates, instructors, and potential employers. -->
 </p>
-
+</div>
 
 
 
