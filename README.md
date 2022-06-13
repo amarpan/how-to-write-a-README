@@ -55,7 +55,7 @@
 </div>
 <!-- <hr /> -->
 <p>
-This tutorial describes how to easily write a GA SEI Bootcamp Project README in Markdown and HTML via copy and pastable code snippets.
+This tutorial describes how to easily write a GA SEI Bootcamp Project README in Markdown and HTML.
  <!-- Writing project documentation in the form of a README is typically the last thing any GA SEI student wants to do, especially after a long and exhausting project week. -->
 </p>
 
