@@ -84,10 +84,10 @@ This tutorial describes how to easily write a GA SEI Bootcamp Project README in 
       <img src="https://img.shields.io/badge/-Portfolio:_user.github.io-darkgreen?style=flat&logo=medium"/>
    </a>
    <a href="https://www.linkedin.com/in/user/" target="_blank">
-      <img src="https://img.shields.io/badge/-linkedin.com/in/user-blue?style=flat&``logo=Linkedin&logoColor=white">
+      <img src="https://img.shields.io/badge/-linkedin.com/in/user-blue?style=flat&logo=Linkedin&logoColor=white">
    </a> 
    <a href="mailto:user@gmail.com" target="_blank">
-      <img src="https://img.shields.io/badge/-user@gmail.com-c14438?style=flat&logo=Gmail&``logoColor=white">
+      <img src="https://img.shields.io/badge/-user@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
    </a>
    <a href="https://medium.com/@user">
       <img src="https://img.shields.io/badge/-medium.com/@user-black?style=flat&logo=medium">
