@@ -3,7 +3,7 @@
 
 
 <h3 align="center" id="author">
-   Written by <a href="https://www.linkedin.com/in/profpan396/">Professor Pan, M.Ed.</a><br> 
+   Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a><br> 
    <div align="center">
  </h3>
  Former GA SEI Instructional Associate (IA) <br>
@@ -12,23 +12,20 @@
         <img
           src="https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black">
       </a>
-<a href="mailto:profpan396@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-profpan396@gmail.com-aqua?style=flat&logo=Gmail&logoColor=black">
- </a>
+      <br>
+
  <a href="https://www.github.com/profpan396/" target="_blank">
         <img
-          src="https://img.shields.io/badge/-github.com/profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black">
+          src="https://img.shields.io/badge/-@profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black">
       </a>
 
  <a href="https://www.linkedin.com/in/profpan396/" target="_blank">
-      <img src="https://img.shields.io/badge/-linkedin.com/in/profpan396-blue?style=flat&logo=Linkedin&logoColor=black">
+      <img src="https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black">
  </a> 
   <a href="https://medium.com/@profpan396">
-    <img src="https://img.shields.io/badge/-medium.com/@profpan396-pink?style=flat&logo=medium&logoColor=black">
+    <img src="https://img.shields.io/badge/-@profpan396-pink?style=flat&logo=medium&logoColor=black">
  </a>
- <a href="https://twitter.com/profpan396" target="_blank">
-      <img src="https://img.shields.io/badge/-twitter.com/in/profpan396-skyblue?style=flat&logo=Twitter&logoColor=black">
- </a>
+ 
 
 
  </h3>
@@ -50,6 +47,7 @@
  
 <!--   [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/profpan396/readme-writing-tutorial?style=social)](https://github.com/profpan396/readme-writing-tutorial) -->
  ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
+ <img src="https://img.shields.io/github/stars/profpan396/bootcamp-readme-writing-tutorial"/> 
  
  
 
