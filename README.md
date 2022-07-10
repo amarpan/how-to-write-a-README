@@ -175,6 +175,9 @@
 
 <h2  align="center"><u>Technologies Used</u></h2>
 
+
+**Requirements**: List of the technologies used.
+
 <div align="center"> 
    <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png">
 </div>
@@ -182,6 +185,7 @@
 
 ```markdown
 ## :computer: Technologies Used
+A screenshot of your app's landing page and any other screenshots of interest.
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
