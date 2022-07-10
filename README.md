@@ -167,6 +167,8 @@
 </div>
 <hr>
 
+<div id="technologies-used">
+
 <h2  align="center"><u>Technologies Used</u></h2>
 
 
@@ -215,6 +217,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 | <!--  | Note:                                                                                                                          | If you'd rather note use badges (or can't find applicable ones), separate technologies in the following format: |
 |       | Ex. MongoDB                                                                                                                    | \*\*\*figure out how to cancel out                                                                              | character --> |
 
+</div>
 </div>
 
 <hr>
