@@ -457,7 +457,8 @@ https://github.com/neilitalia/spacex-flights
 | Neil Italia | GA SEI Dallas Oct '21 | User Interface Developer @ Lennox International | UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider
 | Olivia Emery | GA SEI San Francisco '15 | Technical Writer @ Google | Editing, Suggestions
 | Isaac Ferraro | GA SEI Seattle Nov '21 | Front-End Developer @ Helium | Quality Assurance
-| Miguel Urena | GA SEI Los Angeles '21 | Graphic Design
+| Miguel Urena | GA SEI Los Angeles '21 | | Graphic Design
+| Mario Recinos | GA SEI Los Angeles Dec '21 | 
 
    
    
