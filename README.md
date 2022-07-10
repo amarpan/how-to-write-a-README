@@ -39,7 +39,7 @@
    
    <div id="introduction">
       <p>
-      This tutorial describes how to write a GA SEI Bootcamp Project README in Markdown and HTML according to the established formatting set forth by Distinguished Faculty Instructors Jim Clark and Jim Haff.
+      This tutorial describes how to write a GA SEI Bootcamp Project README in HTML and GitHub-flavored Markdown (HTML shorthand)
       <p>
 <!-- Thus, today we'll provide you with the copy and paste-able code to quickly and easily set up a README that will impress your classmates, instructors, and potential employers. -->
 </p>
@@ -87,13 +87,13 @@
 
 <div align="center">
 
-|       | Instructions                                                                                                                                                                                                                                                                  |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
-| Note: | Integrate styling with `<div align="center"></div>` to center text.                                                                                                                                                                                                           |
-| Note: | Add your deployed link directly to the top here - many users won't scroll all the way down to find it.                                                                                                                                                                        |
-| Note: | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school:                                                                                                                                                                                                            |
+|           | Instructions                                    |
+|-----------|-------------------------------------------------|
+| **Note**: | Integrate styling with `<div align="center"></div>` to center text.                                                                                                       
+| **Note**: | Add your deployed link directly to the top here - many users won't scroll all the way down to find it.                                                                                                                                            
+| Note: | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school: Check out [ this list of available GitHub emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).                                                                                                                                   
 |       | While emojis show automatically on GitHub, to see them on VS Code one needs to install an extension like [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji). Some emojis may also look completely different on VS Code than GitHub. |
-|       | Check out [ this full list of available GitHub emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).                                                                                                                                                  |
+                                                                                                                                           |
 | <!--  | Note:                                                                                                                                                                                                                                                                         | Each `#` stands for a header of that number in HTML. |
 |       | Ex. `#` is equivalent to `<h1>`                                                                                                                                                                                                                                               |
 |       | Ex. `######` is equivalent to `<h6>`                                                                                                                                                                                                                                          | -->                                                  |
@@ -164,7 +164,10 @@
 
 <div align="center">
 
-|       | Instructions                                                                                                                                                                                             |
+
+
+|       | Instructions   
+                                                                                                                                                                                          |
 | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Note: | To set up a table, use:                                                                                                                                                                                  |
 |       | `\| Description \| Screenshot\|`                                                                                                                                                                         |
