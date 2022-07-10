@@ -95,7 +95,7 @@ This tutorial describes how to easily write a GA SEI Bootcamp Project README in 
 
 |            | Instructions |
 |------------|--------------|
-| Note:      | Integrate styling with `<h1 align="center">` to center text. |
+| Note:      | Integrate styling with `<div align="center"></div>` to center text. |
 | Note:      | Add your deployed link directly to the top here - many users won't scroll all the way down to find it.
 | Note:      | Use emojis by typing in `:emojiname:` Ex. `:school:` ---> :school:
 |         | While emojis show automatically on GitHub, to see them on VS Code one needs to install an extension like [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji). Some emojis may also look completely different on VS Code than GitHub.
