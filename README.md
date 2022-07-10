@@ -35,20 +35,16 @@
       <br>
       <img src="https://img.shields.io/badge/version-1.2-gold">
 
-   
-
    </div>
    
-
-<!-- <hr /> -->
-<p>
-This tutorial describes how to easily write a GA SEI Bootcamp Project README in Markdown and HTML.
- <!-- Writing project documentation in the form of a README is typically the last thing any GA SEI student wants to do, especially after a long and exhausting project week. -->
-</p>
-
-<p>
+   <div id="introduction">
+      <p>
+      This tutorial describes how to write a GA SEI Bootcamp Project README in Markdown and HTML according to the established formatting set forth by Distinguished Faculty Instructors Jim Clark and Jim Haff.
+      <p>
 <!-- Thus, today we'll provide you with the copy and paste-able code to quickly and easily set up a README that will impress your classmates, instructors, and potential employers. -->
 </p>
+   </div>
+
 </div>
 
 <!-- <hr /> -->
