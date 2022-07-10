@@ -7,7 +7,7 @@
    <div align="center">
  </h3>
  Former GA SEI Instructional Associate (IA) <br>
- GA SEI Grad Nov '21 <br>
+ GA SEI Alum Nov '21 <br>
 <a href="https://profpan396.github.io" target="_blank">
         <img
           src="https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black">
