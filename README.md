@@ -46,7 +46,7 @@
 
 <h2  align="center"><u>Description</u></h2>
 
-Requirements: What the app does, is called, and optional background info.
+**Requirements**: App name, what it does, and optional background info.
 
 <div align="center"> 
   <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">
