@@ -458,7 +458,8 @@ https://github.com/neilitalia/spacex-flights
 | Olivia Emery | GA SEI San Francisco '15 | Technical Writer @ Google | Editing, Suggestions
 | Isaac Ferraro | GA SEI Seattle Nov '21 | Front-End Developer @ Helium | Quality Assurance
 | Miguel Urena | GA SEI Los Angeles '21 | | Graphic Design
-| Mario Recinos | GA SEI Los Angeles Dec '21 | 
+| Mario Recinos | GA SEI Los Angeles Dec '21 | General Assembly Ambassador @ Career Karma | Outreach
+| Stephanie Lee | GA SEI Los Angeles Nov '21 <br> GA UXDI Los Angeles Aug '21 | Sr. Instructional Associate @ General Assembly | Outreach
 
    
    
