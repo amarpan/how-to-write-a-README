@@ -453,9 +453,9 @@ https://github.com/neilitalia/spacex-flights
  
 |  Name | Cohort | Title | Work |
 |-------|--------|-------|------|
-| Amar Pan | GA SEI Los Angeles Nov '21 | Technical Writer @ Linode | Writing
-| Neil Italia | GA SEI Dallas Oct '21 | User Interface Developer @ Lennox International | UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider
-| Olivia Emery | GA SEI San Francisco '15 | Technical Writer @ Google | Editing, Suggestions
+| Amar Pan | GA SEI Los Angeles Nov '21 | Technical Writer @ Linode | Writing - Main Features
+| Neil Italia | GA SEI Dallas Oct '21 | User Interface Developer @ Lennox International | Writing - Optional Additions
+| Olivia Emery | GA SEI San Francisco '15 | Technical Writer @ Google | Editing
 | Isaac Ferraro | GA SEI Seattle Nov '21 | Front-End Developer @ Helium | Quality Assurance
 | Miguel Urena | GA SEI Los Angeles '21 | | Graphic Design
 | Mario Recinos | GA SEI Los Angeles Dec '21 | General Assembly Ambassador @ Career Karma | Outreach
