@@ -6,7 +6,7 @@
    Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a><br> 
    <div align="center">
  </h3>
- Former GA SEI Instructional Associate (IA) <br>
+ GA SEI Instructional Associate (IA) <br>
  GA SEI Alum Nov '21 <br>
 <a href="https://profpan396.github.io" target="_blank">
         <img
