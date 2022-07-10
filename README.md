@@ -456,7 +456,7 @@ https://github.com/neilitalia/spacex-flights
 | Amar Pan | GA SEI Los Angeles Nov '21 | Technical Writer @ Linode | Conception, Writing, Screenshots, Organization, Code Instructions / Explanations, SEO, Design, Social Media Preview Banner Creation, Interviewing Other Engineers
 | Neil Italia | GA SEI Dallas Oct '21 | User Interface Developer @ Lennox International | UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider
 | Olivia Emery | GA SEI San Francisco '15 | Technical Writer @ Google | Editing, Suggestions
-| Isaac Ferraro | GA SEI Seattle Nov '21 | Quality Assurance
+| Isaac Ferraro | GA SEI Seattle Nov '21 | Front-End Developer @ Helium | Quality Assurance
 | Miguel Urena | GA SEI Los Angeles '21 | Graphic Design
 
    
