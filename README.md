@@ -55,26 +55,30 @@
   </div>
 </div>
 
-```html
-<div align="center">
-  <h1>
+  ```html
+  <div align="center">
+    <h1>
     :school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel:
-  </h1>
-  <h3>https://meetyourclassmates.herokuapp.com/</h3>
-  <h5>Your Name</h5>
-  <a href="https://www.linkedin.com/in/user/" target="_blank">
+    </h1>
+
+    <h3>https://meetyourclassmates.herokuapp.com/</h3>
+
+    <h5>Your Name</h5>
+
+    <a href="https://www.linkedin.com/in/user/" target="_blank">
     <img
       src="https://img.shields.io/badge/-yourlinkedin.com/in/username-blue?style=flat&logo=Linkedin&logoColor=white"
     />
-  </a>
-  <a href="mailto:user@gmail.com" target="_blank">
-    <img
+    </a>
+
+    <a href="mailto:user@gmail.com" target="_blank">
+      <img
       src="https://img.shields.io/badge/-youremail@gmail.com>-c14438?style=flat&logo=Gmail&logoColor=white"
-    />
-  </a>
-</div>
+      />
+    </a>
 
 <h1>:pencil: Description</h1>
+
 <p>
   Meet Your Classmates is an Instagram-clone and hub where students can get to
   know and relate to their peers via completion of short 3-question
@@ -82,6 +86,8 @@
   interests, an atmosphere of community is created that is conducive to higher
   levels of learning and success.
 </p>
+
+</div>
 ```
 
 <div align="center">
