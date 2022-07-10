@@ -157,7 +157,8 @@
 ```
 | Instructions | 
 |--------------|
-| To set up a table
+| To set up a table use:
+| `Description \| Screenshot \|`
 
 
 
