@@ -96,6 +96,8 @@
 <hr>
 
 <h2  align="center"><u>Screenshots</u></h2>
+
+**Requirements**: Screenshots of your app's landing page and any other pages of interest.
 <div align="center"> 
    <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
 </div>
