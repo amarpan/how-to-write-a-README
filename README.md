@@ -103,20 +103,22 @@
 
 <hr>
 
-<h2  align="center"><u>Screenshots</u></h2>
+<div id="screenshots">
 
-**Requirements**: Screenshots of your app's landing page and any other pages of interest.
-<div align="center"> 
-   <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
-</div>
+  <h2  align="center"><u>Screenshots</u></h2>
+
+  **Requirements**: Screenshots of your app's landing page and any other pages of interest.
+  <div align="center"> 
+     <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
+  </div>
 
 ```html
 <details>
   <summary>:bar_chart: ERD</summary>
 
   | Description | Screenshot | 
-  |:-----------:| ------------| 
-  | <h3>ERD</h3>| <img
+  |:------------:|-----------| 
+  | <h3>ERD</h3> | <img
     src="https://``github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png"
     width="700"
   /> |
@@ -126,39 +128,31 @@
 <details>
   <summary>:art: Wireframes</summary>
 
-  | Description | Screenshot | 
-  |:-----------:| ------------| 
-  | <h3>Home Page</h3>|<img
+  |    Description    | Screenshot | 
+  |:-----------------:|-------------| 
+  | <h3>Home Page</h3>| <img
     src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/Homepage.Wireframe.MYC.png"
     width="700"
-  />|
-  <h3 align="center">Profile Page</h3>
-  |
-  <img
+  /> |
+  | <h3 align="center">Profile Page</h3> | <img
     src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.Wireframe.MYC.png"
     width="700"
-  />
-  |
+  /> |
 </details>
 
 <details open>
   <summary>:gear: Functionality</summary>
 
-  | Description | Screenshot | |------------ | ------------| |
-  <h3 align="center">Feed Page</h3>
-  |
-  <img
+  |   Description | Screenshot | 
+  |:-------------:| -----------|
+  | <h3>Feed Page</h3> | <img
     src="https://github.com/amarpan/meet-your-classmates/blob/main/public/Screenshots/FeedPage.png?raw=true"
     width="700"
-  />
-  | |
-  <h3 align="center">Profile Page</h3>
-  |
-  <img
+  /> |
+  | <h3 align="center">Profile Page</h3> | <img
     src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.png"
     width="700"
-  />
-  |
+  /> |
 </details>
 ```
 | Instructions | 
@@ -178,7 +172,7 @@
 |       | Ex. `<details>` --> `<details open>`                                                                                                                                                                     |
 | Note: | Image dimensions can also be resized by specifying width and height.                                                                                                                                     |
 |       | Ex. `<img src="" width="300" height="400">`                                                                                                                                                              |
-
+</div>
 <hr>
 
 <h2  align="center"><u>Technologies Used</u></h2>
