@@ -10,6 +10,7 @@
       <br> 
       GA SEI Instructional Associate (IA)
    </h3>
+
  
    <a href="https://profpan396.github.io" target="_blank">
         <img
@@ -29,18 +30,6 @@
  </a>
 
  </h3>
-
-  <!-- <a href="mailto:pan.amruth@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-pan.amruth@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white">
- </a> -->
-
-<!-- <a href="https://www.github.com/panamruth/" target="_blank">
-      <img src="https://img.shields.io/badge/-github.com/panamruth-orange?style=flat&logo=GitHub&logoColor=white">
- </a> -->
-
-<!--  [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/amarpan/readme-writing-tutorial?style=social)](https://github.com/amarpan/readme-writing-tutorial) -->
-
-<!--   [![stars - readme-writing-tutorial](https://img.shields.io/github/stars/profpan396/readme-writing-tutorial?style=social)](https://github.com/profpan396/readme-writing-tutorial) -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
 <img alt="GitHub commits" src="https://img.shields.io/github/last-commit/profpan396/how-to-write-a-GA-SEI-README">
