@@ -87,7 +87,7 @@
 
 <div align="center">
 
-|           | Instructions                                    |
+|           | Tips                                    |
 |-----------|-------------------------------------------------|
 | **Note**: | Integrate styling with `<div align="center"></div>` to center text.                                                                                                       
 | **Note**: | Add your deployed link directly to the top here - many users won't scroll all the way down to find it.                                                                                                                                            
