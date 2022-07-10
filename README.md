@@ -155,25 +155,15 @@
   /> |
 </details>
 ```
-| Instructions | 
-|--------------|
+| Tips 
+|--------------
 | To set up a table use:
 | `Description \| Screenshot \|`
 | `:----------:\|------------\|`
-
-
-
-
-| Instructions   |
-|----------------|
-| To set up a table use:                                                                                                                                           |`| Description | Screenshot|`                                                                                                                                                                         |
-|`\|-------------\|-----------\|`                                                                                                                                                                         |
-|`\| caption \| image \|`                                                                                                                                                                                 |
-| Note: | Whatever is placed in between `<details></details>` will be hidden beneath a closed drop-down menu, until its arrow is clicked on. The title for this should be placed in between `<summary></summary>`. |
-| Note: | To have a drop-down menu display by default without the user having to click it, add the word 'open' to the details tag.                                                                                 |
-|       | Ex. `<details>` --> `<details open>`                                                                                                                                                                     |
-| Note: | Image dimensions can also be resized by specifying width and height.                                                                                                                                     |
-|       | Ex. `<img src="" width="300" height="400">`                                                                                                                                                              |
+| `caption    \|    image   \|`
+| Whatever is placed in between `<details></details>` will be hidden beneath a closed drop-down menu, until its arrow is clicked on. The title for this should be placed in between `<summary></summary>`.
+| To have a drop-down menu display by default without the user having to click it, add the word 'open' to the details tag. <br> <u><strong>Example:<strong></u> `<details>` --> `<details open>`                                                                                                      
+| Image dimensions can also be resized by specifying width and height. <br> <u><strong>Example:<strong></u> `<img src="" width="300" height="400">`                                                                                                                                                                                                                                                        |
 </div>
 <hr>
 
