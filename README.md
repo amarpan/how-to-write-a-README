@@ -106,14 +106,14 @@
 <details>
   <summary>:bar_chart: ERD</summary>
 
-  | Description | Screenshot | |------------ | ------------| |
-  <h3 align="center">ERD</h3>
-  |
-  <img
+  | Description | Screenshot | 
+  |:-----------:| ------------| |
+  <h3>ERD</h3>
+  | <img
     src="https://``github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png"
     width="700"
-  />
-  |
+  /> |
+
 </details>
 
 <details>
@@ -156,18 +156,18 @@
   |
 </details>
 ```
+| Instructions | 
+|--------------|
+| To set up a table
 
-<div align="center">
 
 
 
-|       | Instructions   
-                                                                                                                                                                                          |
-| ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Note: | To set up a table, use:                                                                                                                                                                                  |
-|       | `\| Description \| Screenshot\|`                                                                                                                                                                         |
-|       | `\|-------------\|-----------\|`                                                                                                                                                                         |
-|       | `\| caption \| image \|`                                                                                                                                                                                 |
+| Instructions   |
+|----------------|
+| To set up a table use:                                                                                                                                           |`| Description | Screenshot|`                                                                                                                                                                         |
+|`\|-------------\|-----------\|`                                                                                                                                                                         |
+|`\| caption \| image \|`                                                                                                                                                                                 |
 | Note: | Whatever is placed in between `<details></details>` will be hidden beneath a closed drop-down menu, until its arrow is clicked on. The title for this should be placed in between `<summary></summary>`. |
 | Note: | To have a drop-down menu display by default without the user having to click it, add the word 'open' to the details tag.                                                                                 |
 |       | Ex. `<details>` --> `<details open>`                                                                                                                                                                     |
