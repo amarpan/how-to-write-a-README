@@ -107,9 +107,8 @@
   <summary>:bar_chart: ERD</summary>
 
   | Description | Screenshot | 
-  |:-----------:| ------------| |
-  <h3>ERD</h3>
-  | <img
+  |:-----------:| ------------| 
+  | <h3>ERD</h3>| <img
     src="https://``github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png"
     width="700"
   /> |
@@ -119,14 +118,12 @@
 <details>
   <summary>:art: Wireframes</summary>
 
-  | Description | Screenshot | |------------ | ------------| |
-  <h3 align="center">Home Page</h3>
-  |
-  <img
+  | Description | Screenshot | 
+  |:-----------:| ------------| 
+  | <h3>Home Page</h3>|<img
     src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/Homepage.Wireframe.MYC.png"
     width="700"
-  />
-  |
+  />|
   <h3 align="center">Profile Page</h3>
   |
   <img
