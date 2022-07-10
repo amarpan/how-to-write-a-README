@@ -18,24 +18,22 @@
       </a>
       <br>
 
- <a href="https://www.github.com/profpan396/" target="_blank">
+   <a href="https://www.github.com/profpan396/" target="_blank">
         <img
           src="https://img.shields.io/badge/-@profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black">
       </a>
- <a href="https://www.linkedin.com/in/profpan396/" target="_blank">
+   <a href="https://www.linkedin.com/in/profpan396/" target="_blank">
       <img src="https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black">
- </a> 
-  <a href="https://medium.com/@profpan396">
+   </a> 
+   <a href="https://medium.com/@profpan396">
     <img src="https://img.shields.io/badge/-@profpan396-pink?style=flat&logo=medium&logoColor=black">
- </a>
+   </a>
 
- </h3>
-
-![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
-<img alt="GitHub commits" src="https://img.shields.io/github/last-commit/profpan396/how-to-write-a-GA-SEI-README">
-<img src="https://img.shields.io/github/stars/profpan396/how-to-write-a-GA-SEI-README"/>
-<br>
-<img src="https://img.shields.io/badge/version-2.0-aqua">
+   ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial) 
+   <img alt="GitHub commits" src="https://img.shields.io/github/last-commit/profpan396/how-to-write-a-GA-SEI-README">
+   <img src="https://img.shields.io/github/stars/profpan396/how-to-write-a-GA-SEI-README"/>
+   <br>
+   <img src="https://img.shields.io/badge/version-2.0-aqua">
 
 <!-- <hr /> -->
 <p>
