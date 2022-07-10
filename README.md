@@ -8,7 +8,7 @@
    <h3>
       Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a>
       <br> 
-      Instructional Associate at General Assembly
+      Sr. Instructional Associate at General Assembly
    </h3>
 
    <div id="socialbuttons">
