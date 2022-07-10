@@ -227,6 +227,10 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 <h2  align="center"><u>Getting Started</u></h2>
 
+**Requirements**: 
+- A link to the deployed app
+- A link to the Trello board used for the project's planning that includes user stories, wireframes, and ERD.
+
 <div align="center"> 
    <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">
 </div>
@@ -294,6 +298,9 @@ A screenshot of your app's landing page and any other screenshots of interest.
 <hr>
 
 <h2  align="center"><u>Next Steps</u></h2>
+**Requirements**: Planned future enhancements (icebox items).
+
+
 
 <div align="center"> 
    <img src="./images/GOOD-NEXT-STEPS-SINGLE.png"> 
