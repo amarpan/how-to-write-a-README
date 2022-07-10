@@ -159,6 +159,7 @@
 |--------------|
 | To set up a table use:
 | `Description \| Screenshot \|`
+| `:----------:\|------------\|`
 
 
 
