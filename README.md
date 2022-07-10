@@ -5,10 +5,10 @@
       <img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24">
    </h1>
 
-<h3 align="center">
-   Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a><br> 
-   <div align="center">
- </h3>
+   <h3>
+      Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a>
+      <br> 
+   </h3>
  GA SEI Instructional Associate (IA) <br>
  GA SEI Alum Nov '21 <br>
 <a href="https://profpan396.github.io" target="_blank">
@@ -27,7 +27,6 @@
   <a href="https://medium.com/@profpan396">
     <img src="https://img.shields.io/badge/-@profpan396-pink?style=flat&logo=medium&logoColor=black">
  </a>
-
 
  </h3>
 
