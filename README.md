@@ -39,16 +39,14 @@
    
    <div id="introduction">
       <p>
-      This tutorial describes how to write a GA SEI Bootcamp Project README in HTML and GitHub-flavored Markdown (HTML shorthand)
+      This tutorial describes how to write a GA SEI Bootcamp Project README in HTML and GitHub-flavored Markdown.
       <p>
-<!-- Thus, today we'll provide you with the copy and paste-able code to quickly and easily set up a README that will impress your classmates, instructors, and potential employers. -->
-</p>
    </div>
-
 </div>
 
-<!-- <hr /> -->
-<h2  align="center"><u>Header & Description</u></h2>
+<h2  align="center"><u>Description</u></h2>
+
+Requirements: What the app does, is called, and optional background info.
 
 <div align="center"> 
   <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">
