@@ -37,7 +37,7 @@
 
    </div>
    <p>
-      This tutorial describes how to write a GA SEI Bootcamp Project README in HTML and GitHub-flavored Markdown.
+      This tutorial and template describes how to write a GA SEI Bootcamp Project README in HTML and GitHub-flavored Markdown in 20 minutes or less.
    <p>
    
 </div>
