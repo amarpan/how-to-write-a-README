@@ -5,7 +5,7 @@
 
 
 <h3 align="center" id="author">
-   Created by Amar Panjwani
+   Created by Amar Pan
    <div align="center">
 <a href="https://profpan396.github.io/portfolio" target="_blank">
         <img
