@@ -43,4 +43,5 @@
 
 ## :pencil: Description
 
-Meet Your Classmates is an Instagram-clone and hub where students can get to know and relate to their peers via completion of short 3-question mini-surveys. By learning about others' backgrounds, previous experiences, and interests, an atmosphere of community is created that is conducive to higher levels of learning and success.
+Simon is a classic short-term memory game where the user is expected to match the random color pattern selected by the computer. Each game starts at Lvl 1 with the computer first selecting a single color, and then the user selecting that same color. At each subsequent level, another color is added to the pattern, making the correct pattern increasingly harder to remember. 
+
