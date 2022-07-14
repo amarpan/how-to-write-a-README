@@ -5,7 +5,7 @@
 
 
 <h3 align="center" id="author">
-   Written by <a href="https://www.linkedin.com/in/profpan396/">Professor Pan</a><br> 
+   Created by Amar Panjwani
    <div align="center">
 <a href="https://profpan396.github.io/portfolio" target="_blank">
         <img
