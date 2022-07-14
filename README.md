@@ -36,12 +36,10 @@
       <img src="https://img.shields.io/badge/version-1.2-gold">
 
    </div>
-   
-   <div id="introduction">
-      <p>
+   <p>
       This tutorial describes how to write a GA SEI Bootcamp Project README in HTML and GitHub-flavored Markdown.
-      <p>
-   </div>
+   <p>
+   
 </div>
 
 <div id="description">
