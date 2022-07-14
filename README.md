@@ -44,7 +44,7 @@
 
 <div id="description">
 
-  <h2 align="center"><strong><u>Description</u></strong></h2>
+  <h2 align="center"><strong><u>Header & Description</u></strong></h2>
 
   <p align="center"><strong>Requirements:</strong> App name, what it does, and optional background info.</p>
 
