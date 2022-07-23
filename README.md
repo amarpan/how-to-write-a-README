@@ -493,7 +493,7 @@ https://github.com/neilitalia/spacex-flights
 | Mario Recinos | GA SEI Los Angeles Dec '21 | General Assembly Ambassador @ Career Karma | Outreach
 | Stephanie Lee | GA SEI Los Angeles Nov '21 | Sr. Instructional Associate @ General Assembly | Outreach
 
-### If you found this tutorial helpful, please consider giving it a :star:
+### ***If you found this tutorial helpful, please consider giving it a :star:
   
 
 <!-- <details>
