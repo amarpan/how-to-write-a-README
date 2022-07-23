@@ -216,14 +216,15 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 **Requirements**: 
 - A link to the deployed app
-- A link to the Trello board used for the project's planning that includes user stories, wireframes, and ERD.
+- A link to the Trello board used for the project's planning that includes user stories, wireframes, and ERD
 
 <div align="center"> 
    <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">
 </div>
 
+
 ```html
-<h2>:atom_symbol: Getting Started</h2>
+<h2>:fire: Getting Started</h2>
 
 <h3>:calling: Instructions</h3>
 <details open>
