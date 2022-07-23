@@ -490,10 +490,11 @@ https://github.com/neilitalia/spacex-flights
 | Amar Pan | GA SEI Los Angeles Nov '21 | Technical Writer @ Linode | Writing - Main Features
 | Neil Italia | GA SEI Dallas Oct '21 | User Interface Developer @ Lennox International | Writing - Optional Additions
 | Olivia Emery | GA SEI San Francisco '15 | Technical Writer @ Google | Editing
-| Isaac Ferraro | GA SEI Seattle Nov '21 | Front-End Developer @ Helium | Quality Assurance
-| Miguel Urena | GA SEI Los Angeles '21 | | Graphic Design
 | Mario Recinos | GA SEI Los Angeles Dec '21 | General Assembly Ambassador @ Career Karma | Outreach
 | Stephanie Lee | GA SEI Los Angeles Nov '21 | Sr. Instructional Associate @ General Assembly | Outreach
+
+### If you found this tutorial helpful, please consider giving it a :star:
+  
 
 <!-- <details>
 <summary>Amar Panjwani - GA SEI Nov '21 - Los Angeles, CA (Apple Valley) - Tech Support at Summit Medical</summary>
