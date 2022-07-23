@@ -202,7 +202,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
    <div align="center">
 
-| Instructions |  |
+| Tips |  |
 |--------------|--|
 | Note: | Additional custom badges can be found at [the shields.io website.](https://shields.io/)                                        |
 | Note: | For a list of more colorful badges, [check out this repository.](https://github.com/alexandresanlim/Badges4-README.md-Profile) |
@@ -277,7 +277,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 <div align="center">
 
-|       | Instructions                                                                                      |
+|       | Tips                                                                                      |
 | ----- | ------------------------------------------------------------------------------------------------- |
 | Note: | Use numbered lists as opposed to lengthy paragraphs to make sure this section is easily readable. |
 | Note: | Put your links in more drop-down menus using `<details open>` and `<summary>`.                    |
@@ -313,7 +313,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 <div align="center">
 
-|       | Instructions                                                                                           |
+|       | Tips                                                                                           |
 | ----- | ------------------------------------------------------------------------------------------------------ |
 | Note: | Try to avoid using the word "icebox," as most non-technical users probably won't know what this means. |
 | Note: | Use bullet points rather than paragraphs to make it immediately clear what each new feature would be.  |
@@ -349,7 +349,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 <div align="center">
 
-| Instructions: |  |
+| Tips: |  |
 |---------------|--|
 | Note: | Royalty-free stock photos can be found on [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), or [Unsplash](https://unsplash.com/).                                                               |
 | Note: | Free photo editing tools like [Photopea](https://www.photopea.com/) can streamline the editing process with their ability to import images from URLs and export images directly into [imgur](https://imgur.com/). |
@@ -370,7 +370,7 @@ git commit -m ":pencil2: fix typo on cart page"
 
 <div align="center">
 
-|       | Instructions                                                                   |
+|       | Tips                                                                   |
 | ----- | ------------------------------------------------------------------------------ |
 | Note: | GitHub-friendly commit emojis can be found on [gitmoji](https://gitmoji.dev/). |
 
@@ -396,7 +396,7 @@ git commit -m ":pencil2: fix typo on cart page"
 
 <!-- <div align="center"> -->
 
-|       | Instructions                                    |
+|       | Tips                                    |
 | ----- | ----------------------------------------------- |
 | Note: | This works best with images of similar heights. |
 
@@ -465,7 +465,7 @@ https://github.com/neilitalia/spacex-flights
 
 <h2 align="center"> <u>Further Reading</u> </h2>
 
-|       | Instructions                                                                                                                            |
+|       |                                                                                                                             |
 | ----- | --------------------------------------------------------------------------------------------------------------------------------------- |
 | Note: | For a quick introduction to Markdown writing format, check out [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/). |
 | Note: | Read through the [official GitHub-flavored Markdown documentation](https://github.github.com/gfm/) for further reference.               |
@@ -485,7 +485,7 @@ https://github.com/neilitalia/spacex-flights
 
 <h2 align="center"> <u>Contributions</u> </h2>
  
-|  Name | Cohort | Title | Work |
+|  Name | Cohort | Title | Contribution |
 |-------|--------|-------|------|
 | Amar Pan | GA SEI Los Angeles Nov '21 | Technical Writer @ Linode | Writing - Main Features
 | Neil Italia | GA SEI Dallas Oct '21 | User Interface Developer @ Lennox International | Writing - Optional Additions
