@@ -291,7 +291,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 <hr>
 
 <h2  align="center"><u>Next Steps</u></h2>
-**Requirements**: Planned future enhancements (icebox items).
+**Requirements** : Planned future enhancements (icebox items).
 
 
 
@@ -353,8 +353,8 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 <div align="center">
 
-|       | Instructions                                                                                                                                                                                                      |
-| ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Instructions: |  |
+|---------------|--|
 | Note: | Royalty-free stock photos can be found on [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), or [Unsplash](https://unsplash.com/).                                                               |
 | Note: | Free photo editing tools like [Photopea](https://www.photopea.com/) can streamline the editing process with their ability to import images from URLs and export images directly into [imgur](https://imgur.com/). |
 
