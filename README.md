@@ -208,12 +208,10 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
    <div align="center">
 
-|       | Instructions                                                                                                                   |
-| ----- | ------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------- | ------------- |
+| Instructions |  |
+|--------------|--|
 | Note: | Additional custom badges can be found at [the shields.io website.](https://shields.io/)                                        |
 | Note: | For a list of more colorful badges, [check out this repository.](https://github.com/alexandresanlim/Badges4-README.md-Profile) |
-| <!--  | Note:                                                                                                                          | If you'd rather note use badges (or can't find applicable ones), separate technologies in the following format: |
-|       | Ex. MongoDB                                                                                                                    | \*\*\*figure out how to cancel out                                                                              | character --> |
 
 </div>
 </div>
