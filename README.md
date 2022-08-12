@@ -1,7 +1,7 @@
  <div align="center" id="header">
    <h1>
       <img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24"><br> 
-      How to Write <br> a <br> General Assembly (GA) <br> Software Engineering Immersive (SEI) Bootcamp <br> Project README <br> 
+      How to Write <br> a <br> General Assembly (GA) Software Engineering Immersive (SEI) Bootcamp <br> Project README <br> 
       <img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24">
    </h1>
 
