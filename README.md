@@ -487,11 +487,11 @@ https://github.com/neilitalia/spacex-flights
  
 |  Name | Cohort | Title | Contribution |
 |-------|--------|-------|------|
-| Amar Pan | GA SEIR <br> Nov '21 Los Angeles | Technical Writer @ Linode | Writing - Main Features
-| Neil Italia | GA SEIR <br> Oct '21 Dallas | User Interface Developer @ Lennox International | Writing - Optional Additions
-| Olivia Emery | GA WDI <br> Nov '15 San Francisco | Technical Writer @ Google | Editing
-| Mario Recinos | GA SEIR <br> Dec '21 Los Angeles | General Assembly Ambassador @ Career Karma | Outreach
-| Stephanie Lee | GA SEIR <br> Nov '21 Los Angeles | Sr. Instructional Associate @ General Assembly | Outreach
+| Amar Pan | GA SEIR <br> Nov '21 <br> Los Angeles | Technical Writer @ Linode | Writing - Main Features
+| Neil Italia | GA SEIR <br> Oct '21 <br> Dallas | User Interface Developer @ Lennox International | Writing - Optional Additions
+| Olivia Emery | GA WDI <br> Nov '15 <br> San Francisco | Technical Writer @ Google | Editing
+| Mario Recinos | GA SEIR <br> Dec '21 <br> Los Angeles | General Assembly Ambassador @ Career Karma | Outreach
+| Stephanie Lee | GA SEIR <br> Nov '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly | Outreach
 
 ### ***If you found this tutorial helpful, please consider giving it a :star:
   
