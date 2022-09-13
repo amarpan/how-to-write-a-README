@@ -32,7 +32,7 @@
       <img alt="GitHub commits" src="https://img.shields.io/github/last-commit/profpan396/how-to-write-a-GA-SEI-README">
       <img src="https://img.shields.io/github/stars/profpan396/how-to-write-a-GA-SEI-README"/>
       <br>
-      <img src="https://img.shields.io/badge/version-1.2-gold">
+      <img src="https://img.shields.io/badge/version-1.3-gold">
 
    </div>
    <p>
