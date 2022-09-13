@@ -38,8 +38,11 @@
    <p>
       This tutorial and template describes how to write a coding bootcamp project README in HTML and GitHub-flavored Markdown in 20 minutes or less.
    <p>
-   
+    
+***If you found this tutorial helpful, please consider giving it a star### ***If you find this tutorial helpful, please consider giving it a :star:
 </div>
+
+
 
 <div id="description">
 
@@ -492,7 +495,11 @@ https://github.com/neilitalia/spacex-flights
 | Mario Recinos | GA SEIR <br> Dec '21 <br> Los Angeles | General Assembly Ambassador @ Career Karma | Outreach
 | Stephanie Lee | GA SEIR <br> Nov '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly | Outreach
 
+<div align="center">
+ 
 ### ***If you found this tutorial helpful, please consider giving it a :star:
+ 
+ </div>
   
 <!-- <details>
 <summary>Amar Panjwani - GA SEI <br> Nov '21 - Los Angeles, CA (Apple Valley) - Tech Support at Summit Medical</summary>
