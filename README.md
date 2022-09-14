@@ -411,19 +411,11 @@ git commit -m ":pencil2: fix typo on cart page"
  </h5>
  <details open>
 <summary>   
-Amar Pan - GA SEI Nov '21 - Portland, OR   
+<a href="https://linkedin.com/in/profpan396">Amar Pan</a> - GA SEI Nov '21 - Portland, OR   
 </summary>
 <h4> 
  
 P1 Simon https://github.com/profpan396/simon-memory-game
- 
-<br>
- 
-Project #2 (P2): https://github.com/profpan396/review-my-project <br><br>
- 
-Project #3 (P3): https://github.com/profpan396/ga-hw-tracker <br><br>
- 
-Project #4 (P4): https://github.com/profpan396/meet-your-classmates 
  
 </h4>
 </details>
