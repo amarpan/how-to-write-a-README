@@ -489,7 +489,7 @@ https://github.com/neilitalia/spacex-flights
  
 |  Name | Cohort | Title | Contribution |
 |-------|--------|-------|------|
-| <a href="linkedin.com/in/profpan396">Amar Pan</a> | GA SEIR <br> Nov '21 <br> Los Angeles | Technical Writer @ Linode | Writing - Main Features
+| <a href="https://www.linkedin.com/in/profpan396">Amar Pan</a> | GA SEIR <br> Nov '21 <br> Los Angeles | Technical Writer @ Linode | Writing - Main Features
 | Neil Italia | GA SEIR <br> Oct '21 <br> Dallas | User Interface Developer @ Lennox International | Writing - Optional Additions
 | Olivia Emery | GA WDI <br> Nov '15 <br> San Francisco | Technical Writer @ Google | Editing
 | Mario Recinos | GA SEIR <br> Dec '21 <br> Los Angeles | General Assembly Ambassador @ Career Karma | Outreach
