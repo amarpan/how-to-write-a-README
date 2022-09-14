@@ -494,7 +494,7 @@ https://github.com/neilitalia/spacex-flights
 | <a href="https://www.linkedin.com/in/olivia-emery/">Olivia Emery</a> | GA SEI <br> Nov '15 <br> San Francisco | Technical Writer @ Google | Editing
 | <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia</a> | GA SEIR <br> Oct '21 <br> Dallas | User Interface Developer @ Lennox International | Writing - Optional Additions
 
-| <a href="https://www.linkedin.com/in/profpan396">Mario Recinos</a> | GA SEIR <br> Dec '21 <br> Los Angeles | General Assembly Ambassador @ Career Karma | Outreach
+| <a href="https://www.linkedin.com/in/mariorrecinos/">Mario Recinos</a> | GA SEIR <br> Dec '21 <br> Los Angeles | General Assembly Ambassador @ Career Karma | Outreach
 | <a href="https://www.linkedin.com/in/profpan396">Amar Pan</a> | GA SEIR <br> Dec '21 <br> Los Angeles | General Assembly Ambassador @ Career Karma | Outreach
 | <a href="https://www.linkedin.com/in/profpan396">Amar Pan</a> | GA SEIR <br> Nov '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly | Outreach
 
