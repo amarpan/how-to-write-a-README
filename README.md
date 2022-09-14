@@ -489,9 +489,9 @@ https://github.com/neilitalia/spacex-flights
  
 |  Name | Cohort | Title | Contribution |
 |-------|--------|-------|------|
-| <a href="https://www.linkedin.com/in/profpan396">Amar Pan, M.Ed. :india:</a> | GA SEIR <br> Nov '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly, Technical Writer @ Linode  | Writing
+| <a href="https://www.linkedin.com/in/profpan396">Amar Pan, M.Ed. :india:</a> | GA SEIR <br> Nov '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly && Technical Writer @ Linode  | Writing
 | <a href="https://www.linkedin.com/in/jimclarkfullstack/">Jim Clarke :goat:</a> | GA SEI <br> Jan '15 <br> Los Angeles | Distinguished Lead Instructor @ General Assembly | Instruction
-| <a href="https://www.linkedin.com/in/mariorrecinos/">Mario Recinos :guatemala:</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly, <br> General Assembly Ambassador @ <a href="https://www.careerkarma.com">Career Karma</a> | Outreach
+| <a href="https://www.linkedin.com/in/mariorrecinos/">Mario Recinos :guatemala:</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly && General Assembly Ambassador @ <a href="https://www.careerkarma.com">Career Karma</a> | Outreach
 | <a href="https://www.linkedin.com/in/skimalee/">Stephanie Lee, M.Ed. 🇰🇷</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly | Support
 | <a href="https://www.linkedin.com/in/olivia-emery/">Olivia Emery</a> | GA SEI <br> Nov '15 <br> San Francisco | Technical Writer @ Google | Editing
 | <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia</a> | GA SEIR <br> Oct '21 <br> Dallas | User Interface Developer @ Lennox International | UX
