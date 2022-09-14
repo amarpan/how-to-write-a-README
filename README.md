@@ -437,7 +437,7 @@ P1 Checkers (v1.0): https://github.com/prkrsamuels7/checkers
 </summary>
 <h4> 
  
-P1 Solitaire (P1): https://github.com/Toastito/solitaire
+P1 Solitaire: https://github.com/Toastito/solitaire
  
 </h4>
 </details>
