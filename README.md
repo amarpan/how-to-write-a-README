@@ -481,7 +481,7 @@ https://github.com/neilitalia/spacex-flights
  
 |  Name | Cohort | Title | Contribution |
 |-------|--------|-------|------|
-| <a href="https://www.linkedin.com/in/profpan396">Amar Pan, M.Ed. :india:</a> | GA SEIR <br> Nov '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly && Technical Writer @ Linode  | Writing
+| <a href="https://www.linkedin.com/in/profpan396">Amar Pan, M.Ed. :india:</a> | GA SEIR <br> Nov '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly && Technical Writer @ <a href="https://www.linode.com/docs/guides/">Linode</a>  | Writing
 | <a href="https://www.linkedin.com/in/jimclarkfullstack/">Jim Clarke :goat:</a> | GA SEI <br> Jan '15 <br> Los Angeles | Distinguished Global Lead Instructor @ General Assembly | Instruction
 | <a href="https://www.linkedin.com/in/mariorrecinos/">Mario Recinos :guatemala:</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly && Global General Assembly Ambassador @ <a href="https://www.careerkarma.com">Career Karma</a> | Outreach
 | <a href="https://www.linkedin.com/in/skimalee/">Stephanie Lee, M.Ed. 🇰🇷</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly | Support
