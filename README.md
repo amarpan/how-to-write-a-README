@@ -441,7 +441,7 @@ P1 Checkers: https://github.com/prkrsamuels7/checkers
 
 <details open>
 <summary>   
-<a>Roger Davila</a> - GA SEI Jun '22 - San Francisco, CA
+<a href="https://www.linkedin.com/in/roger-davila/">Roger Davila</a> - GA SEI Jun '22 - San Francisco, CA
 </summary>
 <h4> 
  
