@@ -426,7 +426,7 @@ P1 Simon https://github.com/profpan396/simon-memory-game
 </summary>
 <h4> 
  
-P1 Checkers: https://github.com/prkrsamuels7/checkers
+P1 Checkers (v1.0): https://github.com/prkrsamuels7/checkers
  
 </h4>
 </details>
