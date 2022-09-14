@@ -491,6 +491,8 @@ https://github.com/neilitalia/spacex-flights
 <div align="center">
  
 #### ***If you found this tutorial helpful, please consider giving it a :star:
+
+Copyright :copyright: 2021-2022 Amar Pan
  
  </div>
   
