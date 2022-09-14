@@ -445,7 +445,7 @@ Roger Davila - GA SEI Jun '22 - San Francisco, CA
 </summary>
 <h4> 
  
-Project #1 (P1): https://github.com/Toastito/solitaire
+P1 Solitaire (P1): https://github.com/Toastito/solitaire
  
 </h4>
 </details>
