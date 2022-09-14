@@ -415,7 +415,7 @@ Amar Pan - GA SEI Nov '21 - Portland, OR
 </summary>
 <h4> 
  
-Project #1 (P1): https://github.com/profpan396/simon-memory-game
+P1 Simon https://github.com/profpan396/simon-memory-game
  
 <br>
  
