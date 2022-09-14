@@ -434,7 +434,7 @@ Parker Samuels - GA SEI Jun '22 - Detroit, MI
 </summary>
 <h4> 
  
-Project #1 (P1): https://github.com/prkrsamuels7/checkers
+P1 Checkers: https://github.com/prkrsamuels7/checkers
  
 </h4>
 </details>
