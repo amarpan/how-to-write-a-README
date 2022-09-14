@@ -489,7 +489,7 @@ https://github.com/neilitalia/spacex-flights
  
 |  Name | Cohort | Title | Contribution |
 |-------|--------|-------|------|
-| <a href="https://www.linkedin.com/in/profpan396">Amar Pan</a> | GA SEIR <br> Nov '21 <br> Los Angeles | Technical Writer @ Linode | Writing - Main Features
+| <a href="https://www.linkedin.com/in/profpan396">Amar Pan</a> | GA SEIR <br> Nov '21 <br> Los Angeles | Technical Writer @ Linode | Literally Everything
 | <a href="https://www.linkedin.com/in/jimclarkfullstack/">Jim Clarke</a> | GA SEIR <br> Jan '14 <br> Los Angeles | Distinguished Lead Instructor at General Assembly | Outreach
 | <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia</a> | GA SEIR <br> Oct '21 <br> Dallas | User Interface Developer @ Lennox International | Writing - Optional Additions
 | <a href="https://www.linkedin.com/in/profpan396">Amar Pan</a> | GA WDI <br> Nov '15 <br> San Francisco | Technical Writer @ Google | Editing
