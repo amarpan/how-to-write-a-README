@@ -58,6 +58,12 @@
   </div>
 </div>
 
+</div>
+
+<div align="center">
+<strong>Copy and paste the following:</strong>
+</div>
+
   ```html
   <div align="center">
   <h1>
@@ -84,7 +90,7 @@ interests, an atmosphere of community is created that is conducive to higher
 levels of learning and success.
 </p>
 
-</div>
+
 ```
 
 <div align="center">
