@@ -523,7 +523,7 @@ Crypto Sniffer: https://github.com/MaroofKhan1/CryptoSniffer
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/maroofkhn/">Ronald Portalatin Jr.</a> - General Assembly - Jun '22 - Minneapolis, MN
+<a href="https://www.linkedin.com/in/maroofkhn/">Ronald Portalatin Jr.</a> - General Assembly - Jun '22 - Lakeland, FL
 </summary>
 <h4> 
  
