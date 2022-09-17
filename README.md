@@ -472,7 +472,7 @@ Checkers (v1.0): https://github.com/prkrsamuels7/checkers
 </summary>
 <h4> 
  
-Solitaire (v1.0): https://github.com/Toastito/solitaire
+Solitaire: https://github.com/Toastito/solitaire
  
 </h4>
 </details>
@@ -483,7 +483,7 @@ Solitaire (v1.0): https://github.com/Toastito/solitaire
 </summary>
 <h4> 
  
-Solitaire (v1.0): https://github.com/steviemilitello/tavern-brawl
+Tavern Brawl: https://github.com/steviemilitello/tavern-brawl
  
 </h4>
 </details>
