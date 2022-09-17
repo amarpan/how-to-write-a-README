@@ -1,13 +1,13 @@
  <div align="center" id="header">
    <h1>
-      How to Write a <br> General Assembly (GA) <br> Software Engineering Immersive (SEI) <br> Coding Bootcamp <br> Project README <br> 
-      <img src="https://emoji.slack-edge.com/T0351JZQ0/ga/bc337c95a83930af.png" width="24" height="24">
+      How to Write a Coding Bootcamp <br> Project README <br> 
+     
    </h1>
 
    <h3>
       Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a>
       <br> 
-      Sr. Instructional Associate
+      Coding Bootcamp Peer Mentor
    </h3>
 
    <div id="socialbuttons">
