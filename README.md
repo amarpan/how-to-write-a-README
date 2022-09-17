@@ -538,8 +538,7 @@ Blackjack: https://github.com/coltonsaywhatt/GA-Blackjack-Project
 </summary>
 <h4> 
  
-Blackjack: https://github.com/coltonsaywhatt/GA-Blackjack-Project
- 
+Blackjack: https://github.com/jcaputo44/vinyl-stash
 </h4>
 </details>
 <!-- <details open>
