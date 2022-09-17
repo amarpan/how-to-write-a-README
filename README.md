@@ -488,6 +488,17 @@ Tavern Brawl: https://github.com/steviemilitello/tavern-brawl
 </h4>
 </details>
 
+<details open>
+<summary>   
+<a href="https://www.linkedin.com/in/stevie-militello/">Stevie Militello</a> - General Assembly - May '22 - Boston, MA
+</summary>
+<h4> 
+ 
+Tavern Brawl: https://github.com/steviemilitello/tavern-brawl
+ 
+</h4>
+</details>
+
 <!-- <details open>
 <summary>
 Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney / Frisco)
