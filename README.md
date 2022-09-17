@@ -505,7 +505,7 @@ Oja: https://github.com/jobaa11/product-design-app
 </summary>
 <h4> 
  
-Minesweeper: https://github.com/jobaa11/product-design-app
+Minesweeper: https://github.com/nisha-yadav09/minesweeper
  
 </h4>
 </details>
