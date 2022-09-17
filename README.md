@@ -509,6 +509,17 @@ Minesweeper: https://github.com/nisha-yadav09/minesweeper
  
 </h4>
 </details>
+
+<details open>
+<summary>   
+<a href="https://www.linkedin.com/in/nisha-yadav09/">Nisha Yadav</a> - General Assembly - Jun '22 - Denver, CO
+</summary>
+<h4> 
+ 
+Minesweeper: https://github.com/nisha-yadav09/minesweeper
+ 
+</h4>
+</details>
 <!-- <details open>
 <summary>
 Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney / Frisco)
