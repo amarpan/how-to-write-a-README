@@ -548,7 +548,7 @@ Vinyl Stash: https://github.com/jcaputo44/vinyl-stash
 </summary>
 <h4> 
  
-Shoe Collector: https://github.com/jcaputo44/vinyl-stash
+Shoe Collector: https://github.com/jctgarcia20/shoe-collector
 </h4>
 </details>
 <!-- <details open>
