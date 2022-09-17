@@ -490,7 +490,7 @@ Tavern Brawl: https://github.com/steviemilitello/tavern-brawl
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/stevie-militello/">Stevie Militello</a> - General Assembly - May '22 - Boston, MA
+<a href="https://www.linkedin.com/in/stevie-militello/">Joba Aladeselu</a> - General Assembly - May '22 - Boston, MA
 </summary>
 <h4> 
  
