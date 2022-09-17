@@ -564,7 +564,7 @@ Shoe Collector: https://github.com/jctgarcia20/shoe-collector
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/jctgarcia20/">Jordan-Christopher Garcia </a> - General Assembly - Jun '22 - Seattle, WA
+<a href="https://www.linkedin.com/in/jctgarcia20/">Illerdon Ballinger </a> - General Assembly - Jun '22 - Seattle, WA
 </summary>
 <h4> 
  
