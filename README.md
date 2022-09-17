@@ -516,7 +516,7 @@ Minesweeper: https://github.com/nisha-yadav09/minesweeper
 </summary>
 <h4> 
  
-Crypto Sniffer: https://github.com/nisha-yadav09/minesweeper
+Crypto Sniffer: https://github.com/MaroofKhan1/CryptoSniffer
  
 </h4>
 </details>
