@@ -534,7 +534,7 @@ Blackjack: https://github.com/coltonsaywhatt/GA-Blackjack-Project
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/maroofkhn/">Ronald Portalatin Jr.</a> - General Assembly - Jun '22 - Lakeland, FL
+<a href="https://www.linkedin.com/in/maroofkhn/">Joseph Caputo</a> - General Assembly - Jun '22 - Lakeland, FL
 </summary>
 <h4> 
  
