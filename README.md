@@ -568,7 +568,7 @@ Shoe Collector: https://github.com/jctgarcia20/shoe-collector
 </summary>
 <h4> 
  
-Turbo Disco: https://github.com/jctgarcia20/shoe-collector
+Turbo Disco: https://github.com/iballinger/turbo-octo-disco
 </h4>
 </details>
 <!-- <details open>
