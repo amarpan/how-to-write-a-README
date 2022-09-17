@@ -501,7 +501,7 @@ Oja: https://github.com/jobaa11/product-design-app
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/roger-davila/">Roger Davila</a> - General Assembly - Jun '22 - San Francisco, CA
+<a href="https://www.linkedin.com/in/roger-davila/">Nisha Yadav</a> - General Assembly - Jun '22 - San Francisco, CA
 </summary>
 <h4> 
 
