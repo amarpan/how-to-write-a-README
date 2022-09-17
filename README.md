@@ -461,7 +461,7 @@ Meet Your Classmates: https://github.com/profpan396/meet-your-classmates
 </summary>
 <h4> 
  
-Shoe Collector: https://github.com/jctgarcia20/shoe-collector
+ThreadUp: https://github.com/jctgarcia20/shoe-collector
 </h4>
 </details>
 
