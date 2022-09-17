@@ -471,7 +471,7 @@ ThreadUp: https://github.com/sophiabest/ecommerce
 </summary>
 <h4> 
  
-Dino Amigo: https://github.com/iballinger/turbo-octo-disco
+Dino Amigo: https://github.com/dani-diaz/dino-amigo2
 </h4>
 </details>
 
