@@ -534,7 +534,7 @@ Blackjack: https://github.com/coltonsaywhatt/GA-Blackjack-Project
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/josephcaputo44/">Joseph Caputo</a> - General Assembly - Jun '22 - Lakeland, FL
+<a href="https://www.linkedin.com/in/josephcaputo44/">Joseph Caputo</a> - General Assembly - Jun '22 - San Diego, CA
 </summary>
 <h4> 
  
