@@ -483,7 +483,7 @@ Solitaire (v1.0): https://github.com/Toastito/solitaire
 </summary>
 <h4> 
  
-Solitaire (v1.0): https://github.com/Toastito/solitaire
+Solitaire (v1.0): https://github.com/steviemilitello/tavern-brawl
  
 </h4>
 </details>
