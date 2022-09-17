@@ -471,7 +471,7 @@ ThreadUp: https://github.com/sophiabest/ecommerce
 </summary>
 <h4> 
  
-Turbo Disco: https://github.com/iballinger/turbo-octo-disco
+Dino Amigo: https://github.com/iballinger/turbo-octo-disco
 </h4>
 </details>
 
