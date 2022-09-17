@@ -479,7 +479,7 @@ Solitaire: https://github.com/Toastito/solitaire
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/stevie-militello/">Stevie Militello</a> - GA SEI May '22 - Boston, MA
+<a href="https://www.linkedin.com/in/stevie-militello/">Stevie Militello</a> - General Assembly - May '22 - Boston, MA
 </summary>
 <h4> 
  
