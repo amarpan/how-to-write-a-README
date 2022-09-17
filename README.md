@@ -472,7 +472,7 @@ Checkers (v1.0): https://github.com/prkrsamuels7/checkers
 </summary>
 <h4> 
  
-P1 Solitaire (v1.0): https://github.com/Toastito/solitaire
+Solitaire (v1.0): https://github.com/Toastito/solitaire
  
 </h4>
 </details>
