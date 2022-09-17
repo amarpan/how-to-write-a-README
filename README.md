@@ -477,6 +477,17 @@ Solitaire (v1.0): https://github.com/Toastito/solitaire
 </h4>
 </details>
 
+<details open>
+<summary>   
+<a href="https://www.linkedin.com/in/stevie-militello/">Roger Davila</a> - GA SEI Jun '22 - San Francisco, CA
+</summary>
+<h4> 
+ 
+Solitaire (v1.0): https://github.com/Toastito/solitaire
+ 
+</h4>
+</details>
+
 <!-- <details open>
 <summary>
 Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney / Frisco)
