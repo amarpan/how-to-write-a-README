@@ -446,7 +446,7 @@ git commit -m ":pencil2: fix typo on cart page"
  </h5>
  <details open>
 <summary>   
-<a href="https://linkedin.com/in/profpan396">Amar Pan</a> - GA SEI Nov '21 - Portland, OR   
+<a href="https://linkedin.com/in/profpan396">Amar Pan</a> - General Assembly Nov '21 - Portland, OR   
 </summary>
 <h4> 
  
