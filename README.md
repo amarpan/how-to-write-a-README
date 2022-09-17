@@ -541,6 +541,16 @@ Blackjack: https://github.com/coltonsaywhatt/GA-Blackjack-Project
 Vinyl Stash: https://github.com/jcaputo44/vinyl-stash
 </h4>
 </details>
+
+<details open>
+<summary>   
+<a href="https://www.linkedin.com/in/josephcaputo44/">Joseph Caputo</a> - General Assembly - Jun '22 - San Diego, CA
+</summary>
+<h4> 
+ 
+Shoe Collector: https://github.com/jcaputo44/vinyl-stash
+</h4>
+</details>
 <!-- <details open>
 <summary>
 Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney / Frisco)
