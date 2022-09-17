@@ -544,7 +544,7 @@ Vinyl Stash: https://github.com/jcaputo44/vinyl-stash
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/josephcaputo44/">Joseph Caputo</a> - General Assembly - Jun '22 - San Diego, CA
+<a href="https://www.linkedin.com/in/josephcaputo44/">Jordan-Christopher Garcia </a> - General Assembly - Jun '22 - San Diego, CA
 </summary>
 <h4> 
  
