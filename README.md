@@ -457,7 +457,7 @@ Simon: https://github.com/profpan396/simon-memory-game
 
  <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/parkersamuels/">Parker Samuels</a> - GA SEI Jun '22 - Detroit, MI
+<a href="https://www.linkedin.com/in/parkersamuels/">Parker Samuels</a> - General Assembly Jun '22 - Detroit, MI
 </summary>
 <h4> 
  
