@@ -7,7 +7,7 @@
    <h3>
       Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a>
       <br> 
-      Coding Bootcamp Peer Mentor
+      Technical Writer @ Linode
    </h3>
 
    <div id="socialbuttons">
