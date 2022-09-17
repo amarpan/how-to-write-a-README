@@ -527,7 +527,7 @@ Crypto Sniffer: https://github.com/MaroofKhan1/CryptoSniffer
 </summary>
 <h4> 
  
-Crypto Sniffer: https://github.com/MaroofKhan1/CryptoSniffer
+Blackjack: https://github.com/MaroofKhan1/CryptoSniffer
  
 </h4>
 </details>
