@@ -185,6 +185,10 @@ levels of learning and success.
 </div>
 </div>
 
+<div align="center">
+<strong>Copy and paste the following:</strong>
+</div>
+
 ```markdown
 ## :computer: Technologies Used
 A screenshot of your app's landing page and any other screenshots of interest.
