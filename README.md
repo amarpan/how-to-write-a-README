@@ -501,10 +501,14 @@ Oja: https://github.com/jobaa11/product-design-app
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/roger-davila/">Nisha Yadav</a> - General Assembly - Jun '22 - San Francisco, CA
+<a href="https://www.linkedin.com/in/joba-a-ja11/">Joba Aladeselu</a> - General Assembly - Sept '22 - Los Angeles, CA
 </summary>
 <h4> 
-
+ 
+Oja: https://github.com/jobaa11/product-design-app
+ 
+</h4>
+</details>
 <!-- <details open>
 <summary>
 Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney / Frisco)
