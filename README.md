@@ -520,6 +520,17 @@ Crypto Sniffer: https://github.com/MaroofKhan1/CryptoSniffer
  
 </h4>
 </details>
+
+<details open>
+<summary>   
+<a href="https://www.linkedin.com/in/maroofkhn/">Maroof Khan</a> - General Assembly - Jun '22 - Minneapolis, MN
+</summary>
+<h4> 
+ 
+Crypto Sniffer: https://github.com/MaroofKhan1/CryptoSniffer
+ 
+</h4>
+</details>
 <!-- <details open>
 <summary>
 Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney / Frisco)
