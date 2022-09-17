@@ -396,6 +396,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 <div align="center">
 <strong>Copy and paste the following:</strong>
 </div>
+
 ```console
 git commit -m ":pencil2: fix typo on cart page"
 ```
