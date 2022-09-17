@@ -365,6 +365,10 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 </div>
 
+<div align="center">
+<strong>Copy and paste the following:</strong>
+</div>
+
 ```html
 <div align="center">
   <img src="https://i.imgur.com/y2SPx4E.jpg" width="800" height="400" />
