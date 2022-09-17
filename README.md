@@ -457,7 +457,7 @@ Meet Your Classmates: https://github.com/profpan396/meet-your-classmates
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/jctgarcia20/">Sophia Best </a> - General Assembly - Jun '22 - Seattle, WA
+<a href="https://www.linkedin.com/in/jctgarcia20/">Sophia Best </a> - General Assembly - Jun '22 - Louiseville, KY
 </summary>
 <h4> 
  
