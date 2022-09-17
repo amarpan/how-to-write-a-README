@@ -561,6 +561,16 @@ Vinyl Stash: https://github.com/jcaputo44/vinyl-stash
 Shoe Collector: https://github.com/jctgarcia20/shoe-collector
 </h4>
 </details>
+
+<details open>
+<summary>   
+<a href="https://www.linkedin.com/in/jctgarcia20/">Jordan-Christopher Garcia </a> - General Assembly - Jun '22 - Seattle, WA
+</summary>
+<h4> 
+ 
+Shoe Collector: https://github.com/jctgarcia20/shoe-collector
+</h4>
+</details>
 <!-- <details open>
 <summary>
 Neil Italia - GA SEI Oct '21 - Dallas, TX (McKinney / Frisco)
