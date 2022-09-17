@@ -465,6 +465,16 @@ ThreadUp: https://github.com/sophiabest/ecommerce
 </h4>
 </details>
 
+<details open>
+<summary>   
+<a href="https://www.linkedin.com/in/ilerdon-ballinger/">Dani Diaz </a> - General Assembly - Jun '22 - San Mateo, CA
+</summary>
+<h4> 
+ 
+Turbo Disco: https://github.com/iballinger/turbo-octo-disco
+</h4>
+</details>
+
  <details open>
 <summary>   
 <a href="https://www.linkedin.com/in/parkersamuels/">Parker Samuels</a> - General Assembly - Jun '22 - Detroit, MI
