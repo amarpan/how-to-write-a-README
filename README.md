@@ -450,7 +450,7 @@ git commit -m ":pencil2: fix typo on cart page"
 </summary>
 <h4> 
  
-Simon (v1.0): https://github.com/profpan396/simon-memory-game
+Simon: https://github.com/profpan396/simon-memory-game
  
 </h4>
 </details>
