@@ -467,7 +467,7 @@ ThreadUp: https://github.com/sophiabest/ecommerce
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/ilerdon-ballinger/">Dani Diaz </a> - General Assembly - Jun '22 - San Mateo, CA
+<a href="https://www.linkedin.com/in/danidiaz8/">Dani Diaz </a> - General Assembly - Jun '22 - San Mateo, CA
 </summary>
 <h4> 
  
