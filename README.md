@@ -417,6 +417,10 @@ git commit -m ":pencil2: fix typo on cart page"
 
 </div>
 
+<div align="center">
+<strong>Copy and paste the following:</strong>
+</div>
+
 ```html
 <pre>
   <img src="https://i.imgur.com/NdzHyyX.png" width="700" height="500" />
