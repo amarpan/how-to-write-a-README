@@ -240,6 +240,9 @@ A screenshot of your app's landing page and any other screenshots of interest.
    <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">
 </div>
 
+<div align="center">
+<strong>Copy and paste the following:</strong>
+</div>
 
 ```html
 <h2>:fire: Getting Started</h2>
