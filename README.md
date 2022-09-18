@@ -140,7 +140,7 @@ levels of learning and success.
     width="700"
   /> |
   | <h3 align="center">Profile Page</h3> | <img
-    src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.Wireframe.MYC.png"
+    src="https://github.com/profpan396/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.Wireframe.MYC.png"
     width="700"
   /> |
 </details>
