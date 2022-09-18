@@ -3,12 +3,14 @@
       How to Write a Coding Bootcamp <br> Project README <br> 
      
    </h1>
-
-   <h3>
-      Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a>
-      <br> 
+  <div>
+   <p>
+      <strong>Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></strong>
+      <br>
       Technical Writer @ Linode
-   </h3>
+   </p>
+   
+   </div>
 
    <div id="socialbuttons">
       <a href="https://profpan396.github.io" target="_blank">
