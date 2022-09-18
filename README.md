@@ -124,7 +124,7 @@ levels of learning and success.
   | Description | Screenshot | 
   |:------------:|-----------| 
   | <h3>ERD</h3> | <img
-    src="https://``github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png"
+    src="https://``github.com/profpan396/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png"
     width="700"
   /> |
 
