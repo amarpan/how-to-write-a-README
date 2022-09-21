@@ -339,7 +339,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 |       | Tips                                                                                           |
 | ----- | ------------------------------------------------------------------------------------------------------ |
-| Note: | Avoid using the word "icebox," as most non-technical users probably won't know what this means. |
+| Note: | Avoid using the word `icebox`, as most non-technical users probably won't know what this means. |
 | Note: | Use bullet points rather than paragraphs to make it immediately clear what each new feature would be.  |
 
 <hr>
