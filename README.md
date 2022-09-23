@@ -430,12 +430,13 @@ git commit -m ":pencil2: fix typo on cart page"
 </pre>
 ```
 
-<!-- <div align="center"> -->
+<div align="center"> 
 
 |       | Tips                                    |
 | ----- | ----------------------------------------------- |
 | Note: | This works best with images of similar heights. |
 
+</div>
 <div>
 <hr >
 <div align="center">
