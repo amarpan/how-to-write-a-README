@@ -114,7 +114,7 @@ levels of learning and success.
      <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
   </div>
 <div align="center">
-<strong>Copy and paste the following:</strong>
+<h3><strong>Copy and paste the following:</strong></h3>
 </div>
 
 ```html
