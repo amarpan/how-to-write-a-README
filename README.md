@@ -629,7 +629,7 @@ https://github.com/neilitalia/spacex-flights
 | <a href="https://www.linkedin.com/in/skimalee/">Stephanie Lee, M.Ed. <br>🇰🇷</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly | Support :woman_teacher:
 | <a href="https://www.linkedin.com/in/mariorrecinos/">Mario Recinos <br>:guatemala:</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly && Coding Bootcamp Career Coach @ <a href="https://www.careerkarma.com">Career Karma</a> | Outreach :people_hugging:
 | <a href="https://www.linkedin.com/in/olivia-emery/">Olivia Emery</a> | GA SEI <br> Nov '15 <br> San Francisco | Technical Writer @ Google | Editing :pen:
-| <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia</a> :philippines:  | GA SEIR <br> Oct '21 <br> Dallas | User Interface Developer @ Lennox International | UI :paintbrush:
+| <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia</a> <br>:philippines:  | GA SEIR <br> Oct '21 <br> Dallas | User Interface Developer @ Lennox International | UI :paintbrush:
 
 <div align="center">
  
