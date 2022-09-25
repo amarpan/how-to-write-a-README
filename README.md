@@ -481,7 +481,7 @@ Dino Amigo: https://github.com/dani-diaz/dino-amigo2
 
  <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/parkersamuels/">Parker Samuels</a> - General Assembly - Jun '22 - Detroit, MI
+<a href="https://www.linkedin.com/in/parkersamuels/">Parker Samuels</a> - General Assembly (House Pan) - Jun '22 - Detroit, MI
 </summary>
 <h4> 
  
