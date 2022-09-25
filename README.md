@@ -1,6 +1,6 @@
  <div align="center" id="header">
    <h1>
-      How to Write a Coding Bootcamp <br> Project README <br> 
+      How to Write a <br>Coding Bootcamp <br> Project README <br> 
      
    </h1>
   <div>
