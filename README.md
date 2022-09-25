@@ -461,7 +461,7 @@ Meet Your Classmates: https://github.com/profpan396/meet-your-classmates
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/jctgarcia20/">Sophia Best - Software Engineer at Audible </a> - General Assembly - Jun '22 - Louiseville, KY
+<a href="https://www.linkedin.com/in/sophiabest/">Sophia Best - Software Engineer at Audible </a> - General Assembly - Jun '22 - Louiseville, KY
 </summary>
 <h4> 
  
