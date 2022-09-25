@@ -492,7 +492,7 @@ Checkers: https://github.com/prkrsamuels7/checkers
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/roger-davila/">Roger Davila</a> - General Assembly - Jun '22 - San Francisco, CA
+<a href="https://www.linkedin.com/in/roger-davila/">Roger Davila</a> - General Assembly (House Pan) - Jun '22 - San Francisco, CA
 </summary>
 <h4> 
  
