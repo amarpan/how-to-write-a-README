@@ -319,6 +319,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 <div align="center">
 <h3><strong>Copy and paste the following:</strong></h3>
+
 </div>
 
 ```markdown
@@ -365,7 +366,8 @@ A screenshot of your app's landing page and any other screenshots of interest.
 </div>
 
 <div align="center">
-<strong>Copy and paste the following:</strong>
+<h3><strong>Copy and paste the following:</strong></h3>
+
 </div>
 
 ```html
