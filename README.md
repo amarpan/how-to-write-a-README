@@ -536,7 +536,7 @@ Minesweeper: https://github.com/nisha-yadav09/minesweeper
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/maroofkhn/">Maroof Khan</a> - General Assembly - Jun '22 - Minneapolis, MN
+<a href="https://www.linkedin.com/in/maroofkhn/">Maroof Khan</a> - General Assembly (House Pan) - Jun '22 - Minneapolis, MN
 </summary>
 <h4> 
  
