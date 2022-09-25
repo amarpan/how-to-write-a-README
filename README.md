@@ -525,7 +525,7 @@ Oja: https://github.com/jobaa11/product-design-app
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/nisha-yadav09/">Nisha Yadav</a> - General Assembly - Jun '22 - Denver, CO
+<a href="https://www.linkedin.com/in/nisha-yadav09/">Nisha Yadav</a> - General Assembly (House Pan) - Jun '22 - Denver, CO
 </summary>
 <h4> 
  
