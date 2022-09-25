@@ -420,7 +420,8 @@ git commit -m ":pencil2: fix typo on cart page"
 </div>
 
 <div align="center">
-<strong>Copy and paste the following:</strong>
+<h3><strong>Copy and paste the following:</strong></h3>
+
 </div>
 
 ```html
