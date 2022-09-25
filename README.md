@@ -185,7 +185,7 @@ levels of learning and success.
 </div>
 
 <div align="center">
-<strong>Copy and paste the following:</strong>
+<h3><strong>Copy and paste the following:</strong></h3>
 </div>
 
 ```markdown
