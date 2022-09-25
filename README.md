@@ -452,12 +452,6 @@ git commit -m ":pencil2: fix typo on cart page"
 - [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) by [Amar Pan](https://linkedin.com/in/profpan396) (General Assembly - Nov '21 - Portland, Oregon)
 
 - [ThreadUp](https://github.com/sophiabest/ecommerce) by [Sophia Best](https://www.linkedin.com/in/sophiabest/) (General Assembly - Jun '22 - Louiseville, Kentucky)
-<details open>
-<summary>   
-<a href=""> - Software Engineer at Audible </a> - General Assembly (House Pan) - Jun '22 - Louiseville, KY
-</summary>
-<h4> 
- 
  
 </h4>
 </details>
