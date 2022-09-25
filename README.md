@@ -471,7 +471,7 @@ ThreadUp: https://github.com/sophiabest/ecommerce
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/danidiaz8/">Dani Diaz - Software Engineering Apprentice at Cisco </a> - General Assembly - Jun '22 - El Cerrito, CA
+<a href="https://www.linkedin.com/in/danidiaz8/">Dani Diaz - Software Engineering Apprentice at Cisco </a> - General Assembly (House Pan) - Jun '22 - El Cerrito, CA
 </summary>
 <h4> 
  
