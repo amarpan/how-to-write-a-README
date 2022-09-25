@@ -624,7 +624,7 @@ https://github.com/neilitalia/spacex-flights
  
 |  Name | Cohort | Title | Contribution |
 |-------|--------|-------|------|
-| <a href="https://www.linkedin.com/in/profpan396">Amar Pan, M.Ed. <br>:india:</a> | GA SEIR <br> Nov '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly && Technical Writer @ <a href="https://www.linode.com/docs/guides/">Linode</a>  | Writing :pencil2:
+| <a href="https://www.linkedin.com/in/profpan396">Amar Pan, M.Ed. <br>:india:</a> | GA SEIR <br> Nov '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly && House Pan Founder && Technical Writer @ <a href="https://www.linode.com/docs/guides/">Linode</a>  | Writing :pencil2:
 | <a href="https://www.linkedin.com/in/jimclarkfullstack/">Jim Clarke <br>:goat:</a> | GA SEI <br> Jan '15 <br> Los Angeles | Distinguished Global Lead Instructor @ General Assembly | Teaching :man_teacher:
 | <a href="https://www.linkedin.com/in/skimalee/">Stephanie Lee, M.Ed. <br>🇰🇷</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly | Support :woman_teacher:
 | <a href="https://www.linkedin.com/in/mariorrecinos/">Mario Recinos <br>:guatemala:</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly && Coding Bootcamp Career Coach @ <a href="https://www.careerkarma.com">Career Karma</a> | Outreach :people_hugging:
