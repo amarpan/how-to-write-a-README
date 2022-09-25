@@ -444,7 +444,7 @@ git commit -m ":pencil2: fix typo on cart page"
 <div>
 <hr >
 <div align="center">
-<h2 align="center"> <u> :trophy: README HALL OF FAME :trophy: </u> </h2>
+<h2 align="center"> <u> README HALL OF FAME <br> :trophy::star2::trophy: </u> </h2>
 </div>
 </details>
  </h5>
