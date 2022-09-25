@@ -100,7 +100,6 @@ levels of learning and success.
 | Add your deployed link directly to the top - many users won't scroll all the way down to find it.                                                                                                                                            
 | Use emojis by typing in `:emojiname:` <br> Example: `:school:` ---> :school: <br> Check out [ this list of available GitHub emojis](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).                                                                                                                                   
 | <h3>Note</h3>**While emojis show automatically on GitHub, to see them on VS Code one needs to install an extension like [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji). Some emojis may also look completely different on VS Code than GitHub.**
-| ## test
 </div>
 </div>
 
