@@ -626,7 +626,7 @@ https://github.com/neilitalia/spacex-flights
 |-------|--------|-------|------|
 | <a href="https://www.linkedin.com/in/profpan396">Amar Pan, M.Ed. <br>:india:</a> | GA SEIR <br> Nov '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly && Technical Writer @ <a href="https://www.linode.com/docs/guides/">Linode</a>  | Writing :pencil2:
 | <a href="https://www.linkedin.com/in/jimclarkfullstack/">Jim Clarke <br>:goat:</a> | GA SEI <br> Jan '15 <br> Los Angeles | Distinguished Global Lead Instructor @ General Assembly | Teaching :man_teacher:
-| <a href="https://www.linkedin.com/in/skimalee/">Stephanie Lee, M.Ed. 🇰🇷</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly | Support :woman_teacher:
+| <a href="https://www.linkedin.com/in/skimalee/">Stephanie Lee, M.Ed. <br>🇰🇷</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly | Support :woman_teacher:
 | <a href="https://www.linkedin.com/in/mariorrecinos/">Mario Recinos :guatemala:</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly && Coding Bootcamp Career Coach @ <a href="https://www.careerkarma.com">Career Karma</a> | Outreach :people_hugging:
 | <a href="https://www.linkedin.com/in/olivia-emery/">Olivia Emery</a> | GA SEI <br> Nov '15 <br> San Francisco | Technical Writer @ Google | Editing :pen:
 | <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia</a> :philippines:  | GA SEIR <br> Oct '21 <br> Dallas | User Interface Developer @ Lennox International | UI :paintbrush:
