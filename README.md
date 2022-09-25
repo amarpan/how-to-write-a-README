@@ -448,6 +448,9 @@ git commit -m ":pencil2: fix typo on cart page"
 </div>
 </details>
  </h5>
+
+[Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) by [Amar Pan](https://linkedin.com/in/profpan396)  General Assembly - Nov '21 - Portland, OR - </h4>
+
  <details open>
 <summary>   
 <a href="https://linkedin.com/in/profpan396">Amar Pan - Technical Writer at Linode</a> - General Assembly - Nov '21 - Portland, OR   
