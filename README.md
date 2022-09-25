@@ -449,7 +449,7 @@ git commit -m ":pencil2: fix typo on cart page"
 </details>
  </h5>
 
-- [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) by [Amar Pan](https://linkedin.com/in/profpan396) (General Assembly Nov '21)
+- [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) by [Amar Pan](https://linkedin.com/in/profpan396) (General Assembly Nov '21 - Portland, Oregon)
 
  <details open>
 <summary>   
