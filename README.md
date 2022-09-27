@@ -454,6 +454,7 @@ git commit -m ":pencil2: fix typo on cart page"
  | Designer | Project | School | Location | Date
  |:--------:|:-------:|:------:|:--------:|:---:
  | [Amar Pan](https://www.linkedin.com/in/profpan396/) | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, Oregon | Nov '21 
+ | [Ronald Portalatin Jr.](https://www.linkedin.com/in/maroofkhn/) | [Blackjack](https://github.com/coltonsaywhatt/GA-Blackjack-Project) | General Assembly | Lakeland, Florida | April '22 
  | [Nisha Yadav](https://www.linkedin.com/in/nisha-yadav09/) | [Minesweeper](https://github.com/nisha-yadav09/minesweeper) | General Assembly | Denver, Colorado | Apr '22 
  | [Stevie Militello](https://www.linkedin.com/in/stevie-militello/) | [Tavern Brawl](https://github.com/steviemilitello/tavern-brawl) | General Assembly | Boston, Massachusetts | May '22 
  | [Sophia Best](https://www.linkedin.com/in/sophiabest/) | [ThreadUp](https://github.com/sophiabest/ecommerce) | General Assembly | Louiseville, Kentucky | Jun '22 
@@ -486,22 +487,11 @@ Oja: https://github.com/jobaa11/product-design-app
 
 <details open>
 <summary>   
-<a href="">Maroof Khan</a> - General Assembly (House Pan) - Jun '22 - Minneapolis, MN
+<a href="">Ronald Portalatin Jr.</a> - General Assembly (House Pan) - Jun '22 - Lakeland, FL
 </summary>
 <h4> 
  
-Crypto Sniffer: 
- 
-</h4>
-</details>
-
-<details open>
-<summary>   
-<a href="https://www.linkedin.com/in/maroofkhn/">Ronald Portalatin Jr.</a> - General Assembly (House Pan) - Jun '22 - Lakeland, FL
-</summary>
-<h4> 
- 
-Blackjack: https://github.com/coltonsaywhatt/GA-Blackjack-Project
+Blackjack: 
  
 </h4>
 </details>
