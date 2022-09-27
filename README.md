@@ -490,6 +490,8 @@ https://github.com/neilitalia/spacex-flights
 
 </h4> -->
 
+<div align="center">
+
 <h2 align="center"> <u>Further Reading</u> </h2>
 
 |       |                                                                                                                             |
@@ -512,18 +514,18 @@ https://github.com/neilitalia/spacex-flights
 
 <h2 align="center"> <u>Contributions</u> </h2>
  
-|  Name | Cohort | Title | Contribution |
-|-------|--------|-------|------|
-| <a href="https://www.linkedin.com/in/profpan396">Amar Pan, M.Ed. <br>:india:</a> | GA SEIR <br> Nov '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly <br> Technical Writer @ <a href="https://www.linode.com/docs/guides/">Linode</a>  <br> House Pan Founder  | Writing <br> :pencil2:
-| <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia</a> <br>:philippines:  | GA SEIR <br> Oct '21 <br> Dallas | User Interface Developer @ Lennox International | UI <br> :paintbrush:
-| <a href="https://www.linkedin.com/in/olivia-emery/">Olivia Emery</a><br>:crown: | GA SEI <br> Nov '15 <br> San Francisco | Technical Writer @ Google | Editing <br>:pen:
-| <a href="https://www.linkedin.com/in/jimclarkfullstack/">Jim Clarke <br>:goat:</a> | GA SEI <br> Jan '15 <br> Los Angeles | Distinguished Global Lead Instructor @ General Assembly | Teaching <br> :man_teacher:
-| <a href="https://www.linkedin.com/in/skimalee/">Stephanie Lee, M.Ed. <br>🇰🇷</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly <br> House Lee Founder | Support <br>:woman_teacher:
-| <a href="https://www.linkedin.com/in/mariorrecinos/">Mario Recinos <br>:guatemala:</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly <br> Career Coach @ <a href="https://www.careerkarma.com">Career Karma</a> <br> House Rec Founder | Outreach <br>:people_hugging:
+|  Name | Title | Contribution |
+|:------|:-----:|:------------:|
+| <a href="https://www.linkedin.com/in/profpan396">Amar Pan, M.Ed. <br>:india:</a> | Sr. Instructional Associate @ General Assembly <br> Technical Writer @ <a href="https://www.linode.com/docs/guides/">Linode</a>  <br> House Pan Founder  | Writing <br> :pencil2:
+| <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia</a> <br>:philippines:  | User Interface Developer @ Lennox International | UI <br> :paintbrush:
+| <a href="https://www.linkedin.com/in/olivia-emery/">Olivia Emery</a><br>:crown: | Technical Writer @ Google | Editing <br>:pen:
+| <a href="https://www.linkedin.com/in/jimclarkfullstack/">Jim Clarke <br>:goat:</a> | Distinguished Global Lead Instructor @ General Assembly | Teaching <br> :man_teacher:
+| <a href="https://www.linkedin.com/in/skimalee/">Stephanie Lee, M.Ed. <br>🇰🇷</a> | Sr. Instructional Associate @ General Assembly <br> House Lee Founder | Support <br>:woman_teacher:
+| <a href="https://www.linkedin.com/in/mariorrecinos/">Mario Recinos <br>:guatemala:</a> | Sr. Instructional Associate @ General Assembly <br> Career Coach @ <a href="https://www.careerkarma.com">Career Karma</a> <br> House Rec Founder | Outreach <br>:people_hugging:
 
 
 
-<div align="center">
+
  
 #### ***If you found this tutorial helpful, please consider giving it a :star:
 
