@@ -451,7 +451,7 @@ git commit -m ":pencil2: fix typo on cart page"
 
  | Designer | Project | School | Location | Date
  |:--------:|:-------:|:------:|:--------:|:---:
- |Amar Pan|[Meet Your Classmates](https://github.com/profpan396/meet-your-classmates)|General Assembly|Nov '21 
+ | Amar Pan | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, OR | Nov '21 
 
 
 -  by [Amar Pan](https://linkedin.com/in/profpan396) (General Assembly - Nov '21 - Portland, OR)
