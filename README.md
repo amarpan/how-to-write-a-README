@@ -452,18 +452,14 @@ git commit -m ":pencil2: fix typo on cart page"
  | Designer | Project | School | Location | Date
  |:--------:|:-------:|:------:|:--------:|:---:
  | [Amar Pan](https://www.linkedin.com/in/profpan396/) | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, OR | Nov '21 
- | Amar Pan | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, OR | Nov '21 
- | Amar Pan | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, OR | Nov '21 
- | Amar Pan | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, OR | Nov '21 
- | Amar Pan | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, OR | Nov '21 
- | Amar Pan | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, OR | Nov '21 
- | Amar Pan | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, OR | Nov '21 
- | Amar Pan | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, OR | Nov '21 
- | Amar Pan | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, OR | Nov '21 
+ | [Sophia Best](https://www.linkedin.com/in/sophiabest/) | [ThreadUp](https://github.com/sophiabest/ecommerce) | General Assembly | Louiseville, Kentucky | Jun '22 
+ 
 
 
 
-- [ThreadUp](https://github.com/sophiabest/ecommerce) by [Sophia Best](https://www.linkedin.com/in/sophiabest/) (General Assembly - Jun '22 - Louiseville, Kentucky)
+
+
+-  by  (General Assembly - Jun '22 - )
 
 - [Dino Amigo](https://github.com/dani-diaz/dino-amigo2) by [Dani Diaz](https://www.linkedin.com/in/danidiaz8/) (General Assembly - Jun '22 - El Cerrito, CA)
 
