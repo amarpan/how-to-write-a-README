@@ -44,6 +44,12 @@
 #### ***If you find this tutorial helpful, please consider giving it a :star:
 </div>
 
+## Before You Begin
+
+Complete the following steps prior to getting started:
+
+### 1. Finish [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/) for a quick introduction to Markdown writing formatting. 
+### 2. Briefly skim through the [official GitHub-flavored Markdown documentation](https://github.github.com/gfm/) for reference.               
 
 
 <div id="description">
@@ -492,12 +498,7 @@ https://github.com/neilitalia/spacex-flights
 
 <div align="center">
 
-<h2 align="center"> <u>Further Reading</u> </h2>
 
-|       |                                                                                                                             |
-| ----- | --------------------------------------------------------------------------------------------------------------------------------------- |
-| Note: | For a quick introduction to Markdown writing format, check out [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/). |
-| Note: | Read through the [official GitHub-flavored Markdown documentation](https://github.github.com/gfm/) for further reference.               |
 
  <!-- ## Future Updates 
 
