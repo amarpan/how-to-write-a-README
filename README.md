@@ -453,9 +453,9 @@ git commit -m ":pencil2: fix typo on cart page"
 
  | Designer | Project | School | Location | Date
  |:--------:|:-------:|:------:|:--------:|:---:
- | [Amar Pan](https://www.linkedin.com/in/profpan396/) | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, OR | Nov '21 
+ | [Amar Pan](https://www.linkedin.com/in/profpan396/) | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, Oregon | Nov '21 
  | [Sophia Best](https://www.linkedin.com/in/sophiabest/) | [ThreadUp](https://github.com/sophiabest/ecommerce) | General Assembly | Louiseville, Kentucky | Jun '22 
- | [Dani Diaz](https://www.linkedin.com/in/danidiaz8/) | [Dino Amigo](https://github.com/dani-diaz/dino-amigo2) | General Assembly | El Cerrito, CA | Jun '22 
+ | [Dani Diaz](https://www.linkedin.com/in/danidiaz8/) | [Dino Amigo](https://github.com/dani-diaz/dino-amigo2) | General Assembly | El Cerrito, California | Jun '22 
 
  </div>
 
