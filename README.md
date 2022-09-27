@@ -46,9 +46,9 @@
 
 ## Before You Begin
 
-Complete the following steps prior to getting started:
+Finish the following steps prior to getting started:
 
-### 1. Finish [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/) for a quick introduction to Markdown writing formatting. 
+### 1. Complete [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/) for a quick introduction to Markdown writing formatting. 
 ### 2. Briefly skim through the [official GitHub-flavored Markdown documentation](https://github.github.com/gfm/) for reference.               
 
 
