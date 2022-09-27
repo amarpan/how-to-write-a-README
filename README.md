@@ -460,6 +460,8 @@ git commit -m ":pencil2: fix typo on cart page"
  | [Dani Diaz](https://www.linkedin.com/in/danidiaz8/) | [Dino Amigo](https://github.com/dani-diaz/dino-amigo2) | General Assembly | El Cerrito, California | Jun '22 
  | [Parker Samuels](https://www.linkedin.com/in/parkersamuels/) | [Checkers](https://github.com/prkrsamuels7/checkers) | General Assembly | Detroit, Michigan | Jun '22 
  | [Roger Davila](https://www.linkedin.com/in/roger-davila/) | [Solitaire](https://github.com/Toastito/solitaire) | General Assembly | San Francisco, California | Jun '22 
+ | [Maroof Khan](https://www.linkedin.com/in/maroofkhn/) | [Crypto Sniffer](https://github.com/MaroofKhan1/CryptoSniffer) | General Assembly | Minneapolis, Minnesota| Jun '22 
+
  
 
 
@@ -484,22 +486,11 @@ Oja: https://github.com/jobaa11/product-design-app
 
 <details open>
 <summary>   
-<a href="">Nisha Yadav</a> - General Assembly (House Pan) - Jun '22 - Denver, CO
+<a href="">Maroof Khan</a> - General Assembly (House Pan) - Jun '22 - Minneapolis, MN
 </summary>
 <h4> 
  
-Minesweeper: 
- 
-</h4>
-</details>
-
-<details open>
-<summary>   
-<a href="https://www.linkedin.com/in/maroofkhn/">Maroof Khan</a> - General Assembly (House Pan) - Jun '22 - Minneapolis, MN
-</summary>
-<h4> 
- 
-Crypto Sniffer: https://github.com/MaroofKhan1/CryptoSniffer
+Crypto Sniffer: 
  
 </h4>
 </details>
