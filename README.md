@@ -454,6 +454,7 @@ git commit -m ":pencil2: fix typo on cart page"
  | Designer | Project | School | Location | Date
  |:--------:|:-------:|:------:|:--------:|:---:
  | [Amar Pan](https://www.linkedin.com/in/profpan396/) | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, Oregon | Nov '21 
+ | [Nisha Yadav](https://www.linkedin.com/in/nisha-yadav09/) | [Minesweeper](https://github.com/nisha-yadav09/minesweeper) | General Assembly | Denver, Colorado | Apr '22 
  | [Stevie Militello](https://www.linkedin.com/in/stevie-militello/) | [Tavern Brawl](https://github.com/steviemilitello/tavern-brawl) | General Assembly | Boston, Massachusetts | May '22 
  | [Sophia Best](https://www.linkedin.com/in/sophiabest/) | [ThreadUp](https://github.com/sophiabest/ecommerce) | General Assembly | Louiseville, Kentucky | Jun '22 
  | [Dani Diaz](https://www.linkedin.com/in/danidiaz8/) | [Dino Amigo](https://github.com/dani-diaz/dino-amigo2) | General Assembly | El Cerrito, California | Jun '22 
@@ -469,16 +470,6 @@ git commit -m ":pencil2: fix typo on cart page"
  
 
 
-<details open>
-<summary>   
-<a href="https://www.linkedin.com/in/stevie-militello/">Stevie Militello</a> - General Assembly - May '22 - Boston, MA
-</summary>
-<h4> 
- 
-Tavern Brawl: 
- 
-</h4>
-</details>
 
 <details open>
 <summary>   
@@ -493,11 +484,11 @@ Oja: https://github.com/jobaa11/product-design-app
 
 <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/nisha-yadav09/">Nisha Yadav</a> - General Assembly (House Pan) - Jun '22 - Denver, CO
+<a href="">Nisha Yadav</a> - General Assembly (House Pan) - Jun '22 - Denver, CO
 </summary>
 <h4> 
  
-Minesweeper: https://github.com/nisha-yadav09/minesweeper
+Minesweeper: 
  
 </h4>
 </details>
