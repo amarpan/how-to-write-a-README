@@ -463,7 +463,6 @@ git commit -m ":pencil2: fix typo on cart page"
  | [Roger Davila](https://www.linkedin.com/in/roger-davila/) | [Solitaire](https://github.com/Toastito/solitaire) | General Assembly | San Francisco, California | Jun '22 
  | [Maroof Khan](https://www.linkedin.com/in/maroofkhn/) | [Crypto Sniffer](https://github.com/MaroofKhan1/CryptoSniffer) | General Assembly | Minneapolis, Minnesota| Jun '22 
  | [Joseph Caputo](https://www.linkedin.com/in/josephcaputo44/) | [Vinyl Stash](https://github.com/jcaputo44/vinyl-stash) | General Assembly | San Diego, California | Jun '22 
-
  | [Joba Aladeselu](https://www.linkedin.com/in/joba-a-ja11/) | [Oja](https://github.com/jobaa11/product-design-app) | General Assembly | Los Angeles, CA| Sep '22 
 
 
