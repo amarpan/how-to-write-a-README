@@ -456,6 +456,8 @@ git commit -m ":pencil2: fix typo on cart page"
  | [Amar Pan](https://www.linkedin.com/in/profpan396/) | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, Oregon | Nov '21 
  | [Sophia Best](https://www.linkedin.com/in/sophiabest/) | [ThreadUp](https://github.com/sophiabest/ecommerce) | General Assembly | Louiseville, Kentucky | Jun '22 
  | [Dani Diaz](https://www.linkedin.com/in/danidiaz8/) | [Dino Amigo](https://github.com/dani-diaz/dino-amigo2) | General Assembly | El Cerrito, California | Jun '22 
+ | [Parker Samuels](https://www.linkedin.com/in/parkersamuels/) | [Checkers](https://github.com/prkrsamuels7/checkers) | General Assembly | Detroit, Michigan | Jun '22 
+
 
  </div>
 
@@ -467,26 +469,20 @@ git commit -m ":pencil2: fix typo on cart page"
 
 -  by  (General Assembly - Jun '22 - El Cerrito, CA)
 
-- [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) by [Parker Samuels](https://linkedin.com/in/profpan396) (General Assembly - Nov '21 - Portland, OR)
+- [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) by  (General Assembly - Nov '21 - Portland, OR)
 
 - [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) by [Amar Pan](https://linkedin.com/in/profpan396) (General Assembly - Nov '21 - Portland, OR)
  
 </h4>
 </details>
 
-<details open>
-<summary>   
-<a href="">Dani Diaz - Software Engineering Apprentice at Cisco </a> - General Assembly (House Pan) - Jun '22 - El Cerrito, CA
-</summary>
-<h4> 
- 
-: 
+
 </h4>
 </details>
 
  <details open>
 <summary>   
-<a href="https://www.linkedin.com/in/parkersamuels/">Parker Samuels</a> - General Assembly (House Pan) - Jun '22 - Detroit, MI
+<a href="">Parker Samuels</a> - General Assembly (House Pan) - Jun '22 - Detroit, MI
 </summary>
 <h4> 
  
