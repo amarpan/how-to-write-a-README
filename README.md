@@ -457,6 +457,7 @@ git commit -m ":pencil2: fix typo on cart page"
  | [Ronald Portalatin Jr.](https://www.linkedin.com/in/maroofkhn/) | [Blackjack](https://github.com/coltonsaywhatt/GA-Blackjack-Project) | General Assembly | Lakeland, Florida | Apr '22 
  | [Nisha Yadav](https://www.linkedin.com/in/nisha-yadav09/) | [Minesweeper](https://github.com/nisha-yadav09/minesweeper) | General Assembly | Denver, Colorado | Apr '22 
  | [Stevie Militello](https://www.linkedin.com/in/stevie-militello/) | [Tavern Brawl](https://github.com/steviemilitello/tavern-brawl) | General Assembly | Boston, Massachusetts | May '22 
+ | [Jordan-Christopher Garcia](https://www.linkedin.com/in/jctgarcia20/) | [Shoe Collector](https://github.com/jctgarcia20/shoe-collector) | General Assembly | Seattle, Washington | May '22 
  | [Sophia Best](https://www.linkedin.com/in/sophiabest/) | [ThreadUp](https://github.com/sophiabest/ecommerce) | General Assembly | Louiseville, Kentucky | Jun '22 
  | [Dani Diaz](https://www.linkedin.com/in/danidiaz8/) | [Dino Amigo](https://github.com/dani-diaz/dino-amigo2) | General Assembly | El Cerrito, California | Jun '22 
  | [Parker Samuels](https://www.linkedin.com/in/parkersamuels/) | [Checkers](https://github.com/prkrsamuels7/checkers) | General Assembly | Detroit, Michigan | Jun '22 
@@ -475,21 +476,11 @@ git commit -m ":pencil2: fix typo on cart page"
 
 <details open>
 <summary>   
-<a href="">Joseph Caputo</a> - General Assembly - Jun '22 - San Diego, CA
+<a href=""> </a> - General Assembly - Jun '22 - Seattle, WA
 </summary>
 <h4> 
  
-Vinyl Stash: 
-</h4>
-</details>
-
-<details open>
-<summary>   
-<a href="https://www.linkedin.com/in/jctgarcia20/">Jordan-Christopher Garcia </a> - General Assembly - Jun '22 - Seattle, WA
-</summary>
-<h4> 
- 
-Shoe Collector: https://github.com/jctgarcia20/shoe-collector
+: 
 </h4>
 </details>
 
