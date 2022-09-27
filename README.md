@@ -519,7 +519,7 @@ https://github.com/neilitalia/spacex-flights
 | <a href="https://www.linkedin.com/in/olivia-emery/">Olivia Emery</a><br>:crown: | GA SEI <br> Nov '15 <br> San Francisco | Technical Writer @ Google | Editing <br>:pen:
 | <a href="https://www.linkedin.com/in/jimclarkfullstack/">Jim Clarke <br>:goat:</a> | GA SEI <br> Jan '15 <br> Los Angeles | Distinguished Global Lead Instructor @ General Assembly | Teaching <br> :man_teacher:
 | <a href="https://www.linkedin.com/in/skimalee/">Stephanie Lee, M.Ed. <br>🇰🇷</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly <br> House Lee Founder | Support <br>:woman_teacher:
-| <a href="https://www.linkedin.com/in/mariorrecinos/">Mario Recinos <br>:guatemala:</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly && House Rec Founder && Career Coach @ <a href="https://www.careerkarma.com">Career Karma</a> | Outreach <br>:people_hugging:
+| <a href="https://www.linkedin.com/in/mariorrecinos/">Mario Recinos <br>:guatemala:</a> | GA SEIR <br> Dec '21 <br> Los Angeles | Sr. Instructional Associate @ General Assembly <br> Career Coach @ <a href="https://www.careerkarma.com">Career Karma</a> <br> House Rec Founder | Outreach <br>:people_hugging:
 
 
 
