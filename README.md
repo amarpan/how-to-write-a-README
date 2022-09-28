@@ -464,7 +464,6 @@ git commit -m ":pencil2: fix typo on cart page"
 
  | Designer | Project | School | Location | Date
  |:--------:|:-------:|:------:|:--------:|:---:
- | [Amar Pan](https://www.linkedin.com/in/profpan396/) | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, Oregon | Nov '21 
  | [Nisha Yadav](https://www.linkedin.com/in/nisha-yadav09/) | [Minesweeper](https://github.com/nisha-yadav09/minesweeper) | General Assembly | Denver, Colorado | Apr '22 
  | [Ronald Portalatin Jr.](https://www.linkedin.com/in/ronaldportalatinjr/) | [Blackjack](https://github.com/coltonsaywhatt/GA-Blackjack-Project) | General Assembly | Lakeland, Florida | Apr '22 
  | [Jordan-Christopher Garcia](https://www.linkedin.com/in/jctgarcia20/) | [Shoe Collector](https://github.com/jctgarcia20/shoe-collector) | General Assembly | Seattle, Washington | May '22 
