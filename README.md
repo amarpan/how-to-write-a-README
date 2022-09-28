@@ -34,7 +34,7 @@
       
 ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial) <img alt="GitHub commits" src="https://img.shields.io/github/last-commit/profpan396/how-to-write-a-GA-SEI-README">  <img src="https://img.shields.io/github/stars/profpan396/how-to-write-a-GA-SEI-README"/>
       <br>
-      <img src="https://img.shields.io/badge/version-1.6-gold">
+      <img src="https://img.shields.io/badge/version-1.7-lightblue">
 
    </div>
    <p>
