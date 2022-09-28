@@ -1,8 +1,9 @@
  <div align="center" id="header">
    <h1>
-      How to Write a README <br> for <br> Coding Bootcamp <br> Projects <br> 
-     
+      How to Write a README
    </h1>
+     
+  
   <div>
    <p>
       <strong>Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></strong>
