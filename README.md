@@ -521,7 +521,7 @@ https://github.com/neilitalia/spacex-flights
  
 |  Name | Title | Contribution |
 |:------|:-----:|:------------:|
-| <a href="https://www.linkedin.com/in/profpan396">Amar Pan, M.Ed. <br>:india:</a> | README KING :crown: <br><br> Sr. Instructional Associate @ General Assembly <br><br> Technical Writer @ <a href="https://www.linode.com/docs/guides/">Linode</a>  <br><br> House Pan Founder  | Writing <br> :pencil2:
+| <a href="https://www.linkedin.com/in/profpan396">Amar Pan, M.Ed. <br>:india:</a> | README KING <br> :crown: <br><br> Sr. Instructional Associate @ General Assembly <br><br> Technical Writer @ <a href="https://www.linode.com/docs/guides/">Linode</a>  <br><br> House Pan Founder  | Writing <br> :pencil2:
 | <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia</a> <br>:philippines:  | User Interface Developer @ Lennox International | UI <br> :paintbrush:
 | <a href="https://www.linkedin.com/in/olivia-emery/">Olivia Emery</a><br>:crown: | Technical Writer @ Google | Editing <br>:pen:
 | <a href="https://www.linkedin.com/in/jimclarkfullstack/">Jim Clarke <br>:goat:</a> | Distinguished Global Lead Instructor @ General Assembly | Teaching <br> :man_teacher:
