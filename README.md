@@ -48,10 +48,10 @@
 
 </div>
 
-Finish the following steps prior to getting started:
+Complete the following steps prior to getting started:
 
-### 1. Complete [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/) for a quick introduction to Markdown writing formatting. 
-### 2. Briefly skim through the [official GitHub-flavored Markdown documentation](https://github.github.com/gfm/) for reference.               
+### 1. (Optional) Work through [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/) for a quick introduction to Markdown writing formatting (10 min). 
+### 2. (Optional) Briefly skim through the [official GitHub-flavored Markdown documentation](https://github.github.com/gfm/) for reference.               
 
 
 <div id="description">
