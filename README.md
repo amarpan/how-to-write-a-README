@@ -39,7 +39,7 @@
 
    </div>
    <p>
-      This tutorial and template describes how to write a coding bootcamp project README in HTML and GitHub-flavored Markdown in 20 minutes or less.
+      This tutorial and template describes how to write a coding bootcamp project README in HTML and GitHub Flavored Markdown in 20 minutes or less.
    <p>
     
 #### ***If you find this tutorial helpful, please consider giving it a :star:
@@ -56,7 +56,7 @@ Complete the following steps prior to getting started:
 ### 2. Finish this quick introduction to Markdown writing format tutorial (10 mins):
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 ### 3. Read (skim) through the official GitHub-flavored Markdown documentation:
-[GitHub-Flavored Markdown Spec](https://github.github.com/gfm/)    
+[GitHub Flavored Markdown Spec](https://github.github.com/gfm/)    
 
 
 <div id="description">
