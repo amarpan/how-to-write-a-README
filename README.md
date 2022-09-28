@@ -52,7 +52,8 @@ Complete the following steps prior to getting started:
 
 ### 1. Visit the README gold standard:
 [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates)
-### 2. (Optional) Work through [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/) for a quick introduction to Markdown writing formatting (10 min). 
+### 2. (Optional) Work through this tutorial for a quick introduction to Markdown writing formatting (10 min):
+[Markdown Tutorial](https://www.markdowntutorial.com/)
 ### 3. (Optional) Briefly skim through the [official GitHub-flavored Markdown documentation](https://github.github.com/gfm/) for reference.               
 
 
