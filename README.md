@@ -50,8 +50,10 @@
 
 Complete the following steps prior to getting started:
 
-### 1. (Optional) Work through [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/) for a quick introduction to Markdown writing formatting (10 min). 
-### 2. (Optional) Briefly skim through the [official GitHub-flavored Markdown documentation](https://github.github.com/gfm/) for reference.               
+### 1. Visit the README gold standard:
+[Meet Your Classmates](https://github.com/profpan396/meet-your-classmates)
+### 2. (Optional) Work through [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/) for a quick introduction to Markdown writing formatting (10 min). 
+### 3. (Optional) Briefly skim through the [official GitHub-flavored Markdown documentation](https://github.github.com/gfm/) for reference.               
 
 
 <div id="description">
