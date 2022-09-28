@@ -42,9 +42,11 @@
    <p>
     
 #### ***If you find this tutorial helpful, please consider giving it a :star:
-</div>
+
 
 ## Before You Begin
+
+</div>
 
 Finish the following steps prior to getting started:
 
