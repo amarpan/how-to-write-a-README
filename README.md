@@ -8,7 +8,7 @@
    <p>
       <strong>Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></strong>
       <br>
-      Sr. Instructional Associate
+      Sr. Technical Writer @ Pan You Can
    </p>
    
    </div>
