@@ -521,7 +521,7 @@ https://github.com/neilitalia/spacex-flights
 
 <div align="center">
 
-<h2 align="center"> <u>More Tutorials from Professor Pan</u> </h2>
+<h2 align="center"> <u> More Tutorials from Professor Pan</u> </h2>
 
  [How to Create a GitHub Profile](https://github.com/profpan396/how-to-create-a-github-profile)
 
