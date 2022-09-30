@@ -1,13 +1,14 @@
  <div align="center" id="header">
    <h1>
-      How to Write a <br>Coding Bootcamp <br> Project README <br> 
-     
+      How to Write a README
    </h1>
+     
+  
   <div>
    <p>
-      <strong>Written by <a href="https://www.linkedin.com/in/profpan396/">Amar Pan, M.Ed.</a></strong>
+      <strong>Written by <a href="https://www.linkedin.com/in/profpan396/">Professor Pan, M.Ed.</a></strong>
       <br>
-      Sr. Instructional Associate
+      Sr. Instructional Associate @ General Assembly
    </p>
    
    </div>
@@ -34,29 +35,35 @@
       
 ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial) <img alt="GitHub commits" src="https://img.shields.io/github/last-commit/profpan396/how-to-write-a-GA-SEI-README">  <img src="https://img.shields.io/github/stars/profpan396/how-to-write-a-GA-SEI-README"/>
       <br>
-      <img src="https://img.shields.io/badge/version-1.6-gold">
+      <img src="https://img.shields.io/badge/version-1.7-lightblue">
 
    </div>
    <p>
-      This tutorial and template describes how to write a coding bootcamp project README in HTML and GitHub-flavored Markdown in 20 minutes or less.
+      This tutorial and template describes how to write a coding bootcamp project README in HTML and GitHub Flavored Markdown in 20 minutes or less.
    <p>
     
 #### ***If you find this tutorial helpful, please consider giving it a :star:
-</div>
+
 
 ## Before You Begin
 
-Finish the following steps prior to getting started:
+</div>
 
-### 1. Complete [this no-nonsense Markdown tutorial](https://www.markdowntutorial.com/) for a quick introduction to Markdown writing formatting. 
-### 2. Briefly skim through the [official GitHub-flavored Markdown documentation](https://github.github.com/gfm/) for reference.               
+Complete the following steps prior to getting started:
+
+### 1. Visit the README gold standard:
+[Meet Your Classmates](https://github.com/profpan396/meet-your-classmates)
+### 2. Complete this introduction to Markdown writing format tutorial (10 mins):
+[Markdown Tutorial](https://www.markdowntutorial.com/)
+### 3. Read (skim) through the official GitHub-flavored Markdown documentation:
+[GitHub Flavored Markdown Spec](https://github.github.com/gfm/)    
 
 
 <div id="description">
 
   <h2 align="center"><strong><u>Header & Description</u></strong></h2>
 
-  <p align="center"><strong>Requirements:</strong> App name, what it does, and optional background info.</p>
+  <p align="center"><strong>Requirements:</strong> App name, what it does, and optional background info</p>
 
   <div align="center"> 
     <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">
@@ -459,7 +466,6 @@ git commit -m ":pencil2: fix typo on cart page"
 
  | Designer | Project | School | Location | Date
  |:--------:|:-------:|:------:|:--------:|:---:
- | [Amar Pan](https://www.linkedin.com/in/profpan396/) | [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates) | General Assembly | Portland, Oregon | Nov '21 
  | [Nisha Yadav](https://www.linkedin.com/in/nisha-yadav09/) | [Minesweeper](https://github.com/nisha-yadav09/minesweeper) | General Assembly | Denver, Colorado | Apr '22 
  | [Ronald Portalatin Jr.](https://www.linkedin.com/in/ronaldportalatinjr/) | [Blackjack](https://github.com/coltonsaywhatt/GA-Blackjack-Project) | General Assembly | Lakeland, Florida | Apr '22 
  | [Jordan-Christopher Garcia](https://www.linkedin.com/in/jctgarcia20/) | [Shoe Collector](https://github.com/jctgarcia20/shoe-collector) | General Assembly | Seattle, Washington | May '22 
@@ -471,7 +477,7 @@ git commit -m ":pencil2: fix typo on cart page"
  | [Parker Samuels](https://www.linkedin.com/in/parkersamuels/) | [Checkers](https://github.com/prkrsamuels7/checkers) | General Assembly | Detroit, Michigan | Jun '22 
  | [Roger Davila](https://www.linkedin.com/in/roger-davila/) | [Solitaire](https://github.com/Toastito/solitaire) | General Assembly | San Francisco, California | Jun '22 
  | [Sophia Best](https://www.linkedin.com/in/sophiabest/) | [ThreadUp](https://github.com/sophiabest/ecommerce) | General Assembly | Louiseville, Kentucky | Jun '22 
- | [Joba Aladeselu](https://www.linkedin.com/in/joba-a-ja11/) | [Oja](https://github.com/jobaa11/product-design-app) | General Assembly | Los Angeles, CA| Sep '22 
+ | [Joba Aladeselu](https://www.linkedin.com/in/joba-a-ja11/) | [Oja](https://github.com/jobaa11/product-design-app) | General Assembly | Los Angeles, California| Sep '22 
 
 
  
@@ -529,12 +535,12 @@ https://github.com/neilitalia/spacex-flights
  
 |  Name | Title | Contribution |
 |:------|:-----:|:------------:|
-| <a href="https://www.linkedin.com/in/profpan396">Amar Pan, M.Ed. <br>:india:</a> | Sr. Instructional Associate @ General Assembly <br> Technical Writer @ <a href="https://www.linode.com/docs/guides/">Linode</a>  <br> House Pan Founder  | Writing <br> :pencil2:
+| <a href="https://www.linkedin.com/in/profpan396">Amar Pan, M.Ed. <br>:india:</a> | README KING <br> :crown: <br><br> Sr. Instructional Associate @ General Assembly <br><br> Technical Writer @ <a href="https://www.linode.com/docs/guides/">Linode</a>  <br><br> House Pan Founder  | Writing <br> :pencil2:
 | <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia</a> <br>:philippines:  | User Interface Developer @ Lennox International | UI <br> :paintbrush:
 | <a href="https://www.linkedin.com/in/olivia-emery/">Olivia Emery</a><br>:crown: | Technical Writer @ Google | Editing <br>:pen:
 | <a href="https://www.linkedin.com/in/jimclarkfullstack/">Jim Clarke <br>:goat:</a> | Distinguished Global Lead Instructor @ General Assembly | Teaching <br> :man_teacher:
-| <a href="https://www.linkedin.com/in/skimalee/">Stephanie Lee, M.Ed. <br>🇰🇷</a> | Sr. Instructional Associate @ General Assembly <br> House Lee Founder | Support <br>:woman_teacher:
-| <a href="https://www.linkedin.com/in/mariorrecinos/">Mario Recinos <br>:guatemala:</a> | Sr. Instructional Associate @ General Assembly <br> Career Coach @ <a href="https://www.careerkarma.com">Career Karma</a> <br> House Rec Founder | Support <br>:teacher:
+| <a href="https://www.linkedin.com/in/skimalee/">Stephanie Lee, M.Ed. <br>🇰🇷</a> | Sr. Instructional Associate @ General Assembly <br><br> House Lee Founder | Support <br>:woman_teacher:
+| <a href="https://www.linkedin.com/in/mariorrecinos/">Mario Recinos <br>:guatemala:</a> | Sr. Instructional Associate @ General Assembly <br><br> Career Coach @ <a href="https://www.careerkarma.com">Career Karma</a> <br><br> House Rec Founder | Support <br>:teacher:
 
 
 
