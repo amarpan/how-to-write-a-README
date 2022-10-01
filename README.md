@@ -1,10 +1,8 @@
- <div align="center" id="header">
+<div align="center" id="header">
  
  # How to Write a README
-   
      
-  
-  <div>
+<div>
   
 **Written by [Amar Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br>Sr. Instructional Associate
    
