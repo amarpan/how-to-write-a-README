@@ -10,6 +10,7 @@ Sr. Instructional Associate
   
 <div id="socialbuttons">
 
+  [![Portfolio Badge](https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black)](https://profpan396.github.io)
 
 
 <a href="https://profpan396.github.io" target="_blank">
