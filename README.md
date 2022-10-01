@@ -531,7 +531,7 @@ https://github.com/neilitalia/spacex-flights
 
 
 
-<h2 align="center"> <u>Contributions</u> </h2>
+<h2 align="center"> Contributions </h2>
  
 |  Name | Title | Contribution |
 |:------|:-----:|:------------:|
