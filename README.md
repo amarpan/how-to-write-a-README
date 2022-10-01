@@ -6,11 +6,7 @@
      
 <div>
   
-
-   
-   
-
-   <div id="socialbuttons">
+<div id="socialbuttons">
       <a href="https://profpan396.github.io" target="_blank">
         <img
           src="https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black">
