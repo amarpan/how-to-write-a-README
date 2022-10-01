@@ -109,7 +109,7 @@ levels of learning and success.
 
 <div id="screenshots">
 
-  <h2  align="center"><u>Screenshots</u></h2>
+  <h2><u>Screenshots</u></h2>
 
   **Requirements**: Screenshots of your app's landing page and any other pages of interest.
   <div align="center"> 
