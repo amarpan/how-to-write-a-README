@@ -34,7 +34,7 @@ This tutorial and template describes how to write a coding bootcamp project READ
 
 <div id="before-you-begin">
 
-## <u>Before You Begin</u>
+## Before You Begin
 
 </div>
 
