@@ -6,9 +6,9 @@
 <br>
 Sr. Instructional Associate
      
-<div>
+</div>
   
-<div id="socialbuttons">
+<div align="center" id="socialbuttons">
 
   [![Portfolio Badge](https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black)](https://profpan396.github.io)
 
@@ -16,18 +16,18 @@ Sr. Instructional Associate
   [![Twitter Badge](https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black)](https://twitter.com/profpan396)
   [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
   <br>
-
   ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
   ![Last Commit](https://img.shields.io/github/last-commit/profpan396/how-to-write-a-GA-SEI-README)
   ![Stars](https://img.shields.io/github/stars/profpan396/how-to-write-a-GA-SEI-README)
   <br>
   ![Version](https://img.shields.io/badge/version-1.7-lightblue)
 
-#### ***If you find this tutorial helpful, please consider giving it a :star:
-<br>
+  #### ***If you find this tutorial helpful, please consider giving it a :star:
+
+</div>
 
 This tutorial and template describes how to write a coding bootcamp project README in HTML and GitHub Flavored Markdown in 20 minutes or less.
-   <p>
+
     
 
 
