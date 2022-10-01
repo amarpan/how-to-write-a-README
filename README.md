@@ -12,10 +12,7 @@ Sr. Instructional Associate
 
   [![Portfolio Badge](https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black)](https://profpan396.github.io)
   [![GitHub Badge](https://img.shields.io/badge/-@profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black)](https://www.github.com/profpan396/)
-
-      <a href="https://twitter.com/profpan396" target="_blank">
-  <img src="https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black">
-</a>
+  [![Twitter Badge](https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black)](https://twitter.com/profpan396)
 
  <a href="https://www.linkedin.com/in/profpan396/" target="_blank">
       <img src="https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black">
