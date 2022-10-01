@@ -1,13 +1,18 @@
 <div align="center" id="header">
  
- # How to Write a README
+# How to Write a README
 
- **Written by [Amar Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** <br>Sr. Instructional Associate
+**Written by [Amar Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** 
+<br>
+Sr. Instructional Associate
      
 <div>
   
 <div id="socialbuttons">
-      <a href="https://profpan396.github.io" target="_blank">
+
+
+
+<a href="https://profpan396.github.io" target="_blank">
         <img
           src="https://img.shields.io/badge/-profpan396.github.io-magenta?style=flat&logo=Blackberry&logoColor=black">
       </a>
