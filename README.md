@@ -349,7 +349,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 <hr>
 
-<h2 align="center"><u>The Final Product</u></h2>
+<h2><u>The Final Product</u></h2>
 
 <div align="center">
  <img align="center" src="./images/GOOD-FULL-README.png">  
