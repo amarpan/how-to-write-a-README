@@ -16,7 +16,7 @@ Sr. Instructional Associate
   [![Twitter Badge](https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black)](https://twitter.com/profpan396)
   [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
   <br>
-  ![](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
+  ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
   <img alt="GitHub commits" src="https://img.shields.io/github/last-commit/profpan396/how-to-write-a-GA-SEI-README">  <img src="https://img.shields.io/github/stars/profpan396/how-to-write-a-GA-SEI-README"/>
       <br>
       <img src="https://img.shields.io/badge/version-1.7-lightblue">
