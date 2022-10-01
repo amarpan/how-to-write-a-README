@@ -26,7 +26,7 @@ Sr. Instructional Associate
 
 </div>
 
-<div align"center" id="introduction">
+<div align="center" id="introduction">
 
 This tutorial and template describes how to write a coding bootcamp project README in HTML and GitHub Flavored Markdown in 20 minutes or less.
 
