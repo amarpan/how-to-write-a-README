@@ -351,7 +351,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 </div>
 
-<h2><u>The Final Product</u></h2>
+<h2>The Final Product</h2>
 
 <div align="center">
  <img align="center" src="./images/GOOD-FULL-README.png">  
