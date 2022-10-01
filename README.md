@@ -22,7 +22,7 @@ Sr. Instructional Associate
   <br>
   ![Version](https://img.shields.io/badge/version-1.7-lightblue)
 
-  #### ***If you find this tutorial helpful, please consider giving it a :star:
+  ### ***If you find this tutorial helpful, please consider giving it a :star:
 
 </div>
 
