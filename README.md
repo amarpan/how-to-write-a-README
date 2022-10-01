@@ -34,7 +34,7 @@ This tutorial and template describes how to write a coding bootcamp project READ
 
 <div align="center" id="before-you-begin">
 
-## Before You Begin
+## <u>Before You Begin</u>
 
 </div>
 
@@ -50,7 +50,7 @@ Complete the following steps prior to getting started:
 
 <div id="description">
 
-  <h2 align="center"><strong>Header & Description</strong></h2>
+  <h2 align="center"><strong><u>Header & Description</u></strong></h2>
 
   <p align="center"><strong>Requirements:</strong> App name, what it does, and optional background info</p>
 
