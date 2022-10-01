@@ -176,7 +176,7 @@ levels of learning and success.
 
 <div id="technologies-used">
 
-<h2  align="center"><u>Technologies Used</u></h2>
+<h2><u>Technologies Used</u></h2>
 
 
 **Requirements**: List of the technologies used.
