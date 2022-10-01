@@ -307,6 +307,8 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 <hr>
 
+</div>
+
 <h2><u>Next Steps</u></h2>
 
 **Requirements** : Planned future enhancements (icebox items).
