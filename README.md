@@ -363,7 +363,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 <hr>
 
 <h1>Optional Additions</h1>
-<h2><u>Header Banner</u></h2>
+<h2>Header Banner</h2>
 
 <div align="center"> 
    <img src="./images/OPTIONAL-PROJECT-BANNER.png"> 
