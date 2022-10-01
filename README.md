@@ -50,7 +50,7 @@ Complete the following steps prior to getting started:
 
 <div id="description">
 
-  <h2><strong><u>Header & Description</u></strong></h2>
+  <h2><strong>Header & Description</strong></h2>
 
   <p><strong>Requirements:</strong> App name, what it does, and optional background info</p>
 
