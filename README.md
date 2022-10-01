@@ -50,9 +50,9 @@ Complete the following steps prior to getting started:
 
 <div id="description">
 
-  <h2 align="center"><strong><u>Header & Description</u></strong></h2>
+  <h2><strong><u>Header & Description</u></strong></h2>
 
-  <p align="center"><strong>Requirements:</strong> App name, what it does, and optional background info</p>
+  <p><strong>Requirements:</strong> App name, what it does, and optional background info</p>
 
   <div align="center"> 
     <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">
