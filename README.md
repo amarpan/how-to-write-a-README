@@ -1,7 +1,7 @@
  <div align="center" id="header">
-   <h1>
+   
       How to Write a README
-   </h1>
+   
      
   
   <div>
