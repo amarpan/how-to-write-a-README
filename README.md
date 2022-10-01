@@ -421,6 +421,8 @@ git commit -m ":pencil2: fix typo on cart page"
 
 </div>
 
+
+
 <h2><u>Horizontal Image Scroll (Carousel)</u></h2>
 
 <div align="center"> 
