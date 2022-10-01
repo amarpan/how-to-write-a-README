@@ -392,7 +392,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 <hr>
 
-<h2 align="center"><u>Emoji Commits</u></h2>
+<h2><u>Emoji Commits</u></h2>
 
 <div align="center"> 
    <img src="./images/OPTIONAL-COMMITS.png" width="800" /> 
