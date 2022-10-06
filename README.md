@@ -52,7 +52,10 @@ Complete the following steps prior to getting started:
 
   <h2><strong>Header & Description</strong></h2>
 
-  <p><strong>Requirements:</strong> App name, what it does, and optional background info</p>
+  **Requirements:** 
+  1. App name
+  2. What it does
+  3. Optional background information</p>
 
   <div align="center"> 
     <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">
