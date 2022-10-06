@@ -114,7 +114,8 @@ levels of learning and success.
 
   <h2>Screenshots</h2>
 
-  **Requirements**: Screenshots of your app's landing page and any other pages of interest.
+  **Requirements**: 
+  1. Screenshots of your app's landing page and any other pages of interest
   <div align="center"> 
      <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
   </div>
