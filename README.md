@@ -104,8 +104,8 @@ levels of learning and success.
 <br> 
 Example: `:school:` ---> :school:
 <br>
-Go here for a list of full list of available GitHub emojis:  
-[GitHub Emojis List](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).                                                                                                                                   
+Visit the following resource for a full list of available GitHub emojis:  
+[GitHub Emojis Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).                                                                                                                                   
 <h3 align="center"><strong>Note:</strong></h3>**While emojis show automatically on GitHub, to see them on VS Code you need to install an extension like [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji). Some emojis may also look completely different on VS Code compared to GitHub.**
 </div>
 </div>
