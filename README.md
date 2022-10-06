@@ -60,11 +60,8 @@ Complete the following steps prior to getting started:
 
 | Description | Screenshot | 
 |:------------:|-----------| 
-| <h3>Example Description</h3> | <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800"> |
+| <h3> **Example Description** </h3> | <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800"> |
 
-  <div align="center"> 
-    <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">
-  </div>
 </div>
 
 </div>
