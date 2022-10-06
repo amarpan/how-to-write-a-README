@@ -51,7 +51,7 @@ Complete the following steps prior to getting started:
 
 <div id="description">
 
-## <strong>Description</strong>
+## Description
 
   **Requirements:** 
   1. App name
