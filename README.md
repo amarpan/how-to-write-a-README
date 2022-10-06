@@ -49,9 +49,6 @@ Complete the following steps prior to getting started:
 
 </div>
 
-    
-
-
 <div id="description">
 
   <h2><strong>Header & Description</strong></h2>
