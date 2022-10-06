@@ -53,7 +53,7 @@ Complete the following steps prior to getting started:
 
 ## Description
 
-  **Requirements:** 
+  <u>Requirements:</u> 
   1. App name
   2. What it does
   3. Optional background information</p>
