@@ -109,7 +109,7 @@ levels of learning and success.
 
 #### **<u>Note</u>**: 
 
-While emojis show automatically on GitHub, to see them on VS Code you need to install an extension like [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji). Some emojis may also look completely different on VS Code compared to GitHub.**
+To see GitHub emojis on VS Code, you need to install an extension like [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji). Some emojis may also look completely different on VS Code compared to GitHub.
 
 </div>
 </div>
