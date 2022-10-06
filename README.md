@@ -239,8 +239,6 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 </div>
 
-<hr>
-
 <h2>Getting Started</h2>
 
 **Requirements**: 
