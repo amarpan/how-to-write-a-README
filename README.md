@@ -242,7 +242,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 ## Getting Started
 
 **Requirements**: 
-- A link to the deployed app
+1. A link to the deployed app
 - A link to the Trello board used for the project's planning that includes user stories, wireframes, and ERD
 
 <div align="center"> 
