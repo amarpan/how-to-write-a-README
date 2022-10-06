@@ -121,7 +121,7 @@ To see GitHub emojis on VS Code, you need to install an extension like [Markdown
 ## Screenshots
 
   **Requirements**: 
-  1. Screenshots of your app's landing page and any other pages of interest
+  1. Screenshots of your app's home page and any other pages of interest
   <div align="center"> 
      <img src="./images/GOOD-SCREENSHOTS-SOLO.png">   
   </div>
