@@ -186,8 +186,7 @@ To see GitHub emojis on VS Code, you need to install an extension like [Markdown
 
 <div id="technologies-used">
 
-<h2>Technologies Used</h2>
-
+Technologies Used
 
 **Requirements**: List of the technologies used.
 
