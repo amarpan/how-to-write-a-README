@@ -58,6 +58,10 @@ Complete the following steps prior to getting started:
   2. What it does
   3. Optional background information</p>
 
+| Description | Screenshot | 
+|:------------:|-----------| 
+| <h3>ERD</h3> | <img src="https://``github.com/profpan396/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png" width="700" /> |
+
   <div align="center"> 
     <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">
   </div>
@@ -131,7 +135,7 @@ levels of learning and success.
   | Description | Screenshot | 
   |:------------:|-----------| 
   | <h3>ERD</h3> | <img
-    src="https://``github.com/profpan396/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png"
+    src="https://github.com/profpan396/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png"
     width="700"
   /> |
 
