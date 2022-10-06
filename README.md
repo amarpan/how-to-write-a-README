@@ -102,7 +102,7 @@ levels of learning and success.
 1. Add your deployed link directly to the top - most users won't scroll all the way down to find it.                                                                                                                                            
 2. Use emojis by typing in `:emojiname:` 
 <br> 
-Example: `:school:` ---> :school:
+Example: `:school:` = :school:
 <br>
 Visit the following resource for a full list of available GitHub emojis:  
 [GitHub Emojis Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md).                                                                                                                                   
