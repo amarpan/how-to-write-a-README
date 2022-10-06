@@ -176,15 +176,13 @@ To see GitHub emojis on VS Code, you need to install an extension like [Markdown
   /> |
 </details>
 ```
-| Tips 
-|--------------
-| To set up a table use:
-| `Description \| Screenshot \|`
-| `:----------:\|------------\|`
-| `caption    \|    image   \|`
-| Whatever is placed in between `<details></details>` will be hidden beneath a closed drop-down menu, until its arrow is clicked on. The title for this should be placed in between `<summary></summary>`.
-| To have a drop-down menu display by default without the user having to click it, add the word 'open' to the details tag. <br> <u><strong>Example:<strong></u> `<details>` --> `<details open>`                                                                                                      
-| Image dimensions can also be resized by specifying width and height. <br> <u><strong>Example:<strong></u> `<img src="" width="300" height="400">`                                                                                                                                                                                                                                                        |
+Tips 
+
+To set up a table use:
+
+Whatever is placed in between `<details></details>` will be hidden beneath a closed drop-down menu, until its arrow is clicked on. The title for this should be placed in between `<summary></summary>`.
+To have a drop-down menu display by default without the user having to click it, add the word 'open' to the details tag. <br> <u><strong>Example:<strong></u> `<details>` --> `<details open>`                                                                                                      
+Image dimensions can also be resized by specifying width and height. <br> <u><strong>Example:<strong></u> `<img src="" width="300" height="400">`                                                                                                                                                                                                                                                        
 </div>
 <hr>
 
