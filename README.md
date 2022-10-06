@@ -230,14 +230,12 @@ A screenshot of your app's landing page and any other screenshots of interest.
 ![Materialize CSS](https://img.shields.io/badge/-Materialize_CSS-05122A?style=flat&logo=materialdesign)
 ```
 
-   <div align="center">
 
 | Tips |  |
 |--------------|--|
 | Note: | Additional custom badges can be found at [the shields.io website.](https://shields.io/)                                        |
 | Note: | For a list of more colorful badges, [check out this repository.](https://github.com/alexandresanlim/Badges4-README.md-Profile) |
 
-</div>
 </div>
 
 <hr>
