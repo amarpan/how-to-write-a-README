@@ -232,7 +232,8 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 ### Tips 
 
-Note: Additional custom badges can be found at [the shields.io website.](https://shields.io/)                                        
+1. Additional custom badges can be found at the following resource: 
+- [Shields.io Website.](https://shields.io/)                                        
 Note:  For a list of more colorful badges, [check out this repository.](https://github.com/alexandresanlim/Badges4-README.md-Profile) 
 
 </div>
