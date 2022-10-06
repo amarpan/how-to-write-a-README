@@ -97,9 +97,7 @@ levels of learning and success.
 
 ```
 
-<div align="center">
-
-| Tips             |
+### Tips            
 |------------------|
 | Integrate styling by using `<div align="center"></div>` to center text.                                                                                                       
 | Add your deployed link directly to the top - many users won't scroll all the way down to find it.                                                                                                                                            
