@@ -40,6 +40,7 @@ Complete the following steps prior to getting started:
 
 ### 1. Visit the README gold standard:
 [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates)
+
 ### 2. Complete the following Introduction to Markdown tutorial (10 mins):
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 ### 3. Read (skim) through the official GitHub-flavored Markdown documentation:
