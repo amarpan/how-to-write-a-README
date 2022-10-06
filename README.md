@@ -243,7 +243,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 **Requirements**: 
 1. A link to the deployed app
-- A link to the Trello board used for the project's planning that includes user stories, wireframes, and ERD
+2. A link to the Trello board used for the project's planning that includes user stories, wireframes, and ERD
 
 <div align="center"> 
    <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">
