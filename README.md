@@ -60,7 +60,7 @@ Complete the following steps prior to getting started:
 
 | Description | Screenshot | 
 |:------------:|-----------| 
-| <h3>ERD</h3> | <img src="https://``github.com/profpan396/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png" width="700" /> |
+| <h3>Example Description</h3> | <img src="https://``github.com/profpan396/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png" width="700" /> |
 
   <div align="center"> 
     <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800">
