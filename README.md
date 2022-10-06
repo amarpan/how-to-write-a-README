@@ -63,7 +63,9 @@ Complete the following steps prior to getting started:
 | <h3> **Example Description** </h3> | <img src="./images/GOOD-DESCRIPTION-SOLO.png" width="800"> |
 
 <div align="center">
-### <strong>Copy and paste the following:</strong>
+
+### **Copy and paste the following:**
+
 </div>
 
   ```html
