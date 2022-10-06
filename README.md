@@ -239,7 +239,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 </div>
 
-Getting Started
+## Getting Started
 
 **Requirements**: 
 - A link to the deployed app
