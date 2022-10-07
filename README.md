@@ -110,8 +110,8 @@ levels of learning and success.
 
 Install the following extension to see GitHub emojis in VS Code:
 
-  [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji). Some emojis may also look completely different on VS Code compared to GitHub.
-
+  [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)
+  
 </div>
 </div>
 
