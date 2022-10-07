@@ -105,6 +105,7 @@ levels of learning and success.
   - Example: `:school:` = :school:
 <br>
   - Visit the following resource for a full list of available GitHub emojis:  
+  
 [GitHub Emojis Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md). 
 
 #### **<u>Note</u>**: 
