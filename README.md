@@ -16,7 +16,7 @@ Sr. Instructional Associate
   [![Twitter Badge](https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black)](https://twitter.com/profpan396)
   [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
   <br>
-  ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
+  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=amarpan.readme-writing-tutorial)
   ![Last Commit](https://img.shields.io/github/last-commit/profpan396/how-to-write-a-GA-SEI-README)
   ![Stars](https://img.shields.io/github/stars/profpan396/how-to-write-a-GA-SEI-README)
   <br>
@@ -111,7 +111,7 @@ levels of learning and success.
 Install the following extension to see GitHub emojis in VS Code:
 
   [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)
-  
+
 </div>
 </div>
 
