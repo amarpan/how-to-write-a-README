@@ -103,7 +103,7 @@ levels of learning and success.
 2. Use emojis by typing in `:emojiname:` 
   - Visit the following resource for a full list of available GitHub emojis:  
 
-[GitHub Emojis Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md). 
+    [GitHub Emojis Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md). 
 
 #### **<u>Note</u>**: 
 
