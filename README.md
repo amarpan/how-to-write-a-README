@@ -310,14 +310,13 @@ A screenshot of your app's landing page and any other screenshots of interest.
 |       | Tips                                                                                      |
 | ----- | ------------------------------------------------------------------------------------------------- |
 | Note: | |
-| Note: | Put your links in more drop-down menus using `<details open>` and `<summary>`.                    |
+| Note: |                    |
 | Note: | Try to choose something simple and memorable when choosing your Heroku URL / link name.           |
 
 ### Tips 
 
 1. Use numbered lists as opposed to lengthy paragraphs to make sure this section is easily readable.                             
-2. Alternative badges of a more colorful style can be found at the following resource:
-- [Badges 4 README](https://github.com/alexandresanlim/Badges4-README.md-Profile) 
+2. Put your links in more drop-down menus using `<details open>` and `<summary>`. 
 
 <h2>Next Steps</h2>
 
