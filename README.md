@@ -382,12 +382,12 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 | Tips: |  |
 |---------------|--|
-| Note: | Royalty-free stock photos can be found on [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), or [Unsplash](https://unsplash.com/).                                                               |
+| Note: |                                                            |
 | Note: | Free photo editing tools like [Photopea](https://www.photopea.com/) can streamline the editing process with their ability to import images from URLs and export images directly into [imgur](https://imgur.com/). |
 
 ### Tips 
 
-1. Avoid using the word `icebox`, as most non-technical users probably won't know what this means.                            
+1. Royalty-free stock photos can be found on [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), or [Unsplash](https://unsplash.com/).                              
 2. Use bullet points rather than paragraphs to make it immediately clear what each new feature would be. 
 
 <hr>
