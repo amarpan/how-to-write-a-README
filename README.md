@@ -7,7 +7,6 @@
 Sr. Instructional Associate
 <br>
 <img src="images/GAfavicon.ico" width="18px" height="18px">
-     
 </div>
   
 <div align="center" id="socialbuttons">
