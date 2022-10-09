@@ -218,7 +218,7 @@ Install the following extension to see GitHub emojis in VS Code:
 
 ## Technologies Used
 
-**Requirements**: 
+**<u>Requirements</u>**: 
 1. List of the technologies used
 
 | Description | Screenshot | 
