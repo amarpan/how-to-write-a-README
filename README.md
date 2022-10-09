@@ -19,7 +19,7 @@ Sr. Instructional Associate
   <br>
    ![Stars](https://img.shields.io/github/stars/profpan396/how-to-write-a-readme?style=social)
   ![](https://visitor-badge.glitch.me/badge?page_id=profpan396.how-to-write-a-readme)
-  ![Forks](https://img.shields.io/github/forks/profpan396/how-to-linkedin?style=social)
+  ![Forks](https://img.shields.io/github/forks/profpan396/how-to-write-a-readme?style=social)
   <br>
   ![Version](https://img.shields.io/badge/version-2.0-gold)
 
