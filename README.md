@@ -378,21 +378,10 @@ A screenshot of your app's landing page and any other screenshots of interest.
 </div>
 ```
 
-<div align="center">
-
-| Tips: |  |
-|---------------|--|
-| Note: |                                                            |
-| Note: |  |
-
 ### Tips 
 
 1. Royalty-free stock photos can be found on [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), or [Unsplash](https://unsplash.com/).                              
 2. Free photo editing tools like [Photopea](https://www.photopea.com/) can streamline the editing process with their ability to import images from URLs and export images directly into [imgur](https://imgur.com/). 
-
-<hr>
-
-</div>
 
 <h2>Emoji Commits</h2>
 
