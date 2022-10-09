@@ -58,7 +58,7 @@ Complete the following steps prior to getting started:
   1. A banner representing your app
 
 | Description | Screenshot | 
-|:------------:|:---------:| 
+|:-----------:|:----------:| 
 | <h3> **Example Header** </h3> | <img src="./images/OPTIONAL-PROJECT-BANNER.png"> |
 
 <div align="center">
