@@ -6,7 +6,7 @@
 <br>
 Sr. Instructional Associate
 <br>
-<img src="images/GAfavicon.ico" width="12px" height="12px">
+<img src="images/GAfavicon.ico" width="18px" height="18px">
      
 </div>
   
