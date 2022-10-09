@@ -307,11 +307,6 @@ A screenshot of your app's landing page and any other screenshots of interest.
   >
 </details>
 ```
-|       | Tips                                                                                      |
-| ----- | ------------------------------------------------------------------------------------------------- |
-| Note: | |
-| Note: |                    |
-| Note: |            |
 
 ### Tips 
 
