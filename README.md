@@ -21,7 +21,7 @@ Sr. Instructional Associate
   ![Last Commit](https://img.shields.io/github/last-commit/profpan396/how-to-write-a-GA-SEI-README)
   ![Stars](https://img.shields.io/github/stars/profpan396/how-to-write-a-GA-SEI-README)
   <br>
-  ![Version](https://img.shields.io/badge/version-1.7-lightblue)
+  ![Version](https://img.shields.io/badge/version-2.0-gold)
 
   ### If you find this tutorial helpful, please consider giving it a :star:
 
