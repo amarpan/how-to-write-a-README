@@ -320,11 +320,11 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 | Description | Screenshot | 
 |:------------:|:---------:| 
-| <h3> **Example Next Steps** </h3> | <img src="./images/GOOD-GETTING-STARTED-SINGLE.png"> |
+| <h3> **Example Next Steps** </h3> | <img src="./images/GOOD-NEXT-STEPS-SINGLE.png"> |
 
 
 <div align="center"> 
-   <img src="./images/GOOD-NEXT-STEPS-SINGLE.png"> 
+   <img src=""> 
 </div>
 
 </div>
