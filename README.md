@@ -49,6 +49,32 @@ Complete the following steps prior to getting started:
 
 </div>
 
+<div id="header">
+
+<h2>Header</h2>
+
+| Description | Screenshot | 
+|:------------:|:---------:| 
+| <h3> **Example Header Banner** </h3> | <img src="./images/OPTIONAL-PROJECT-BANNER.png"> |
+
+<div align="center">
+<h3><strong>Copy and paste the following:</strong></h3>
+
+</div>
+
+```html
+<div align="center">
+  <img src="https://i.imgur.com/y2SPx4E.jpg" width="800" height="400" />
+  <h1 align="center">plantrade</h1>
+</div>
+```
+
+### Tips 
+
+1. Royalty-free stock photos can be found on [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), or [Unsplash](https://unsplash.com/).                              
+2. Free photo editing tools like [Photopea](https://www.photopea.com/) can streamline the editing process with their ability to import images from URLs and export images directly into [imgur](https://imgur.com/). 
+</div>
+
 <div id="description">
 
 ## Description
@@ -357,28 +383,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 <!-- <h4>Today we learned how to convert an average README into one that instantly catches the eyes of employers.</h4>
 <h4>Despite not being able to use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts.</h4> -->
 
-<h2>Header Banner</h2>
 
-| Description | Screenshot | 
-|:------------:|:---------:| 
-| <h3> **Example Header Banner** </h3> | <img src="./images/OPTIONAL-PROJECT-BANNER.png"> |
-
-<div align="center">
-<h3><strong>Copy and paste the following:</strong></h3>
-
-</div>
-
-```html
-<div align="center">
-  <img src="https://i.imgur.com/y2SPx4E.jpg" width="800" height="400" />
-  <h1 align="center">plantrade</h1>
-</div>
-```
-
-### Tips 
-
-1. Royalty-free stock photos can be found on [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), or [Unsplash](https://unsplash.com/).                              
-2. Free photo editing tools like [Photopea](https://www.photopea.com/) can streamline the editing process with their ability to import images from URLs and export images directly into [imgur](https://imgur.com/). 
 
 <!-- <h2>Emoji Commits</h2>
 
