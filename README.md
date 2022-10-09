@@ -152,7 +152,7 @@ Install the following extension to see GitHub emojis in VS Code:
 
 ## Screenshots
 
-**Requirements**: 
+**<u>Requirements</u>**: 
 1. Screenshots of your app's home page and any other pages of interest
 
 | Description | Screenshot | 
