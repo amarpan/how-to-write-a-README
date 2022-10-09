@@ -248,6 +248,9 @@ A screenshot of your app's landing page and any other screenshots of interest.
     - wireframes
     - ERD
 
+| Description | Screenshot | 
+|:------------:|:---------:| 
+| <h3> **Example Technologies Used** </h3> | <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png"> |
 
 <div align="center"> 
    <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">
