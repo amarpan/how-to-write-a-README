@@ -322,11 +322,6 @@ A screenshot of your app's landing page and any other screenshots of interest.
 |:------------:|:---------:| 
 | <h3> **Example Next Steps** </h3> | <img src="./images/GOOD-NEXT-STEPS-SINGLE.png"> |
 
-
-<div align="center"> 
-   <img src=""> 
-</div>
-
 </div>
 
 <div align="center">
