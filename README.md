@@ -250,11 +250,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 | Description | Screenshot | 
 |:------------:|:---------:| 
-| <h3> **Example Getting Started** </h3> | <img src="./images/GOOD-TECHNOLOGIES-USED-SINGLE.png"> |
-
-<div align="center"> 
-   <img src="./images/GOOD-GETTING-STARTED-SINGLE.png">
-</div>
+| <h3> **Example Getting Started** </h3> | <img src="./images/GOOD-GETTING-STARTED-SINGLE.png"> |
 
 <div align="center">
 <h3><strong>Copy and paste the following:</strong></h3>
