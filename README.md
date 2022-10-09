@@ -343,11 +343,6 @@ A screenshot of your app's landing page and any other screenshots of interest.
 - [ ] ~~Add Tinder API Integration~~
 ```
 
-|       | Tips                                                                                           |
-| ----- | ------------------------------------------------------------------------------------------------------ |
-| Note: |  |
-| Note: |  |
-
 ### Tips 
 
 1. Avoid using the word `icebox`, as most non-technical users probably won't know what this means.                            
