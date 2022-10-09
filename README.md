@@ -537,13 +537,6 @@ https://github.com/neilitalia/spacex-flights
 | <a href="https://www.linkedin.com/in/olivia-emery/">Olivia Emery</a><br>:crown: | Technical Writer @ Google | Editing <br>:pen:
 | <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia</a> <br>:philippines:  | User Interface Developer @ Lennox International | UI <br> :paintbrush:
 
-
-
-
-
-
-
- 
 ### If you found this tutorial helpful, please consider giving it a :star:
 
 Copyright :copyright: 2021-2022 Pan You Can
