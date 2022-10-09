@@ -527,7 +527,7 @@ https://github.com/neilitalia/spacex-flights
 | <a href="https://www.linkedin.com/in/olivia-emery/">Olivia Emery</a><br>:crown: | Technical Writer @ Google | Editing <br>:pen:
 | <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia</a> <br>:philippines:  | User Interface Developer @ Lennox International | UI <br> :paintbrush:
 
-<h2 align="center"> More Tutorials from Professor Pan </h2>
+## More Tutorials from Professor Pan
 
  [How to Create a GitHub Profile](https://github.com/profpan396/how-to-create-a-github-profile)
 
