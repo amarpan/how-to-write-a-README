@@ -208,7 +208,7 @@ Install the following extension to see GitHub emojis in VS Code:
   /> |
 </details>
 ```
-### Screenshots Tips 
+### Tips - Screenshots 
 
 1. Whatever is placed in between `<details></details>` will be hidden beneath a closed drop-down menu until its arrow is clicked on. The caption for this should be placed in between `<summary></summary>`.
 2. To have a drop-down menu display as open by default, (without the user having to click it) add the word 'open' to the details tag.                                                                                    
