@@ -51,7 +51,7 @@ Complete the following steps prior to getting started:
 
 <div id="header">
 
-<h2>Header</h2>
+## Header
 
 <u>Requirements:</u> 
   1. A banner representing your app
