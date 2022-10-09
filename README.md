@@ -350,6 +350,10 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 <h2>The Final Product</h2>
 
+| Description | Screenshot | 
+|:------------:|:---------:| 
+| <h3> **Example Next Steps** </h3> | <img src="./images/GOOD-NEXT-STEPS-SINGLE.png"> |
+
 <div align="center">
  <img align="center" src="./images/GOOD-FULL-README.png">  
 </div>
