@@ -516,16 +516,6 @@ https://github.com/neilitalia/spacex-flights
 
 <div align="center">
 
-<h2 align="center"> More Tutorials from Professor Pan </h2>
-
- [How to Create a GitHub Profile](https://github.com/profpan396/how-to-create-a-github-profile)
-
- [How to Change Themes in Z Shell](https://github.com/profpan396/how-to-change-themes-in-zshell)
-
- [How to Use the Vim Text Editor in the Terminal](https://github.com/profpan396/how-to-use-the-vim-text-editor)
-
-
-
 ## Contributions
  
 |  Name | Title | Contribution |
@@ -536,6 +526,14 @@ https://github.com/neilitalia/spacex-flights
 | <a href="https://www.linkedin.com/in/skimalee/">Stephanie Lee, M.Ed. <br>🇰🇷</a> | Sr. Instructional Associate @ General Assembly <br><br> House Lee Founder | Support <br>:woman_teacher:
 | <a href="https://www.linkedin.com/in/olivia-emery/">Olivia Emery</a><br>:crown: | Technical Writer @ Google | Editing <br>:pen:
 | <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia</a> <br>:philippines:  | User Interface Developer @ Lennox International | UI <br> :paintbrush:
+
+<h2 align="center"> More Tutorials from Professor Pan </h2>
+
+ [How to Create a GitHub Profile](https://github.com/profpan396/how-to-create-a-github-profile)
+
+ [How to Change Themes in Z Shell](https://github.com/profpan396/how-to-change-themes-in-zshell)
+
+ [How to Use the Vim Text Editor in the Terminal](https://github.com/profpan396/how-to-use-the-vim-text-editor)
 
 ### If you found this tutorial helpful, please consider giving it a :star:
 
