@@ -307,9 +307,6 @@ A screenshot of your app's landing page and any other screenshots of interest.
   >
 </details>
 ```
-
-<div align="center">
-
 |       | Tips                                                                                      |
 | ----- | ------------------------------------------------------------------------------------------------- |
 | Note: | Use numbered lists as opposed to lengthy paragraphs to make sure this section is easily readable. |
@@ -322,10 +319,6 @@ A screenshot of your app's landing page and any other screenshots of interest.
 - [Shields.io Website](https://shields.io/)                                        
 2. Alternative badges of a more colorful style can be found at the following resource:
 - [Badges 4 README](https://github.com/alexandresanlim/Badges4-README.md-Profile) 
-
-<hr>
-
-</div>
 
 <h2>Next Steps</h2>
 
