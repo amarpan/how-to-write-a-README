@@ -128,7 +128,7 @@ levels of learning and success.
 
 ```
 
-### Description Tips            
+### Tips - Description            
                     
 1. Add your deployed link directly to the top - most users won't scroll all the way down to find it.                                                                                                                                            
 2. Use emojis by typing in `:emojiname:` 
