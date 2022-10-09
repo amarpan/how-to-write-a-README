@@ -260,7 +260,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 ![Materialize CSS](https://img.shields.io/badge/-Materialize_CSS-05122A?style=flat&logo=materialdesign)
 ```
 
-### Tips 
+### Tips - Technologies Used
 
 1. Additional badges of this style can be found at the following resource: 
 - [Shields.io Website](https://shields.io/)                                        
