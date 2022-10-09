@@ -366,13 +366,6 @@ A screenshot of your app's landing page and any other screenshots of interest.
 |:------------:|:---------:| 
 | <h3> **Example Header Banner** </h3> | <img src="./images/OPTIONAL-PROJECT-BANNER.png"> |
 
-
-<div align="center"> 
-   <img src="./images/OPTIONAL-PROJECT-BANNER.png"> 
-</div>
-
-</div>
-
 <div align="center">
 <h3><strong>Copy and paste the following:</strong></h3>
 
