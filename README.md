@@ -352,11 +352,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 | Description | Screenshot | 
 |:------------:|:---------:| 
-| <h3> **Example Final Product** </h3> | <img src="./images/GOOD-NEXT-STEPS-SINGLE.png"> |
-
-<div align="center">
- <img align="center" src="./images/GOOD-FULL-README.png">  
-</div>
+| <h3> **Example Final Product** </h3> | <img src="./images/GOOD-FULL-README.png"> |
 
 <!-- <h4>Today we learned how to convert an average README into one that instantly catches the eyes of employers.</h4>
 <h4>Despite not being able to use proper CSS to change colors and styles, we can actually add a lot of customization and fine-tuning with the right Markdown shortcuts.</h4> -->
