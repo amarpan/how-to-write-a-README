@@ -346,13 +346,12 @@ A screenshot of your app's landing page and any other screenshots of interest.
 |       | Tips                                                                                           |
 | ----- | ------------------------------------------------------------------------------------------------------ |
 | Note: |  |
-| Note: | Use bullet points rather than paragraphs to make it immediately clear what each new feature would be.  |
+| Note: |  |
 
 ### Tips 
 
 1. Avoid using the word `icebox`, as most non-technical users probably won't know what this means.                            
-2. Put your links in more drop-down menus using `<details open>` and `<summary>`. 
-3. Try to choose something simple and memorable when choosing your Heroku URL / link name.
+2. Use bullet points rather than paragraphs to make it immediately clear what each new feature would be. 
 
 <h2>The Final Product</h2>
 
