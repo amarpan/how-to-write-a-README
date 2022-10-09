@@ -343,8 +343,6 @@ A screenshot of your app's landing page and any other screenshots of interest.
 - [ ] ~~Add Tinder API Integration~~
 ```
 
-<div align="center">
-
 |       | Tips                                                                                           |
 | ----- | ------------------------------------------------------------------------------------------------------ |
 | Note: | Avoid using the word `icebox`, as most non-technical users probably won't know what this means. |
@@ -355,11 +353,6 @@ A screenshot of your app's landing page and any other screenshots of interest.
 1. Use numbered lists as opposed to lengthy paragraphs to make sure this section is easily readable.                             
 2. Put your links in more drop-down menus using `<details open>` and `<summary>`. 
 3. Try to choose something simple and memorable when choosing your Heroku URL / link name.
-
-
-<hr>
-
-</div>
 
 <h2>The Final Product</h2>
 
