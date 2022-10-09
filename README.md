@@ -53,6 +53,9 @@ Complete the following steps prior to getting started:
 
 <h2>Header</h2>
 
+<u>Requirements:</u> 
+  1. A banner representing your app
+
 | Description | Screenshot | 
 |:------------:|:---------:| 
 | <h3> **Example Header Banner** </h3> | <img src="./images/OPTIONAL-PROJECT-BANNER.png"> |
