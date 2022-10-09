@@ -546,7 +546,7 @@ https://github.com/neilitalia/spacex-flights
 |  Name | Title | Contribution |
 |:------|:-----:|:------------:|
 | <a href="https://www.linkedin.com/in/jimclarkfullstack/">Jim Clarke <br>:goat:</a> | Distinguished Global Lead Instructor @ General Assembly | Teaching <br> :man_teacher:
-| <a href="https://www.linkedin.com/in/profpan396">Amar Pan, M.Ed. <br>:india:</a> | Sr. Instructional Associate @ General Assembly <br><br> Technical Writer @ <a href="https://www.linode.com/docs/guides/">Linode</a>  <br><br> House Pan Founder  | Writing <br> :pencil2:
+| <a href="https://www.linkedin.com/in/profpan396">Amar Pan, M.Ed. <br>:india:</a> | Sr. Instructional Associate @ General Assembly <br><br> Technical Writer @ <a href="https://www.linode.com/docs/guides/">Linode</a>  <br><br> House Pan Founder  | Writing <br> :pencil:
 | <a href="https://www.linkedin.com/in/mariorrecinos/">Mario Recinos <br>:guatemala:</a> | Sr. Instructional Associate @ General Assembly <br><br> Coach @ <a href="https://www.careerkarma.com">Career Karma</a> <br><br> House Rec Founder | Support <br>:teacher:
 | <a href="https://www.linkedin.com/in/skimalee/">Stephanie Lee, M.Ed. <br>🇰🇷</a> | Sr. Instructional Associate @ General Assembly <br><br> House Lee Founder | Support <br>:woman_teacher:
 | <a href="https://www.linkedin.com/in/olivia-emery/">Olivia Emery</a><br>:crown: | Technical Writer @ Google | Editing <br>:pen:
