@@ -58,7 +58,7 @@ Complete the following steps prior to getting started:
 
 | Description | Screenshot | 
 |:------------:|:---------:| 
-| <h3> **Example Header Banner** </h3> | <img src="./images/OPTIONAL-PROJECT-BANNER.png"> |
+| <h3> **Example Header** </h3> | <img src="./images/OPTIONAL-PROJECT-BANNER.png"> |
 
 <div align="center">
 <h3><strong>Copy and paste the following:</strong></h3>
