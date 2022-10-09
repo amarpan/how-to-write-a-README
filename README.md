@@ -364,7 +364,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 | Description | Screenshot | 
 |:------------:|:---------:| 
-| <h3> **Example Header Banner** </h3> | <img src="./images/GOOD-NEXT-STEPS-SINGLE.png"> |
+| <h3> **Example Header Banner** </h3> | <img src="./images/OPTIONAL-PROJECT-BANNER.png"> |
 
 
 <div align="center"> 
