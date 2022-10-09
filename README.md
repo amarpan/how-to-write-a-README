@@ -5,6 +5,8 @@
 **Written by [Professor Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** 
 <br>
 Sr. Instructional Associate
+<br>
+<img src="images/GAfavicon.ico" width="12px" height="12px">
      
 </div>
   
