@@ -1,3 +1,9 @@
+<!-- 
+To Do:
+
+- Find Alternative Visitor Counter Badge
+-->
+
 <div align="center" id="header">
  
 # How to Write a README
