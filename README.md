@@ -95,7 +95,7 @@ Complete the following steps prior to getting started:
   <u>Requirements:</u> 
   1. App name
   2. What problem it solves and how
-  3. Optional background information</p>
+  3. Optional background information
 
 | Description | Screenshot | 
 |:------------:|:---------:| 
