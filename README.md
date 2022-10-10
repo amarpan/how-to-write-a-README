@@ -74,7 +74,7 @@ Complete the following steps prior to getting started:
 </div>
 
 ```html
-<div align="center">
+<div id="header" align="center">
 
   <img src="https://i.imgur.com/y2SPx4E.jpg" width="800" height="400">
 
