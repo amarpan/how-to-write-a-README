@@ -24,7 +24,7 @@ Sr. Instructional Associate
   [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
   <br>
   ![Stars](https://img.shields.io/github/stars/profpan396/how-to-write-a-readme?style=social)
-  ![](https://visitor-badge.glitch.me/badge?page_id=profpan396.how-to-write-a-readme) 
+  ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.how-to-write-a-readme)
   ![Forks](https://img.shields.io/github/forks/profpan396/how-to-write-a-readme?style=social)
   <br>
   ![Version](https://img.shields.io/badge/version-2.0-gold)
