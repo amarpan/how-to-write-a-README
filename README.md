@@ -95,8 +95,7 @@ Complete the following steps prior to getting started:
   <u>Requirements:</u> 
   1. App name
   2. What problem it solves and how
-  3. Background information
-  4. How to win (if app is a game)
+  3. How to win (if app is a game)
 
 | Description | Screenshot | 
 |:------------:|:---------:| 
