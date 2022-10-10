@@ -114,8 +114,7 @@ Complete the following steps prior to getting started:
   
   ### [CLICK TO DEMO](https://meetyourclassmates.herokuapp.com/)
   
-
-  <h5>Your Name</h5>
+  ##### Student McGee
 
   <a href="https://www.linkedin.com/in/username/" target="_blank">
   <img
