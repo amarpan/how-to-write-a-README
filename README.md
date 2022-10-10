@@ -108,7 +108,6 @@ Complete the following steps prior to getting started:
 </div>
 
   ```html
-  
   <div align="center">
 
   # meet your classmates
@@ -129,7 +128,6 @@ Complete the following steps prior to getting started:
   mini-surveys. By learning about others' backgrounds, previous experiences, and
   interests, an atmosphere of community is created that is conducive to higher
   levels of learning and success.
-
 ```
 
 ### Tips - Description            
