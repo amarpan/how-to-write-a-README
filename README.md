@@ -116,11 +116,9 @@ Complete the following steps prior to getting started:
   
   ##### Student McGee
 
-  <a href="https://www.linkedin.com/in/username/" target="_blank">
-  <img
-    src="https://img.shields.io/badge/-@username-blue?style=flat&logo=Linkedin&logoColor=white"
-  />
-  </a>
+  [![GitHub Badge](https://img.shields.io/badge/-@profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black)](https://www.github.com/profpan396/)
+  [![Twitter Badge](https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black)](https://twitter.com/profpan396)
+  [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
 
 <h1>:pencil: Description</h1>
 
