@@ -110,10 +110,10 @@ Complete the following steps prior to getting started:
   ```html
   <div align="center">
 
-  
   # meet your classmates
   
-  ### <a href="https://meetyourclassmates.herokuapp.com/">CLICK TO DEMO</a>
+  ### [CLICK TO DEMO](https://meetyourclassmates.herokuapp.com/)
+  
 
   <h5>Your Name</h5>
 
