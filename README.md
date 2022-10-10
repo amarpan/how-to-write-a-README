@@ -1,7 +1,7 @@
 <!-- 
 To Do:
 
-- Find Alternative Visitor Counter Badge
+- Find Alternative Visitor Counter Badge (Line 27)
 -->
 
 <div align="center" id="header">
