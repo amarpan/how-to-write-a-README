@@ -532,6 +532,15 @@ https://github.com/neilitalia/spacex-flights
 ### If you found this tutorial helpful, please consider giving it a :star:
 
 Copyright :copyright: 2021-2022 Pan You Can
+
+## More Tutorials from Professor Pan
+
+ [How to Create a GitHub Profile](https://github.com/profpan396/how-to-create-a-github-profile)
+
+ [How to Change Themes in Z Shell](https://github.com/profpan396/how-to-change-themes-in-zshell)
+
+ [How to Use the Vim Text Editor in the Terminal](https://github.com/profpan396/how-to-use-the-vim-text-editor)
+
  
  </div>
  </div>
