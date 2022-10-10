@@ -114,7 +114,7 @@ Complete the following steps prior to getting started:
   
   ### [CLICK TO DEMO](https://meetyourclassmates.herokuapp.com/)
   
-  ##### Student McGee
+  ##### Amar Pan
 
   [![GitHub Badge](https://img.shields.io/badge/-@profpan396-junglegreen?style=flat&logo=GitHub&logoColor=black)](https://www.github.com/profpan396/)
   [![Twitter Badge](https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black)](https://twitter.com/profpan396)
