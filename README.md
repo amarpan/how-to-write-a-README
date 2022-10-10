@@ -111,7 +111,7 @@ Complete the following steps prior to getting started:
   <div align="center">
 
   
-  # :school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel:
+  # MEET YOUR CLASSMATES
   
   ### <a href="https://meetyourclassmates.herokuapp.com/">CLICK TO DEMO</a>
 
