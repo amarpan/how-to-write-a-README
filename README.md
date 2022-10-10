@@ -110,7 +110,7 @@ Complete the following steps prior to getting started:
   ```html
   <div id="description" align="center">
 
-  # meet your classmates
+  # Meet Your Classmates
   
   ### [CLICK TO DEMO](https://meetyourclassmates.herokuapp.com/)
   
