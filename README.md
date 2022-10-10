@@ -111,7 +111,7 @@ Complete the following steps prior to getting started:
   <div align="center">
 
   
-  # MEET YOUR CLASSMATES
+  # meet your classmates
   
   ### <a href="https://meetyourclassmates.herokuapp.com/">CLICK TO DEMO</a>
 
