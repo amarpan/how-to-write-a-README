@@ -84,7 +84,7 @@ Complete the following steps prior to getting started:
 ### Tips - Header 
 
 1. Royalty-free stock photos can be found on [Pexels](https://www.pexels.com/), [Pixabay](https://pixabay.com/), or [Unsplash](https://unsplash.com/).                              
-2. Free photo editing tools like [Photopea](https://www.photopea.com/) can streamline the editing process with their ability to import images from URLs and export images directly into [imgur](https://imgur.com/). 
+2. Use a free photo editing tool like [Photopea](https://www.photopea.com/) to streamline the editing process by importing images from URLs and exporting them directly into [imgur](https://imgur.com/). 
 </div>
 
 <div id="description">
