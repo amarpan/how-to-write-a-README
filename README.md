@@ -77,8 +77,7 @@ Complete the following steps prior to getting started:
 <div align="center">
 
   <img src="https://i.imgur.com/y2SPx4E.jpg" width="800" height="400" />
-  <h1 align="center">plantrade</h1>
-  
+
 </div>
 ```
 
