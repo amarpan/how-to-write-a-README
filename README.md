@@ -76,7 +76,7 @@ Complete the following steps prior to getting started:
 ```html
 <div align="center">
 
-  <img src="https://i.imgur.com/y2SPx4E.jpg" width="800" height="400" />
+  <img src="https://i.imgur.com/y2SPx4E.jpg" width="800" height="400">
 
 </div>
 ```
