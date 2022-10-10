@@ -109,6 +109,7 @@ Complete the following steps prior to getting started:
 
   ```html
   <div align="center">
+    
   <h1>
   :school_satchel: :school: MEET YOUR CLASSMATES :school: :school_satchel:
   </h1>
