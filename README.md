@@ -120,7 +120,7 @@ Complete the following steps prior to getting started:
   [![Twitter Badge](https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black)](https://twitter.com/profpan396)
   [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
 
-<h1>:pencil: Description</h1>
+  ## :pencil: Description
 
 <p>
 Meet Your Classmates is an Instagram-clone and hub where students can get to
