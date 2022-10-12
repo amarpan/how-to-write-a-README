@@ -8,7 +8,7 @@ To Do:
  
 # How to Write a README
 
-**Written by [Amar Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** 
+**Written by [Professor Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** 
 <br>
 Sr. Instructional Associate
 <br>
