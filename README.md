@@ -480,12 +480,6 @@ git commit -m ":pencil2: fix typo on cart page"
  | [Sophia Best](https://www.linkedin.com/in/sophiabest/) | [ThreadUp](https://github.com/sophiabest/ecommerce) | General Assembly | Louiseville, Kentucky | Jun '22 
  | [Joba Aladeselu](https://www.linkedin.com/in/joba-a-ja11/) | [Oja](https://github.com/jobaa11/product-design-app) | General Assembly | Los Angeles, California| Sep '22 
 
-
- 
-
-
-
-
  </div>
 
 <!-- <details open>
