@@ -11,8 +11,6 @@ To Do:
 **Written by [Professor Pan, M.Ed.](https://www.linkedin.com/in/profpan396/)** 
 <br>
 Sr. Instructional Associate
-<br>
-<img src="images/GAfavicon.ico" width="18px" height="18px">
 </div>
   
 <div align="center" id="socialbuttons">
