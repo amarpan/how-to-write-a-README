@@ -514,7 +514,7 @@ https://github.com/neilitalia/spacex-flights
 - [x] Add technologies used buttons for everything learned in GA SEI
 - [x] Add 'Further Reading' section with links to Markdown tutorials and documentation -->
 
-<div align="center">
+<div id="contributions" align="center">
 
 ## Contributions
  
