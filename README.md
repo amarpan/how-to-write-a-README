@@ -524,6 +524,8 @@ https://github.com/neilitalia/spacex-flights
 | <a href="https://www.linkedin.com/in/skimalee/">Stephanie Lee, M.Ed. <br>🇰🇷</a> | Sr. Instructional Associate @ General Assembly <br><br> House Lee Founder | Support <br>:woman_teacher:
 | <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia</a> <br>:philippines:  | User Interface Developer @ Lennox International | UI <br> :paintbrush:
 | <a href="https://www.linkedin.com/in/olivia-emery/">Olivia Emery</a><br>:crown: | Technical Writer @ Google | Editing <br>:pen:
+| <a href="https://www.linkedin.com/in/isaac-ferraro/">Olivia Emery</a><br>:crown: | Technical Writer @ Google | Editing <br>:pen:
+
 
 ### If you found this tutorial helpful, please consider giving it a :star:
 
