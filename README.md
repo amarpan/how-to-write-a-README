@@ -472,7 +472,7 @@ git commit -m ":pencil2: fix typo on cart page"
  | [Dani Diaz](https://www.linkedin.com/in/danidiaz8/) <br> :peru: | [Dino Amigo](https://github.com/dani-diaz/dino-amigo2) | General Assembly | El Cerrito, California | Jun '22
  | [Illerdon Ballinger](https://www.linkedin.com/in/ilerdon-ballinger/) | [Turbo Disco](https://github.com/iballinger/turbo-octo-disco) | General Assembly | San Mateo, California | Jun '22 
  | [Joseph Caputo](https://www.linkedin.com/in/josephcaputo44/) | [Vinyl Stash](https://github.com/jcaputo44/vinyl-stash) | General Assembly | San Diego, California | Jun '22 
- | [Maroof Khan](https://www.linkedin.com/in/maroofkhn/) | [Crypto Sniffer](https://github.com/MaroofKhan1/CryptoSniffer) | General Assembly | Minneapolis, Minnesota| Jun '22 
+ | [Maroof Khan](https://www.linkedin.com/in/maroofkhn/) <br> :india: | [Crypto Sniffer](https://github.com/MaroofKhan1/CryptoSniffer) | General Assembly | Minneapolis, Minnesota| Jun '22 
  | [Matthew Suzuki](https://www.linkedin.com/in/mattsuzuki/) | [Community Market](https://github.com/mattsuzuki/community-market) | General Assembly | Los Angeles, CA | Jun '22 
  | [Parker Samuels](https://www.linkedin.com/in/parkersamuels/) | [Checkers](https://github.com/prkrsamuels7/checkers) | General Assembly | Detroit, Michigan | Jun '22 
  | [Roger Davila](https://www.linkedin.com/in/roger-davila/) | [Solitaire](https://github.com/Toastito/solitaire) | General Assembly | San Francisco, California | Jun '22 
