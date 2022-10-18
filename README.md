@@ -390,16 +390,9 @@ A screenshot of your app's landing page and any other screenshots of interest.
 |:------------:|:---------:| 
 | <h3> **Example Final Product** </h3> | <img src="./images/GOOD-FULL-README.png"> |
 
-<div>
-<hr >
-<div align="center">
+<div id="hall-of-fame" align="center">
 
 ## README <br> HALL OF FAME <br> :trophy::star2::trophy:
-</div>
-</details>
- </h5>
-
-<div align="center">
 
  | Designer | Project | School | Location | Date
  |:--------:|:-------:|:------:|:--------:|:---:
