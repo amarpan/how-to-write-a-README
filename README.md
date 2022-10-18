@@ -346,7 +346,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 1. Use numbered lists as opposed to lengthy paragraphs to make sure this section is easily readable.                             
 2. Put your links in more drop-down menus using `<details open>` and `<summary>`. 
-3. Try to choose something simple and memorable when choosing your Heroku URL / link name.
+3. Try to choose something simple and memorable when choosing your URL / link name.
 
 <h2>Next Steps</h2>
 
