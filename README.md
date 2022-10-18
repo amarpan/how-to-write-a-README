@@ -543,31 +543,3 @@ Copyright :copyright: 2021-2022 Pan You Can
  
  </div>
  </div>
-  
-<!-- <details>
-<summary>Amar Panjwani - GA SEI <br> Nov '21 - Los Angeles, CA (Apple Valley) - Tech Support at Summit Medical</summary>
-      <h4>
-      Conception, Writing, Screenshots, Organization, Code Instructions / Explanations, Search Engine Optimization, Design, Social Media Preview Banner Creation, Interviewing Other Engineers
-   </h4>
-   </details>
-
-<details>
-<summary> (McKinney / Frisco) </summary>
-<h4> UX / UI, Code Samples, Header Banner, Emoji Commits, Carousel Horizontally Scrolling Images Slider</h4>
-</details>
-
-<details>
-<summary>Olivia Emery - GA SEI Oct '15 - San Francisco, CA (Mountain View) - Technical Writer @ Google</summary>
-<h4> Editing, Suggestions for Clarity of Writing</h4>
-</details>
-
-
-<details>
-<summary>Isaac Ferraro - GA SEI Nov '21 - Seattle, WA (Bremerton)   </summary>
-<h4> Suggestions, Proofreading, Editing, Quality Assurance </h4>
-</details>
-
-<details>
-<summary>Miguel Urena - GA SEI Nov '21 - Los Angeles, CA (Anaheim)   </summary>
-<h4> Suggestions, Graphic Design, Social Media Rich Preview Banner, Quality Assurance </h4>
-</details> -->
