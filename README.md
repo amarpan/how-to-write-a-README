@@ -393,7 +393,8 @@ A screenshot of your app's landing page and any other screenshots of interest.
 <div>
 <hr >
 <div align="center">
-<h2 align="center"> README <br> HALL OF FAME <br> :trophy::star2::trophy: </h2>
+
+## README <br> HALL OF FAME <br> :trophy::star2::trophy:
 </div>
 </details>
  </h5>
