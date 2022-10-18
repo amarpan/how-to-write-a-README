@@ -55,7 +55,7 @@ Complete the following steps prior to getting started:
 
 </div>
 
-<div id="header">
+<div id="header-1">
 
 ## Header
 
