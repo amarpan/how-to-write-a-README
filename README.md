@@ -540,5 +540,4 @@ Copyright :copyright: 2021-2022 Pan You Can
 
  [How to Use the Vim Text Editor in the Terminal](https://github.com/profpan396/how-to-use-the-vim-text-editor)
 
- 
  </div>
