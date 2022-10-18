@@ -495,24 +495,6 @@ https://github.com/neilitalia/spacex-flights
 
 
 </h4> -->
-
-<div align="center">
-
-
-
- <!-- ## Future Updates 
-
- </div>
- </div>
-
-- [x] Add contributions
-- [x] Add examples from other GA students
-- [x] Add code samples
-- [x] Add horizontally-scrolling images how-to
-- [ ] Add table of contents
-- [x] Add technologies used buttons for everything learned in GA SEI
-- [x] Add 'Further Reading' section with links to Markdown tutorials and documentation -->
-
 <div id="footer" align="center">
 
 ## Contributions
