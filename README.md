@@ -338,7 +338,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 | Description | Screenshot | 
 |:------------:|:---------:| 
-| <h3> **Example Next Steps** </h3> | <img src="./images/GOOD-NEXT-STEPS-SINGLE.png"> |
+| <h3> **Example Upcoming Features** </h3> | <img src="./images/GOOD-NEXT-STEPS-SINGLE.png"> |
 
 </div>
 
