@@ -113,7 +113,6 @@ Complete the following steps prior to getting started:
   
   ##### Created by Amar Pan
 
-  [![Twitter Badge](https://img.shields.io/badge/-@profpan396-skyblue?style=flat&logo=Twitter&logoColor=black)](https://twitter.com/profpan396)
   [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
 
   ## :pencil: Description
