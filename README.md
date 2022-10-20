@@ -349,7 +349,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 </div>
 
 ```markdown
-## :fast_forward: Next Steps
+## :fast_forward: Upcoming Features
 
 ### Upcoming Features
 
