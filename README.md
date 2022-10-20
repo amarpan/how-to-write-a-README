@@ -287,7 +287,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 </div>
 
 ```html
-<h2>:fire: Getting Started</h2>
+## :fire: Getting Started
 
 <h3>:calling: Instructions</h3>
 <details open>
