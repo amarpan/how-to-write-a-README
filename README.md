@@ -135,6 +135,7 @@ Complete the following steps prior to getting started:
     a. Visit the following resource for a full list of available GitHub emojis:  
 
       [GitHub Emojis Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md). 
+      
 3. In version 1.0 of this tutorial, I suggested to add emojis around your `h1` tag. However, this is bad practice for Search Engine Optimization (SEO). 
 
 #### **<u>Note</u>**: 
