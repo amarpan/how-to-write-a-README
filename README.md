@@ -390,7 +390,6 @@ A screenshot of your app's landing page and any other screenshots of interest.
  | [Joba Aladeselu](https://www.linkedin.com/in/joba-a-ja11/) | [Oja](https://github.com/jobaa11/product-design-app) | General Assembly | Los Angeles, California| Sep '22 
  | [Alex Houston](https://www.linkedin.com/in/alexehouston/) | [Sailor Moon Concentration](https://github.com/alexehouston/concentration) | General Assembly | Houston, Texas, USA | Oct '22 
 
-
 </div>
 
 <div id="footer" align="center">
