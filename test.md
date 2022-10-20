@@ -9,14 +9,11 @@
     2. Click on "Add Survey" to post your responses so others may see them.
     <br>
     3. Click on the "X" in the bottom-right corner to delete a post.
-  </ol>
 </details>
 
 <details>
   <summary>How to Interact With Others' Posts</summary>
-  <ol>
-    <li>
-      Posts may be "liked" or "disliked" by clicking on the thumbs up or down
+      1. Posts may be "liked" or "disliked" by clicking on the thumbs up or down
       button on their card.
     </li>
     <li>
