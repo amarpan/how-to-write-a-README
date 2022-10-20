@@ -146,8 +146,6 @@ Install the following extension to see GitHub emojis in VS Code:
 
 </div>
 
-<hr>
-
 <div id="screenshots">
 
 ## Screenshots
