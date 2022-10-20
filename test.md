@@ -13,14 +13,11 @@
 
 <details>
   <summary>How to Interact With Others' Posts</summary>
-      1. Posts may be "liked" or "disliked" by clicking on the thumbs up or down
-      button on their card.
-    </li>
-    <li>
-      To reveal the author of a post, hover over the "Who could it possibly be?"
+    1. Posts may be "liked" or "disliked" by clicking on the thumbs up or down button on their card.
+    <br>
+    2. To reveal the author of a post, hover over the "Who could it possibly be?"
       button.
-    </li>
-    <li>
+   
       To see more posts by the same user, click on the revealed username and
       profile picture.
     </li>
