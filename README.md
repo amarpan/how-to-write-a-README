@@ -281,7 +281,8 @@ A screenshot of your app's landing page and any other screenshots of interest.
 | <h3> **Example Getting Started** </h3> | <img src="./images/GOOD-GETTING-STARTED-SINGLE.png"> |
 
 <div align="center">
-<h3><strong>Copy and paste the following:</strong></h3>
+
+### **Copy and paste the following:**
 </div>
 
 ```html
