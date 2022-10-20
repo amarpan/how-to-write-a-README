@@ -425,7 +425,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 Copyright :copyright: 2021-2022 Pan You Can
 
-## More Tutorials from Professor Pan
+## More Tutorials from Amar Pan
 
  [How to Create a GitHub Profile](https://github.com/profpan396/how-to-create-a-github-profile)
 
