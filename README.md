@@ -331,7 +331,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 2. Put your links in more drop-down menus using `<details open>` and `<summary>`. 
 3. Try to choose something simple and memorable when choosing your URL / link name.
 
-<h2>Next Steps</h2>
+## Upcoming Features
 
 **<u>Requirements:</u>**
 1. Planned future enhancements (icebox items)
