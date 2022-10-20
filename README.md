@@ -402,7 +402,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 | <a href="https://www.linkedin.com/in/profpan396"> Amar Pan, M.Ed. <br> :india: </a> | Sr. Instructional Associate @ General Assembly <br><br> Technical Writer @ <a href="https://www.linode.com/docs/guides/"> Linode </a>  <br><br> House Pan Founder | Writing <br> :pencil:
 | <a href="https://www.linkedin.com/in/mariorrecinos/"> Mario Recinos <br> :guatemala: </a> | Sr. Instructional Associate @ General Assembly <br><br> Coach @ <a href="https://www.careerkarma.com"> Career Karma </a> <br><br> House Rec Founder | Outreach <br> :teacher:
 | <a href="https://www.linkedin.com/in/skimalee/"> Stephanie Lee, M.Ed. <br> 🇰🇷 </a> | Sr. Instructional Associate @ General Assembly <br><br> House Lee Founder | Support <br> :woman_teacher:
-| <a href="https://www.linkedin.com/in/neilitalia/">Neil Italia <br>:philippines: </a> | User Interface Developer @ Lennox International | UI <br> :paintbrush:
+| <a href="https://www.linkedin.com/in/neilitalia/"> Neil Italia <br>:philippines: </a> | User Interface Developer @ Lennox International | UI <br> :paintbrush:
 | <a href="https://www.linkedin.com/in/olivia-emery/">Olivia Emery <br> :crown: </a> | Technical Writer @ Google | Editing <br>:pen:
 | <a href="https://www.linkedin.com/in/isaac-ferraro/">Isaac Ferraro <br> :beetle: </a> | Front-End Developer @ Helium | Quality Assurance <br> :ballot_box_with_check:
 
