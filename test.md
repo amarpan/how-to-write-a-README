@@ -21,8 +21,7 @@
 
 </details>
 
-<details>
-  <h3>:link: Links</h3>
+<details open>
   <summary>Trello Board</summary>
   <a href="https://trello.com/b/x4ViComX/meet-your-classmates-project-4"
     >https://trello.com/b/x4ViComX/meet-your-classmates-project-4</a
