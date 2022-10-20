@@ -289,7 +289,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 ```html
 ## :fire: Getting Started
 
-<h3>:calling: Instructions</h3>
+### :calling: Instructions
 <details open>
   <summary>How to Create a Post</summary>
   <ol>
