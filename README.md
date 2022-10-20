@@ -358,7 +358,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 - [ ] ~~Add Tinder API Integration~~
 ```
 
-### Tips - Next Steps
+### Tips - Upcoming Features
 
 1. Avoid using the word `icebox`, as most non-technical users probably won't know what this means.                            
 2. Use bullet points rather than paragraphs to make it immediately clear what each new feature would be. 
