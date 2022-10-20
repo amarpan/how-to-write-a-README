@@ -290,6 +290,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 ## :fire: Getting Started
 
 ### :calling: Instructions
+
 <details open>
   <summary>How to Create a Post</summary>
   <ol>
