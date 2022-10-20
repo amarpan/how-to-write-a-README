@@ -357,8 +357,6 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 - [ ] Add comment functionality on posts to encourage discussion
 
-- [ ] Add edit and update functionality for a user's profile
-
 - [ ] ~~Add Tinder API Integration~~
 ```
 
