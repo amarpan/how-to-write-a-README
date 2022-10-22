@@ -355,7 +355,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 - [:x:] Add comment functionality on posts to encourage discussion
 
-- [ ] ~~Add Tinder API Integration~~
+- [:x:] ~~Add Tinder API Integration~~
 ```
 
 ### Tips - Upcoming Features
