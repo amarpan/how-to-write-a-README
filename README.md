@@ -289,7 +289,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 <details open>
   <summary>Deployed Link (Heroku)</summary>
   <a href="https://meetyourclassmates.herokuapp.com/"
-    >https://meetyourclassmates.herokuapp.com/</a
+    > https://meetyourclassmates.herokuapp.com/</a
   >
 </details>
 ```
