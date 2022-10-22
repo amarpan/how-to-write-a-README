@@ -32,7 +32,7 @@ Sr. Instructional Associate
 
 <div align="center" id="intro">
 
-This tutorial describes how to write a coding bootcamp project README in HTML and GitHub Flavored Markdown in 30 minutes or less.
+This tutorial describes how to write a coding bootcamp project README in GitHub Flavored Markdown and HTML in 30 minutes or less.
 
 </div>
 
