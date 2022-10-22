@@ -345,7 +345,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
  | Designer | Project | School | Location | Date
  |:--------:|:-------:|:------:|:--------:|:---:
- | [Nisha Yadav](https://www.linkedin.com/in/nisha-yadav09/) <br> :india: | [Minesweeper](https://github.com/nisha-yadav09/minesweeper) | General Assembly | Denver, Colorado | Apr '22 
+ | [Nisha Yadav](https://www.linkedin.com/in/nisha-yadav09/) <br> :india: | [Minesweeper](https://github.com/nisha-yadav09/minesweeper) | General Assembly | Denver, Colorado, USA | Apr '22 
  | [Ronald Portalatin Jr.](https://www.linkedin.com/in/ronaldportalatinjr/) | [Blackjack](https://github.com/coltonsaywhatt/GA-Blackjack-Project) | General Assembly | Lakeland, Florida | Apr '22 
  | [Jordan-Christopher Garcia](https://www.linkedin.com/in/jctgarcia20/) | [Shoe Collector](https://github.com/jctgarcia20/shoe-collector) | General Assembly | Seattle, Washington | May '22 
  | [Stevie Militello](https://www.linkedin.com/in/stevie-militello/) | [Tavern Brawl](https://github.com/steviemilitello/tavern-brawl) | General Assembly | Boston, Massachusetts | May '22 
