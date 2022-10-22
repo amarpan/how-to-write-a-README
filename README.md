@@ -269,7 +269,6 @@ A screenshot of your app's landing page and any other screenshots of interest.
 <details open>
   <summary> How to Create a Post </summary>
     1. Type in your answers to each of the 3 randomly-generated mini-survey questions.
-    <br>
     2. Click on "Add Survey" to post your responses so others may see them.
     <br>
     3. Click on the "X" in the bottom-right corner to delete a post.
