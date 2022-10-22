@@ -235,9 +235,9 @@ A screenshot of your app's landing page and any other screenshots of interest.
 ### Tips - Technologies Used
 
 1. Additional badges of this style can be found at the following resource: 
-- [Shields.io Website](https://shields.io/)                                        
+  - [Shields.io Website](https://shields.io/)                                        
 2. Alternative badges of a more colorful style can be found at the following resource:
-- [Badges 4 README](https://github.com/alexandresanlim/Badges4-README.md-Profile) 
+  - [Badges 4 README](https://github.com/alexandresanlim/Badges4-README.md-Profile) 
 
 </div>
 
@@ -246,7 +246,6 @@ A screenshot of your app's landing page and any other screenshots of interest.
 **<u>Requirements</u>**: 
 1. A link to the deployed app
 2. A link to the Trello board used for the project's planning that includes:
-
     - user stories
     - wireframes
     - ERD
