@@ -378,7 +378,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 ### If you found this tutorial helpful, please consider giving it a :star:
 
-Copyright :copyright: 2021-2022 Pan You Can
+Copyright :copyright: 2021-2022 <br> Pan You Can
 
 ## More Tutorials from Amar Pan
 
