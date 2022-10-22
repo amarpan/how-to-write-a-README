@@ -163,36 +163,6 @@ Install the following extension to see GitHub emojis in VS Code:
 </div>
 
 ```html
-<details>
-  <summary>:bar_chart: ERD</summary>
-
-  | Description | Screenshot | 
-  |:------------:|-----------| 
-  | <h3>ERD</h3> | <img
-    src="https://github.com/profpan396/meet-your-classmates/raw/main/public/Screenshots/ERD.MYC.png"
-    width="700"
-  /> |
-
-</details>
-
-<details>
-  <summary>:art: Wireframes</summary>
-
-  |    Description    | Screenshot | 
-  |:-----------------:|-------------| 
-  | <h3>Home Page</h3>| <img
-    src="https://github.com/profpan396/meet-your-classmates/raw/main/public/Screenshots/Homepage.Wireframe.MYC.png"
-    width="700"
-  /> |
-  | <h3 align="center">Profile Page</h3> | <img
-    src="https://github.com/profpan396/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.Wireframe.MYC.png"
-    width="700"
-  /> |
-</details>
-
-<details open>
-  <summary>:gear: Functionality</summary>
-
   |   Description | Screenshot | 
   |:-------------:| -----------|
   | <h3>Feed Page</h3> | <img
