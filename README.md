@@ -323,7 +323,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 
 - [:trident:] Animations on sliding buttons
 
-- [:x:] Add comment functionality on posts to encourage discussion
+- [:x:] Comment functionality on posts to encourage discussion
 
 - [:x:] ~~Add Tinder API Integration~~
 ```
