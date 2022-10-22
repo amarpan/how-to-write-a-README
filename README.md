@@ -42,7 +42,7 @@ This tutorial describes how to write a coding bootcamp project README in HTML an
 
 Complete the following steps prior to getting started:
 
-### 1. Visit the README gold standard:
+### 1. Visit the README gold standards:
 [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates)
 
 ### 2. Complete the following Introduction to Markdown tutorial (10 mins):
