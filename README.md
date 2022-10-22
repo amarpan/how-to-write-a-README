@@ -336,7 +336,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 ## The Final Product
 
 | Description | Screenshot | 
-|:------------:|:---------:| 
+|:-----------:|:---------:| 
 | <h3> **Example Final Product** </h3> | <img src="./images/GOOD-FULL-README.png"> |
 
 <div id="hall-of-fame" align="center">
