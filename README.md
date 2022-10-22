@@ -53,7 +53,7 @@ Complete the following steps prior to getting started:
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
 
 ### 3. Read (skim) through the official GitHub Flavored Markdown documentation:
-[GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
+- [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
 </div>
 
