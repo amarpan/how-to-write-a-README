@@ -90,7 +90,7 @@
 
   <u>Requirements:</u> 
   1. App name
-  2. What problem it solves and how
+  2. What problem the app solves and how
   3. How to win (if app is a game)
 
   | Description | Screenshot | 
