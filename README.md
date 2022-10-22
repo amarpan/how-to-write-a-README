@@ -242,7 +242,7 @@
   2. A link to the Trello board used for the project's planning that includes:
       - a. user stories
       - b. wireframes
-      - c. ERD
+      - c. entity-relationship diagram (ERD)
 
 | Description | Screenshot | 
 |:------------:|:---------:| 
