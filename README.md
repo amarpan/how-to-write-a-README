@@ -343,7 +343,7 @@
   | [Ronald Portalatin Jr.](https://www.linkedin.com/in/ronaldportalatinjr/) | [Blackjack](https://github.com/coltonsaywhatt/GA-Blackjack-Project) | General Assembly | Lakeland, Florida, USA | Apr '22 
   | [Jordan-Christopher Garcia](https://www.linkedin.com/in/jctgarcia20/) | [Shoe Collector](https://github.com/jctgarcia20/shoe-collector) | General Assembly | Seattle, Washington, USA | May '22 
   | [Stevie Militello](https://www.linkedin.com/in/stevie-militello/) | [Tavern Brawl](https://github.com/steviemilitello/tavern-brawl) | General Assembly | Boston, Massachusetts, USA | May '22 
-  | [Dani Diaz](https://www.linkedin.com/in/danidiaz8/) <br> :peru: | [Dino Amigo](https://github.com/dani-diaz/dino-amigo2) | General Assembly | El Cerrito, California, USA | Jun '22
+  | [Dani Diaz](https://www.linkedin.com/in/danidiaz8/) <br> :peru: | [Dino Amigo](https://github.com/dani-diaz/dino-amigo2) | General Assembly | San Francisco, California, USA | Jun '22
   | [Illerdon Ballinger](https://www.linkedin.com/in/ilerdon-ballinger/) | [Turbo Disco](https://github.com/iballinger/turbo-octo-disco) | General Assembly | San Mateo, California, USA | Jun '22 
   | [Joseph Caputo](https://www.linkedin.com/in/josephcaputo44/) | [Vinyl Stash](https://github.com/jcaputo44/vinyl-stash) | General Assembly | San Diego, California, USA | Jun '22 
   | [Maroof Khan](https://www.linkedin.com/in/maroofkhn/) <br> :india: | [Crypto Sniffer](https://github.com/MaroofKhan1/CryptoSniffer) | General Assembly | Minneapolis, Minnesota, USA | Jun '22 
