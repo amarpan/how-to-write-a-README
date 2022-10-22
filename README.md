@@ -197,7 +197,7 @@
 
   </div>
 
-  ```markdown
+```markdown
   ## :computer: Technologies Used
   A screenshot of your app's landing page and any other screenshots of interest.
 
