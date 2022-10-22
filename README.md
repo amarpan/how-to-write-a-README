@@ -272,7 +272,7 @@
 </details>
 
 <details open>
-  <summary>Trello Board</summary>
+  <summary> Trello Board </summary>
   <a href="https://trello.com/b/x4ViComX/meet-your-classmates-project-4"
     > https://trello.com/b/x4ViComX/meet-your-classmates-project-4 </a
   >
