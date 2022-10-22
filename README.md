@@ -102,7 +102,7 @@
 
   </div>
 
-    ```html
+  ```html
     <div id="description" align="center">
 
     # Meet Your Classmates
@@ -121,6 +121,7 @@
     levels of learning and success.
 
     </div>
+  ```
   
   ### Tips - Description            
                     
