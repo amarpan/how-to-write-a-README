@@ -167,6 +167,9 @@ Install the following extension to see GitHub emojis in VS Code:
 </div>
 
 ```html
+
+  ## :camera_flash: Screenshots 
+
   |   Description | Screenshot | 
   |:-------------:| -----------|
   | <h3>Feed Page</h3> | <img
@@ -177,7 +180,6 @@ Install the following extension to see GitHub emojis in VS Code:
     src="https://github.com/profpan396/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.png"
     width="700"
   /> |
-</details>
 ```
 ### Tips - Screenshots 
 
