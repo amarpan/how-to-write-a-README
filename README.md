@@ -321,7 +321,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 ```markdown
 ## :fast_forward: Upcoming Features
 
-- [:trident:] Add gifs to animated sliding buttons
+- [:trident:] Animations on sliding buttons
 
 - [:x:] Add comment functionality on posts to encourage discussion
 
