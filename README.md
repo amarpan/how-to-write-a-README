@@ -111,7 +111,7 @@ Complete the following steps prior to getting started:
   
   ### [CLICK TO DEMO](https://meetyourclassmates.herokuapp.com/)
   
-  ##### Created by Amar Pan
+  ##### Amar Pan
 
   [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
 
