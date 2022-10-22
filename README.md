@@ -290,7 +290,7 @@
 
 1. Use numbered lists as opposed to lengthy paragraphs to make sure this section is easily readable.                             
 2. Put your links in more drop-down menus using `<details open>` and `<summary>`. 
-3. Try to choose something simple and memorable when choosing your URL / link name.
+3. Try to choose something simple yet memorable when choosing your URL / link name.
 
 ## Upcoming Features
 
