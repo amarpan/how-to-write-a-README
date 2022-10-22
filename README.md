@@ -1,9 +1,3 @@
-<!-- 
-To Do:
-
-- Convert code blocks to markdown (especially lists)
-
--->
 
 <div align="center" id="header">
  
