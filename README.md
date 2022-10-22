@@ -43,10 +43,10 @@ This tutorial describes how to write a coding bootcamp project README in HTML an
 Complete the following steps prior to getting started:
 
 ### 1. Visit the README gold standards:
-- [Simon](https://github.com/profpan396/simon-memory-game)
-- [Review My Project](https://github.com/profpan396/review-my-project)
-- [GA HW Tracker](https://github.com/profpan396/ga-hw-tracker)
-- [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates)
+- [P1 Simon](https://github.com/profpan396/simon-memory-game)
+- [P2 Review My Project](https://github.com/profpan396/review-my-project)
+- [P3 GA HW Tracker](https://github.com/profpan396/ga-hw-tracker)
+- [P4 Meet Your Classmates](https://github.com/profpan396/meet-your-classmates)
 
 
 ### 2. Complete the following Introduction to Markdown tutorial (10 mins):
