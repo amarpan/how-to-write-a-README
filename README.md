@@ -279,7 +279,7 @@
 </details>
 
 <details open>
-  <summary>Deployed Link (Heroku)</summary>
+  <summary> Deployed Link (Heroku) </summary>
   <a href="https://meetyourclassmates.herokuapp.com/"
     > https://meetyourclassmates.herokuapp.com/ </a
   >
