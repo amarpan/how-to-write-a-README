@@ -282,7 +282,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 <details open>
   <summary>Trello Board</summary>
   <a href="https://trello.com/b/x4ViComX/meet-your-classmates-project-4"
-    >https://trello.com/b/x4ViComX/meet-your-classmates-project-4</a
+    > https://trello.com/b/x4ViComX/meet-your-classmates-project-4</a
   >
 </details>
 
