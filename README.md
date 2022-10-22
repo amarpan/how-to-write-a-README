@@ -323,7 +323,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 </div>
 
 ```markdown
-## :fast_forward: Upcoming Features
+## :satellite: Upcoming Features
 
 - [:star:] Animations on sliding buttons
 
