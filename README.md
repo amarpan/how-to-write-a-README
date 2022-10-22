@@ -45,7 +45,7 @@ Complete the following steps prior to getting started:
 ### 1. Visit the README gold standards:
 - [Simon](https://github.com/profpan396/simon-memory-game)
 - [Review My Project](https://github.com/profpan396/review-my-project)
-- [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates)
+- [GA HW Tracker](https://github.com/profpan396/meet-your-classmates)
 - [Meet Your Classmates](https://github.com/profpan396/meet-your-classmates)
 
 
