@@ -331,7 +331,8 @@ A screenshot of your app's landing page and any other screenshots of interest.
 ### Tips - Upcoming Features
 
 1. Avoid using the word `icebox`, as most non-technical users probably won't know what this means.                            
-2. Use bullet points rather than paragraphs to make it immediately clear what each new feature would be. 
+2. Use bullet points rather than paragraphs to make it immediately clear what each new feature would be.
+3. Just for fun, add an easter egg joke using double tildes (~~) for a crossout 
 
 ## The Final Product
 
