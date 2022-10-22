@@ -406,7 +406,7 @@ A screenshot of your app's landing page and any other screenshots of interest.
 | <a href="https://www.linkedin.com/in/olivia-emery/"> Olivia Emery <br> :crown: </a> | Technical Writer @ Google | Editing <br> :pen:
 | <a href="https://www.linkedin.com/in/isaac-ferraro/"> Isaac Ferraro <br> :beetle: </a> | Front-End Developer @ Helium | Quality Assurance <br> :ballot_box_with_check:
 
-### If you found this tutorial helpful, please give it a :star:
+### If you found this tutorial helpful, please consider giving it a :star:
 
 Copyright :copyright: 2021-2022 Pan You Can
 
