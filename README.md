@@ -257,8 +257,6 @@
 ```html
 ## :fire: Getting Started
 
-### :calling: Instructions
-
 <details open>
   <summary> How to Create a Post </summary>
     1. Type in your answers to each of the 3 randomly-generated mini-survey questions.
