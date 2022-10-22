@@ -240,9 +240,9 @@
   **<u>Requirements</u>**: 
   1. A link to the deployed app
   2. A link to the Trello board used for the project's planning that includes:
-    - user stories
-    - wireframes
-    - ERD
+      - a. user stories
+      - b. wireframes
+      - c. ERD
 
 | Description | Screenshot | 
 |:------------:|:---------:| 
