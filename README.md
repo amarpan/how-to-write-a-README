@@ -56,7 +56,8 @@
   ## Header
 
   <u>Requirements:</u> 
-    1. A banner representing your app
+
+  1. A banner representing your app
 
   | Description | Screenshot | 
   |:-----------:|:----------:| 
