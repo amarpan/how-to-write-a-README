@@ -26,7 +26,7 @@ Sr. Instructional Associate
   <br>
   ![Version](https://img.shields.io/badge/version-2.0-gold)
 
-  ### If you find this tutorial helpful, please give it a :star:
+  ### If you find this tutorial helpful, please consider giving it a :star:
 
 </div>
 
