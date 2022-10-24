@@ -26,7 +26,7 @@
 
   <div align="center" id="intro">
 
-  This tutorial describes how to write a coding bootcamp project README in GitHub Flavored Markdown and HTML in 30 minutes or less.
+  This tutorial describes how to write a coding bootcamp project README in Markdown and HTML in 30 minutes.
 
   </div>
 
