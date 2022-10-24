@@ -26,7 +26,7 @@
 
   <div align="center" id="intro">
 
-  This tutorial describes how to write a coding bootcamp project README in Markdown and HTML in 30 minutes.
+  This tutorial describes how to write a coding bootcamp project README in Markdown and HTML in under 30 minutes.
 
   </div>
 
