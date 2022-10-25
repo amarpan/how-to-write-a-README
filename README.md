@@ -36,7 +36,7 @@
 
   Complete the following steps prior to getting started:
 
-  ### 1. Star this repo to bookmark it. 
+  ### 1. Star this repo in order to save it to your bookmarks. 
   
   ### 2. Visit the README gold standards:
   - [P1 Simon](https://github.com/profpan396/simon-memory-game)
