@@ -36,6 +36,8 @@
 
   Complete the following steps prior to getting started:
 
+  ### 1. Star this repo to bookmark it. 
+  
   ### 1. Visit the README gold standards:
   - [P1 Simon](https://github.com/profpan396/simon-memory-game)
   - [P2 Review My Project](https://github.com/profpan396/review-my-project)
