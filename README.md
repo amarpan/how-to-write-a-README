@@ -48,7 +48,7 @@
   ### 3. Complete the following Introduction to Markdown tutorial (10 mins):
   - [Markdown Tutorial](https://www.markdowntutorial.com/)
 
-  ### 3. Read (skim) through the official GitHub Flavored Markdown documentation:
+  ### 4. Read (skim) through the official GitHub Flavored Markdown documentation:
   - [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
   </div>
