@@ -45,7 +45,7 @@
   - [P4 Meet Your Classmates](https://github.com/profpan396/meet-your-classmates)
 
 
-  ### 2. Complete the following Introduction to Markdown tutorial (10 mins):
+  ### 3. Complete the following Introduction to Markdown tutorial (10 mins):
   - [Markdown Tutorial](https://www.markdowntutorial.com/)
 
   ### 3. Read (skim) through the official GitHub Flavored Markdown documentation:
