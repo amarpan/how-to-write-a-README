@@ -380,7 +380,7 @@
 
   Copyright :copyright: 2021-2022 <br> Pan You Can
 
-  ## More Tutorials from Amar Pan
+  ## More Tutorials from Amar Panjwani
 
   [How to Create a GitHub Profile](https://github.com/amarpan/how-to-create-a-github-profile)
 
