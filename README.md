@@ -1,9 +1,13 @@
 <section id="header">
   <div align="center" id="header">
+
+  <h1>Header 1</h1>
+
+  # Header 1
  
   # How to Write a README
 
-  **Written by [Amar Pan](https://www.linkedin.com/in/profpan396/)** 
+  **Written by [Amar Pan](https://www.linkedin.com/in/amarpan/)**
   <br>
   Sr. Instructional Associate
   </div>
