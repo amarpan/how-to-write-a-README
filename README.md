@@ -7,7 +7,7 @@
  
   # How to Write a README
 
-  **Written by [Amar Pan](https://www.linkedin.com/in/amarpan/)**
+  **Written by [Amar Panjwani](https://www.linkedin.com/in/amarpan/)**
   <br>
   Instructional Associate
   </div>
