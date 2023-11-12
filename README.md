@@ -43,10 +43,10 @@
   ### 1. Star this repo in order to save it to your bookmarks. 
   
   ### 2. Visit the README gold standards:
-  - [P1 Simon](https://github.com/profpan396/simon-memory-game)
-  - [P2 Review My Project](https://github.com/profpan396/review-my-project)
-  - [P3 GA HW Tracker](https://github.com/profpan396/ga-hw-tracker)
-  - [P4 Meet Your Classmates](https://github.com/profpan396/meet-your-classmates)
+  - [P1 Simon](https://github.com/amarpan/simon-memory-game)
+  - [P2 Review My Project](https://github.com/amarpan/review-my-project)
+  - [P3 GA HW Tracker](https://github.com/amarpan/ga-hw-tracker)
+  - [P4 Meet Your Classmates](https://github.com/amarpan/meet-your-classmates)
 
 
   ### 3. Complete the following Introduction to Markdown tutorial (10 mins):
@@ -118,7 +118,7 @@
   
     ##### Amar Pan
 
-    [![LinkedIn Badge](https://img.shields.io/badge/-@profpan396-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/profpan396/)
+    [![LinkedIn Badge](https://img.shields.io/badge/-@amarpan-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/amarpan/)
 
     ## :pencil: Description
 
@@ -172,11 +172,11 @@
     |   Description | Screenshot | 
     |:-------------:| -----------|
     | <h3>Feed Page</h3> | <img
-      src="https://github.com/profpan396/meet-your-classmates/blob/main/public/Screenshots/FeedPage.png?raw=true"
+      src="https://github.com/amarpan/meet-your-classmates/blob/main/public/Screenshots/FeedPage.png?raw=true"
       width="700"
     /> |
     | <h3 align="center">Profile Page</h3> | <img
-    src="https://github.com/profpan396/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.png"
+    src="https://github.com/amarpan/meet-your-classmates/raw/main/public/Screenshots/ProfilePage.png"
     width="700"
     /> |
   ```
@@ -369,7 +369,7 @@
   |  Name | Title | Contribution |
   |:------|:-----:|:------------:|
   | <a href="https://www.linkedin.com/in/jimclarkfullstack/"> Jim Clarke <br> :goat: </a> | Distinguished Global Lead Instructor @ General Assembly | Teaching <br> :man_teacher:
-  | <a href="https://www.linkedin.com/in/profpan396"> Amar Pan, M.Ed. <br> :india: </a> | Sr. Instructional Associate @ General Assembly <br><br> Technical Writer @ <a href="https://www.linode.com/docs/guides/"> Linode </a>  <br><br> House Pan Founder | Writing <br> :pencil:
+  | <a href="https://www.linkedin.com/in/amarpan"> Amar Pan, M.Ed. <br> :india: </a> | Sr. Instructional Associate @ General Assembly <br><br> Technical Writer @ <a href="https://www.linode.com/docs/guides/"> Linode </a>  <br><br> House Pan Founder | Writing <br> :pencil:
   | <a href="https://www.linkedin.com/in/skimalee/"> Stephanie Lee, M.Ed. <br> 🇰🇷 </a> | Sr. Instructional Associate @ General Assembly <br><br> House Lee Founder | Support <br> :woman_teacher:
   | <a href="https://www.linkedin.com/in/mariorrecinos/"> Mario Recinos <br> :guatemala: </a> | Sr. Instructional Associate @ General Assembly <br><br> Coach @ <a href="https://www.careerkarma.com"> Career Karma </a> <br><br> House Rec Founder | Outreach <br> :teacher:
   | <a href="https://www.linkedin.com/in/neilitalia/"> Neil Italia <br> :philippines: </a> | User Interface Developer @ Lennox International | UI <br> :paintbrush:
