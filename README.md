@@ -378,7 +378,7 @@
 
   ### If you found this tutorial helpful, please consider giving it a :star:
 
-  Copyright :copyright: 2021-2022 <br> Pan You Can
+  Copyright :copyright: 2021-2022
 
   ## More Tutorials from Amar Panjwani
 
