@@ -345,14 +345,14 @@
 
   | Designer | Project | School | Location | Date
   |:--------:|:-------:|:------:|:--------:|:---:
-  | [Nisha Yadav](https://www.linkedin.com/in/nisha-yadav09/) <br> :india: | [Minesweeper](https://github.com/nisha-yadav09/minesweeper) | General Assembly | Denver, Colorado, USA | Apr '22 
+  | [Nisha Yadav](https://www.linkedin.com/in/nisha-yadav09/) <br> | [Minesweeper](https://github.com/nisha-yadav09/minesweeper) | General Assembly | Denver, Colorado, USA | Apr '22 
   | [Ronald Portalatin Jr.](https://www.linkedin.com/in/ronaldportalatinjr/) | [Blackjack](https://github.com/coltonsaywhatt/GA-Blackjack-Project) | General Assembly | Lakeland, Florida, USA | Apr '22 
   | [Jordan-Christopher Garcia](https://www.linkedin.com/in/jctgarcia20/) | [Shoe Collector](https://github.com/jctgarcia20/shoe-collector) | General Assembly | Seattle, Washington, USA | May '22 
   | [Stevie Militello](https://www.linkedin.com/in/stevie-militello/) | [Tavern Brawl](https://github.com/steviemilitello/tavern-brawl) | General Assembly | Boston, Massachusetts, USA | May '22 
-  | [Dani Diaz](https://www.linkedin.com/in/danidiaz8/) <br> :peru: | [Dino Amigo](https://github.com/dani-diaz/dino-amigo2) | General Assembly | San Francisco, California, USA | Jun '22
+  | [Dani Diaz](https://www.linkedin.com/in/danidiaz8/) <br> | [Dino Amigo](https://github.com/dani-diaz/dino-amigo2) | General Assembly | San Francisco, California, USA | Jun '22
   | [Illerdon Ballinger](https://www.linkedin.com/in/ilerdon-ballinger/) | [Turbo Disco](https://github.com/iballinger/turbo-octo-disco) | General Assembly | San Francisco, California, USA | Jun '22 
   | [Joseph Caputo](https://www.linkedin.com/in/josephcaputo44/) | [Vinyl Stash](https://github.com/jcaputo44/vinyl-stash) | General Assembly | San Diego, California, USA | Jun '22 
-  | [Maroof Khan](https://www.linkedin.com/in/maroofkhn/) <br> :india: | [Crypto Sniffer](https://github.com/MaroofKhan1/CryptoSniffer) | General Assembly | Minneapolis, Minnesota, USA | Jun '22 
+  | [Maroof Khan](https://www.linkedin.com/in/maroofkhn/) <br> | [Crypto Sniffer](https://github.com/MaroofKhan1/CryptoSniffer) | General Assembly | Minneapolis, Minnesota, USA | Jun '22 
   | [Matthew Suzuki](https://www.linkedin.com/in/mattsuzuki/) | [Community Market](https://github.com/mattsuzuki/community-market) | General Assembly | Los Angeles, California, USA | Jun '22 
   | [Parker Samuels](https://www.linkedin.com/in/parkersamuels/) | [Checkers](https://github.com/prkrsamuels7/checkers) | General Assembly | Detroit, Michigan, USA | Jun '22 
   | [Roger Davila](https://www.linkedin.com/in/roger-davila/) | [Solitaire](https://github.com/Toastito/solitaire) | General Assembly | San Francisco, California, USA | Jun '22 
@@ -368,13 +368,13 @@
  
   |  Name | Title | Contribution |
   |:------|:-----:|:------------:|
-  | <a href="https://www.linkedin.com/in/jimclarkfullstack/"> Jim Clarke <br> :goat: </a> | Distinguished Global Lead Instructor @ General Assembly | Teaching <br> :man_teacher:
-  | <a href="https://www.linkedin.com/in/amarpan"> Amar Pan, M.Ed. <br> :india: </a> | Sr. Instructional Associate @ General Assembly <br><br> Technical Writer @ <a href="https://www.linode.com/docs/guides/"> Linode </a>  <br><br> House Pan Founder | Writing <br> :pencil:
-  | <a href="https://www.linkedin.com/in/skimalee/"> Stephanie Lee, M.Ed. <br> 🇰🇷 </a> | Sr. Instructional Associate @ General Assembly <br><br> House Lee Founder | Support <br> :woman_teacher:
-  | <a href="https://www.linkedin.com/in/mariorrecinos/"> Mario Recinos <br> :guatemala: </a> | Sr. Instructional Associate @ General Assembly <br><br> Coach @ <a href="https://www.careerkarma.com"> Career Karma </a> <br><br> House Rec Founder | Outreach <br> :teacher:
-  | <a href="https://www.linkedin.com/in/neilitalia/"> Neil Italia <br> :philippines: </a> | User Interface Developer @ Lennox International | UI <br> :paintbrush:
-  | <a href="https://www.linkedin.com/in/olivia-emery/"> Olivia Emery <br> :crown: </a> | Technical Writer @ Google | Editing <br> :pen:
-  | <a href="https://www.linkedin.com/in/isaac-ferraro/"> Isaac Ferraro <br> :beetle: </a> | Front-End Developer @ Helium | QA <br> :ballot_box_with_check:
+  | <a href="https://www.linkedin.com/in/jimclarkfullstack/"> Jim Clarke <br> </a> | Distinguished Global Lead Instructor @ General Assembly | Teaching <br> :man_teacher:
+  | <a href="https://www.linkedin.com/in/amarpan"> Amar Pan, M.Ed. <br></a> | Sr. Instructional Associate @ General Assembly <br><br> Technical Writer @ <a href="https://www.linode.com/docs/guides/"> Linode </a>  <br><br> House Pan Founder | Writing <br> :pencil:
+  | <a href="https://www.linkedin.com/in/skimalee/"> Stephanie Lee, M.Ed. <br> </a> | Sr. Instructional Associate @ General Assembly <br><br> House Lee Founder | Support <br> :woman_teacher:
+  | <a href="https://www.linkedin.com/in/mariorrecinos/"> Mario Recinos <br> </a> | Sr. Instructional Associate @ General Assembly <br><br> Coach @ <a href="https://www.careerkarma.com"> Career Karma </a> <br><br> House Rec Founder | Outreach <br> :teacher:
+  | <a href="https://www.linkedin.com/in/neilitalia/"> Neil Italia <br> </a> | User Interface Developer @ Lennox International | UI <br> :paintbrush:
+  | <a href="https://www.linkedin.com/in/olivia-emery/"> Olivia Emery <br> </a> | Technical Writer @ Google | Editing <br> :pen:
+  | <a href="https://www.linkedin.com/in/isaac-ferraro/"> Isaac Ferraro <br> </a> | Front-End Developer @ Helium | QA <br> :ballot_box_with_check:
 
   ### If you found this tutorial helpful, please consider giving it a :star:
 
