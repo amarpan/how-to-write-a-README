@@ -1,6 +1,6 @@
 <section id="header">
   <div align="center" id="header">
-  
+
   # How to Write a README
 
   **Written by [Amar Panjwani](https://www.linkedin.com/in/amarpan/)**
@@ -365,9 +365,9 @@
   |  Name | Title | Contribution |
   |:------|:-----:|:------------:|
   | <a href="https://www.linkedin.com/in/jimclarkfullstack/"> Jim Clarke <br> </a> | Distinguished Global Lead Instructor @ General Assembly | Teaching <br> :man_teacher:
-  | <a href="https://www.linkedin.com/in/amarpan"> Amar Pan, M.Ed. <br></a> | Sr. Instructional Associate @ General Assembly <br><br> Technical Writer @ <a href="https://www.linode.com/docs/guides/"> Linode </a>  <br><br> House Pan Founder | Writing <br> :pencil:
-  | <a href="https://www.linkedin.com/in/skimalee/"> Stephanie Lee, M.Ed. <br> </a> | Sr. Instructional Associate @ General Assembly <br><br> House Lee Founder | Support <br> :woman_teacher:
-  | <a href="https://www.linkedin.com/in/mariorrecinos/"> Mario Recinos <br> </a> | Sr. Instructional Associate @ General Assembly <br><br> Coach @ <a href="https://www.careerkarma.com"> Career Karma </a> <br><br> House Rec Founder | Outreach <br> :teacher:
+  | <a href="https://www.linkedin.com/in/amarpan"> Amar Pan, M.Ed. <br></a> | Instructional Associate @ General Assembly <br><br> Technical Writer @ <a href="https://www.linode.com/docs/guides/"> Linode </a>  <br><br> House Pan Founder | Writing <br> :pencil:
+  | <a href="https://www.linkedin.com/in/skimalee/"> Stephanie Lee, M.Ed. <br> </a> | Instructional Associate @ General Assembly <br><br> House Lee Founder | Support <br> :woman_teacher:
+  | <a href="https://www.linkedin.com/in/mariorrecinos/"> Mario Recinos <br> </a> | Instructional Associate @ General Assembly <br><br> Coach @ <a href="https://www.careerkarma.com"> Career Karma </a> <br><br> House Rec Founder | Outreach <br> :teacher:
   | <a href="https://www.linkedin.com/in/neilitalia/"> Neil Italia <br> </a> | User Interface Developer @ Lennox International | UI <br> :paintbrush:
   | <a href="https://www.linkedin.com/in/olivia-emery/"> Olivia Emery <br> </a> | Technical Writer @ Google | Editing <br> :pen:
   | <a href="https://www.linkedin.com/in/isaac-ferraro/"> Isaac Ferraro <br> </a> | Front-End Developer @ Helium | QA <br> :ballot_box_with_check:
@@ -380,7 +380,7 @@
 
   [How to Create a GitHub Profile](https://github.com/amarpan/how-to-create-a-github-profile)
 
-  [How to Change Themes in Z Shell](https://github.com/amarpan/how-to-change-themes-in-zshell)
+  [How to Change Themes in Z Shell](https://github.com/amarpan/how-to-install-and-configure-zshell)
 
   [How to Use the Vim Text Editor in the Terminal](https://github.com/amarpan/how-to-use-the-vim-text-editor)
 
