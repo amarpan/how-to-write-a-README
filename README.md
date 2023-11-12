@@ -19,8 +19,8 @@
   [![LinkedIn Badge](https://img.shields.io/badge/-@amarpan-blue?style=flat&logo=Linkedin&logoColor=black)](https://www.linkedin.com/in/amarpan/)
   <br>
   ![Stars](https://img.shields.io/github/stars/amarpan/how-to-write-a-readme?style=social)
-  ![](https://visitor-badge.laobi.icu/badge?page_id=profpan396.how-to-write-a-readme)
-  ![Forks](https://img.shields.io/github/forks/profpan396/how-to-write-a-readme?style=social)
+  ![](https://visitor-badge.laobi.icu/badge?page_id=amarpan.how-to-write-a-readme)
+  ![Forks](https://img.shields.io/github/forks/amarpan/how-to-write-a-readme?style=social)
   <br>
   ![Version](https://img.shields.io/badge/version-2.0-gold)
 
