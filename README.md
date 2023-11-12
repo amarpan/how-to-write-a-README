@@ -9,7 +9,7 @@
 
   **Written by [Amar Pan](https://www.linkedin.com/in/amarpan/)**
   <br>
-  Sr. Instructional Associate
+  Instructional Associate
   </div>
   
   <div align="center" id="socialbuttons">
